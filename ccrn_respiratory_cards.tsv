@@ -1,0 +1,586 @@
+Question	Answer	Tags
+"Question:
+What is ventilation?"	"Answer:
+Movement of air in and out to maintain O2 and CO2 concentrations"	ccrn::respiratory ventilation
+"Question:
+What is primary control of ventilation?"	"Answer:
+Central control (brain stem) senses blood pH"	ccrn::respiratory ventilation
+"Question:
+What stimulates ventilation?"	"Answer:
+Decreased pH (acidosis)"	ccrn::respiratory ventilation
+"Question:
+What is secondary control of ventilation?"	"Answer:
+Peripheral control (aortic arch) senses PaO2"	ccrn::respiratory ventilation
+"Question:
+What stimulates peripheral ventilation control?"	"Answer:
+Decreased PaO2 (hypoxemia)"	ccrn::respiratory ventilation pe abg
+"Question:
+What do chronic PaCO2 retainers rely on?"	"Answer:
+Mild hypoxemia for ventilator drive"	ccrn::respiratory ventilation vent_modes
+"Question:
+What is clinical indicator of ventilation?"	"Answer:
+PaCO2 (NOT PaO2)"	ccrn::respiratory ventilation
+"Question:
+What is minute ventilation?"	"Answer:
+Tidal volume × respiratory rate"	ccrn::respiratory ventilation
+"Question:
+What is normal minute ventilation?"	"Answer:
+~4 L/minute"	ccrn::respiratory ventilation
+"Question:
+What does increased minute ventilation indicate?"	"Answer:
+Increased work of breathing"	ccrn::respiratory ventilation
+"Question:
+What is primary muscle of ventilation?"	"Answer:
+Diaphragm"	ccrn::respiratory ventilation
+"Question:
+What affects diaphragm function?"	"Answer:
+Deconditioning, hypoxemia, acidosis, hypophosphatemia"	ccrn::respiratory ventilation abg
+"Question:
+What is optimal position for ventilation?"	"Answer:
+Upright sitting position"	ccrn::respiratory ventilation
+"Question:
+What is worst position for respiratory distress?"	"Answer:
+Supine (flat on back)"	ccrn::respiratory
+"Question:
+What is dead space ventilation?"	"Answer:
+Volume of air that does not participate in gas exchange"	ccrn::respiratory ventilation pe vent_modes
+"Question:
+What is anatomic dead space?"	"Answer:
+~2 mL/kg Vt; nose down to alveoli"	ccrn::respiratory pe vent_modes
+"Question:
+What is alveolar dead space?"	"Answer:
+Pathologic, non-perfused alveoli (e.g., PE)"	ccrn::respiratory pe vent_modes
+"Question:
+What is physiological dead space?"	"Answer:
+Anatomic dead space + alveolar dead space"	ccrn::respiratory pe abg vent_modes
+"Question:
+What increases alveolar dead space?"	"Answer:
+Pulmonary embolus"	ccrn::respiratory pe vent_modes
+"Question:
+What is pulmonary perfusion?"	"Answer:
+Movement of blood through pulmonary capillaries"	ccrn::respiratory pe perfusion
+"Question:
+What is normal V/Q ratio?"	"Answer:
+0.8 (ideal lung unit)"	ccrn::respiratory perfusion
+"Question:
+What decreases pulmonary perfusion?"	"Answer:
+PE, low cardiac output"	ccrn::respiratory pe perfusion
+"Question:
+What is clinical implication of gravity on perfusion?"	"Answer:
+Good lung down"	ccrn::respiratory pe perfusion
+"Question:
+Why avoid turning patient to bad lung?"	"Answer:
+More blood goes to bad lung, may worsen hypoxemia"	ccrn::respiratory
+"Question:
+What explains improved oxygenation with prone positioning?"	"Answer:
+Perfusion of under-perfused anterior chest alveoli"	ccrn::respiratory oxygenation
+"Question:
+What happens with normal V/Q ratio?"	"Answer:
+Normal gas exchange on room air"	ccrn::respiratory pe perfusion pneumonia
+"Question:
+What is V/Q mismatch?"	"Answer:
+Problem with ventilation or perfusion causing hypoxemia"	ccrn::respiratory perfusion
+"Question:
+How to treat V/Q mismatch?"	"Answer:
+Give O2, identify and treat underlying problem"	ccrn::respiratory perfusion
+"Question:
+What is a shunt?"	"Answer:
+Extreme V/Q mismatch; 100% FiO2 does NOT correct hypoxemia"	ccrn::respiratory perfusion
+"Question:
+What is pathologic shunt?"	"Answer:
+ARDS; blood goes through lungs but does NOT get oxygenated"	ccrn::respiratory perfusion
+"Question:
+What is treatment for shunt?"	"Answer:
+Oxygen AND PEEP"	ccrn::respiratory perfusion
+"Question:
+What does PEEP do?"	"Answer:
+Decreases surface tension, increases alveolar recruitment, increases driving pressure"	ccrn::respiratory pe vent_modes
+"Question:
+What is required for adequate oxygenation?"	"Answer:
+Adequate ventilation, O2 transfer, hemoglobin, cardiac output, O2 release, cell O2 utilization"	ccrn::respiratory oxygenation
+"Question:
+What happens without sufficient oxygen at cellular level?"	"Answer:
+Lactic acidosis (anaerobic metabolism)"	ccrn::respiratory pe oxygenation pneumonia
+"Question:
+What is goal SpO2 for critically ill?"	"Answer:
+≥ 90%"	ccrn::respiratory oxygenation
+"Question:
+What PaO2 correlates with SpO2 < 90%?"	"Answer:
+< 60 mmHg"	ccrn::respiratory oxygenation
+"Question:
+What shifts oxyhemoglobin curve to LEFT?"	"Answer:
+Hemoglobin holds onto O2; alkalosis, hypothermia, decreased 2,3-DPG"	ccrn::respiratory oxyhemoglobin
+"Question:
+What shifts oxyhemoglobin curve to RIGHT?"	"Answer:
+Hemoglobin releases O2; acidosis, fever, increased 2,3-DPG"	ccrn::respiratory oxyhemoglobin
+"Question:
+What is 2,3-DPG?"	"Answer:
+Organic phosphate in RBCs that alters Hgb affinity for O2"	ccrn::respiratory oxyhemoglobin
+"Question:
+What does decreased 2,3-DPG cause?"	"Answer:
+Hemoglobin holds onto O2"	ccrn::respiratory oxyhemoglobin
+"Question:
+What does increased 2,3-DPG cause?"	"Answer:
+Hemoglobin releases O2 more readily"	ccrn::respiratory oxyhemoglobin
+"Question:
+What is CO affinity for Hgb vs O2?"	"Answer:
+~230 times greater"	ccrn::respiratory
+"Question:
+Why not use pulse oximetry for CO poisoning?"	"Answer:
+Cannot differentiate between CO and O2"	ccrn::respiratory co_poisoning
+"Question:
+What is treatment for CO poisoning?"	"Answer:
+100% FiO2 until symptoms resolve and COHb < 10%"	ccrn::respiratory co_poisoning
+"Question:
+When to use hyperbaric oxygen for CO?"	"Answer:
+If available within 30 minutes"	ccrn::respiratory pe oxygenation
+"Question:
+What is compliance?"	"Answer:
+Degree of elasticity of tissue"	ccrn::respiratory compliance
+"Question:
+What does decreased compliance cause?"	"Answer:
+Increased resistance or stiffness"	ccrn::respiratory compliance
+"Question:
+What is static compliance?"	"Answer:
+Elastic properties of lung"	ccrn::respiratory compliance
+"Question:
+What is dynamic compliance?"	"Answer:
+Elastic properties of airways"	ccrn::respiratory compliance
+"Question:
+What is normal compliance?"	"Answer:
+~45-50 mL/cm H2O"	ccrn::respiratory compliance
+"Question:
+What compliance is affected in asthma?"	"Answer:
+Dynamic compliance decreased; static normal"	ccrn::respiratory compliance asthma
+"Question:
+What compliance is affected in ARDS?"	"Answer:
+Static and dynamic compliance both decreased"	ccrn::respiratory compliance ards
+"Question:
+What does decreased compliance do to work of breathing?"	"Answer:
+Increases work of breathing"	ccrn::respiratory compliance
+"Question:
+What does pH represent?"	"Answer:
+Hydrogen ion (H+) concentration"	ccrn::respiratory abg
+"Question:
+What is relationship between H+ and pH?"	"Answer:
+Inverse; increased H+ = decreased pH"	ccrn::respiratory abg
+"Question:
+What is PaCO2?"	"Answer:
+Acid; respiratory parameter controlled by lungs"	ccrn::respiratory ventilation vent_modes
+"Question:
+How quickly can lungs change PaCO2?"	"Answer:
+Within minutes (rapid)"	ccrn::respiratory ventilation vent_modes
+"Question:
+What is HCO3?"	"Answer:
+Base; metabolic parameter controlled by kidneys"	ccrn::respiratory abg
+"Question:
+How quickly can kidneys change HCO3?"	"Answer:
+Hours to days (slow)"	ccrn::respiratory abg
+"Question:
+What is normal pH?"	"Answer:
+7.35-7.45"	ccrn::respiratory abg
+"Question:
+What is normal PaCO2?"	"Answer:
+35-45 mmHg"	ccrn::respiratory ventilation vent_modes
+"Question:
+What is normal HCO3?"	"Answer:
+22-26 mEq/L"	ccrn::respiratory abg
+"Question:
+What is respiratory acidosis?"	"Answer:
+pH < 7.35, PaCO2 > 45"	ccrn::respiratory abg vent_modes
+"Question:
+What is respiratory alkalosis?"	"Answer:
+pH > 7.45, PaCO2 < 35"	ccrn::respiratory abg
+"Question:
+What is metabolic acidosis?"	"Answer:
+pH < 7.35, HCO3 < 22"	ccrn::respiratory abg vent_modes
+"Question:
+What is metabolic alkalosis?"	"Answer:
+pH > 7.45, HCO3 > 26"	ccrn::respiratory abg
+"Question:
+What is normal anion gap?"	"Answer:
+5-15 mEq/L"	ccrn::respiratory abg
+"Question:
+What does anion gap help determine?"	"Answer:
+Cause of and response to treatment for metabolic acidosis"	ccrn::respiratory abg
+"Question:
+What is acute respiratory failure?"	"Answer:
+PaO2 ≤ 60 mmHg with or without PaCO2 ≥ 50 mmHg with pH < 7.30"	ccrn::respiratory resp_failure vent_modes
+"Question:
+What is Type 1 respiratory failure?"	"Answer:
+Hypoxemic (e.g., ARDS, pneumonia, PE)"	ccrn::respiratory pe resp_failure
+"Question:
+What is Type 2 respiratory failure?"	"Answer:
+Hypercapnic (e.g., COPD, CNS depression, sleep apnea)"	ccrn::respiratory pe resp_failure
+"Question:
+What is Type 3 respiratory failure?"	"Answer:
+Both hypoxemic and hypercapnic (e.g., late ARDS, late COPD)"	ccrn::respiratory pe resp_failure
+"Question:
+What are signs of hypoxemic respiratory failure?"	"Answer:
+Tachypnea, adventitious breath sounds, accessory muscle use, tachyarrhythmias, cyanosis, anxiety"	ccrn::respiratory resp_failure
+"Question:
+What are signs of hypercapnic respiratory failure?"	"Answer:
+Shallow breathing, bradypnea, decreased LOC"	ccrn::respiratory pe resp_failure pneumonia
+"Question:
+What is treatment for acute respiratory failure?"	"Answer:
+Maintain airway, improve ventilation, optimize oxygenation, optimize circulation, identify etiology"	ccrn::respiratory resp_failure vent_modes
+"Question:
+What FiO2 goal in acute respiratory failure?"	"Answer:
+SaO2 > 0.90"	ccrn::respiratory resp_failure vent_modes
+"Question:
+When to decrease FiO2?"	"Answer:
+To ≤ 0.50 ASAP"	ccrn::respiratory
+"Question:
+What is CPAP?"	"Answer:
+Continuous positive airway pressure"	ccrn::respiratory niv
+"Question:
+What is CPAP indicated for?"	"Answer:
+Hypoxemic respiratory failure with increased work of breathing"	ccrn::respiratory niv
+"Question:
+What are CPAP settings?"	"Answer:
+FiO2 and 1 pressure setting"	ccrn::respiratory niv vents
+"Question:
+What is BiPAP?"	"Answer:
+Bilevel positive airway pressure"	ccrn::respiratory niv
+"Question:
+What is BiPAP indicated for?"	"Answer:
+Hypoxemic and/or hypercapnic respiratory failure"	ccrn::respiratory niv
+"Question:
+What are BiPAP settings?"	"Answer:
+FiO2, IPAP, and EPAP"	ccrn::respiratory niv vents
+"Question:
+What does IPAP assist?"	"Answer:
+Ventilation"	ccrn::respiratory niv
+"Question:
+What does EPAP assist?"	"Answer:
+Oxygenation"	ccrn::respiratory niv
+"Question:
+What are contraindications for NIV?"	"Answer:
+Hemodynamic instability, copious secretions, high aspiration risk, impaired mental status, suspected pneumothorax, inability to cooperate, life-threatening refractory hypoxemia"	ccrn::respiratory niv
+"Question:
+What is HFNC?"	"Answer:
+High-flow nasal cannula oxygen therapy"	ccrn::respiratory hfnc
+"Question:
+What can HFNC deliver?"	"Answer:
+FiO2 up to 100% at flow rates up to 60 L/min"	ccrn::respiratory hfnc
+"Question:
+What are advantages of HFNC?"	"Answer:
+High FiO2, heated/humidified, meets high flow demands, decreases dead space"	ccrn::respiratory hfnc
+"Question:
+What are limitations of HFNC?"	"Answer:
+Cannot deliver higher airway pressures, limited pressure support for hypercapnia"	ccrn::respiratory hfnc
+"Question:
+What does COPD include?"	"Answer:
+Emphysema, asthma, bronchitis"	ccrn::respiratory copd
+"Question:
+What is easier in COPD?"	"Answer:
+Inspiration easier than exhalation"	ccrn::respiratory copd
+"Question:
+What are consequences of COPD?"	"Answer:
+Dynamic hyperinflation, air trapping, auto-PEEP, low expiratory flow rates"	ccrn::respiratory copd
+"Question:
+What causes V/Q mismatch in COPD?"	"Answer:
+Problem with ventilation, increased PaCO2"	ccrn::respiratory perfusion copd
+"Question:
+What is cor pulmonale?"	"Answer:
+Right ventricular enlargement from COPD"	ccrn::respiratory copd pulm_htn
+"Question:
+What are signs of acute COPD exacerbation?"	"Answer:
+Worsening dyspnea, increased sputum purulence/volume, hypercapnia, hypoxemia"	ccrn::respiratory copd vent_modes
+"Question:
+What is treatment for acute COPD exacerbation?"	"Answer:
+Titrate FiO2 to SaO2 > 90%, bronchodilators, corticosteroids, antibiotics if pneumonia, NIV or intubation if needed"	ccrn::respiratory copd vent_modes
+"Question:
+What is status asthmaticus?"	"Answer:
+Severe airway narrowing refractory to aggressive bronchodilator therapy"	ccrn::respiratory asthma
+"Question:
+What are signs of status asthmaticus?"	"Answer:
+Dyspnea, tachypnea, accessory muscle use, wheezing → decreased → absent breath sounds, pulsus paradoxus ≥ 15 mmHg"	ccrn::respiratory asthma
+"Question:
+What is ominous sign in status asthmaticus?"	"Answer:
+Absent breath sounds (silent chest)"	ccrn::respiratory asthma
+"Question:
+What is normal peak flow rate?"	"Answer:
+> 80% of predicted"	ccrn::respiratory pe asthma
+"Question:
+What peak flow rate is severe?"	"Answer:
+< 50%"	ccrn::respiratory pe asthma
+"Question:
+When to admit to ICU for asthma?"	"Answer:
+Peak flow rate < 50%"	ccrn::respiratory asthma
+"Question:
+What is treatment for status asthmaticus?"	"Answer:
+Short-acting beta-2 agonists, anticholinergics, systemic corticosteroids, O2, hydration, avoid sedation"	ccrn::respiratory asthma
+"Question:
+When to intubate for status asthmaticus?"	"Answer:
+Respiratory acidosis, severe hypoxemia, silent chest, decreased LOC"	ccrn::respiratory asthma
+"Question:
+What ventilator settings for status asthmaticus?"	"Answer:
+Low rate, low tidal volumes, increased I:E ratio (> 1:3-4)"	ccrn::respiratory asthma vents
+"Question:
+Why avoid paralytics in status asthmaticus?"	"Answer:
+Combined with steroids increases neuropathy"	ccrn::respiratory asthma
+"Question:
+What is pulmonary embolism?"	"Answer:
+Partial or complete obstruction of pulmonary capillary bed by clot"	ccrn::respiratory pe
+"Question:
+What is massive PE?"	"Answer:
+> 50% occlusion"	ccrn::respiratory pe
+"Question:
+What is submassive PE?"	"Answer:
+< 50% occlusion"	ccrn::respiratory pe
+"Question:
+What percent of PE result from DVT?"	"Answer:
+80-90%"	ccrn::respiratory pe
+"Question:
+What does PE increase?"	"Answer:
+Alveolar dead space"	ccrn::respiratory pe
+"Question:
+What are signs/symptoms of PE?"	"Answer:
+Dyspnea, tachypnea, chest pain, tachycardia, hypoxemia, anxiety, hemoptysis"	ccrn::respiratory pe
+"Question:
+What is gold standard for PE diagnosis?"	"Answer:
+Pulmonary angiography"	ccrn::respiratory pe
+"Question:
+What is D-dimer?"	"Answer:
+Good rule-out test; positive means clot present in body"	ccrn::respiratory
+"Question:
+What prevents PE?"	"Answer:
+Early mobilization, SCDs, anticoagulation (heparin, enoxaparin)"	ccrn::respiratory pe
+"Question:
+What is treatment for PE?"	"Answer:
+Maintain airway/ventilation/oxygenation, fluids, anticoagulation (heparin, LMWH, Coumadin)"	ccrn::respiratory pe
+"Question:
+When to use fibrinolytic therapy for PE?"	"Answer:
+Hemodynamic compromise with low bleeding risk"	ccrn::respiratory pe
+"Question:
+What is pulmonary hypertension?"	"Answer:
+Mean PA pressure > 25 mmHg at rest with PAOP < 16 mmHg"	ccrn::respiratory pe pulm_htn pleural_space
+"Question:
+What is normal mean PA pressure?"	"Answer:
+~20 mmHg"	ccrn::respiratory pulm_htn
+"Question:
+What does PH cause?"	"Answer:
+Cor pulmonale and right ventricular failure"	ccrn::respiratory abg
+"Question:
+What are signs/symptoms of PH?"	"Answer:
+Exertional dyspnea, lethargy, fatigue, RV failure, chest pain, syncope, peripheral edema"	ccrn::respiratory abg
+"Question:
+What is treatment for PH?"	"Answer:
+Treat underlying cause, diuretics, oxygen, anticoagulants, digoxin, dilators"	ccrn::respiratory abg
+"Question:
+What dilators for PH?"	"Answer:
+Calcium channel blockers, phosphodiesterase-5 inhibitors (sildenafil, tadalafil)"	ccrn::respiratory abg meds
+"Question:
+What is pneumonia?"	"Answer:
+Acute inflammation of lung parenchyma from infectious agent"	ccrn::respiratory pneumonia
+"Question:
+What causes pneumonia?"	"Answer:
+Bacterial, viral, fungal, parasitic"	ccrn::respiratory pneumonia
+"Question:
+What is community-acquired pneumonia?"	"Answer:
+Outside hospital; common pathogen: Streptococcus pneumoniae"	ccrn::respiratory pneumonia vent_modes
+"Question:
+What is hospital-acquired pneumonia?"	"Answer:
+≥ 48 hours after admission; common pathogen: Pseudomonas aeruginosa"	ccrn::respiratory pneumonia vent_modes
+"Question:
+What is ventilator-associated pneumonia?"	"Answer:
+≥ 48 hours after intubation"	ccrn::respiratory pneumonia vents
+"Question:
+What are risk factors for pneumonia?"	"Answer:
+Age, COPD, smoking, decreased LOC, artificial airways, chronic illness, malnutrition, immunocompromised"	ccrn::respiratory pneumonia vent_modes
+"Question:
+What are signs/symptoms of pneumonia?"	"Answer:
+Fever, chills, productive cough, tachycardia, chest pain, confusion, accessory muscle use"	ccrn::respiratory pneumonia
+"Question:
+What are auscultation findings over pneumonia consolidation?"	"Answer:
+Increased tactile fremitus, dull to percussion, bronchial breath sounds, bronchophony, egophony, whispered pectoriloquy"	ccrn::respiratory pneumonia
+"Question:
+What is treatment for pneumonia?"	"Answer:
+Optimize oxygenation/ventilation, position GOOD lung DOWN, bronchial hygiene, identify organism, antibiotic therapy"	ccrn::respiratory pneumonia
+"Question:
+When to give first antibiotic dose for pneumonia?"	"Answer:
+Within 4 hours if presenting to ED"	ccrn::respiratory pneumonia
+"Question:
+What prevents hospital-acquired pneumonia?"	"Answer:
+Hand hygiene, HOB ≥ 30°, feed patient, oral hygiene"	ccrn::respiratory pneumonia vent_modes
+"Question:
+What prevents VAP?"	"Answer:
+All HAP prevention PLUS drain condensate, change tubing when contaminated, mobilize, aseptic suctioning, chlorhexidine mouth rinse, brush teeth, keep ETT cuff inflated"	ccrn::respiratory pneumonia
+"Question:
+What is aspiration?"	"Answer:
+Inhalation of toxic substances into lung with injury"	ccrn::respiratory aspiration
+"Question:
+What is most common type of aspiration?"	"Answer:
+Oropharyngeal"	ccrn::respiratory pe aspiration
+"Question:
+Where do most aspirations occur?"	"Answer:
+RIGHT lung (due to anatomy)"	ccrn::respiratory aspiration
+"Question:
+What are causes of aspiration?"	"Answer:
+Altered LOC, drug/alcohol abuse, depressed gag/cough/swallow, feeding tubes, improper positioning, artificial airways"	ccrn::respiratory aspiration
+"Question:
+What are signs of aspiration?"	"Answer:
+Acute respiratory distress, gastric contents in oropharynx, tachycardia, hypoxemia, crackles, copious secretions, hypotension"	ccrn::respiratory aspiration
+"Question:
+What is ARDS?"	"Answer:
+Inflammatory response causing increased pulmonary capillary permeability with proteinaceous fluid in alveoli"	ccrn::respiratory ards
+"Question:
+What is ARDS also called?"	"Answer:
+Noncardiogenic pulmonary edema"	ccrn::respiratory ards
+"Question:
+What cells are damaged in ARDS?"	"Answer:
+Type II alveolar cells (produce surfactant)"	ccrn::respiratory ards
+"Question:
+What does surfactant do?"	"Answer:
+Stabilizes alveoli, keeps them open, increases compliance, eases work of breathing"	ccrn::respiratory ards vent_modes
+"Question:
+What happens without surfactant?"	"Answer:
+Massive atelectasis, decreased compliance, increased work of breathing, decreased FRC"	ccrn::respiratory pe pneumonia ards vent_modes
+"Question:
+What is ARDS criteria?"	"Answer:
+Bilateral infiltrates, PAOP < 18, refractory hypoxemia, PaO2/FiO2 < 200"	ccrn::respiratory ards
+"Question:
+What is ALI criteria?"	"Answer:
+Same as ARDS but PaO2/FiO2 200-300"	ccrn::respiratory ards
+"Question:
+What are ARDS etiologies?"	"Answer:
+Sepsis, aspiration, pneumonia, trauma, pancreatitis, shock, near-drowning, drug overdose, massive transfusion"	ccrn::respiratory ards
+"Question:
+What are signs/symptoms of ARDS?"	"Answer:
+Severe dyspnea, tachypnea, refractory hypoxemia, decreased compliance, crackles, cyanosis"	ccrn::respiratory ards
+"Question:
+What is treatment for ARDS?"	"Answer:
+Intubation, mechanical ventilation, PEEP ≥ 15, limit plateau pressure ≤ 30, limit Vt 5-6 mL/kg, prone positioning, support BP, DVT prophylaxis, stress ulcer prophylaxis"	ccrn::respiratory ards
+"Question:
+What is permissive hypercapnia?"	"Answer:
+Low Vt causes rise in PaCO2, drop in pH; tolerate pH as low as 7.2 to prevent volutrauma"	ccrn::respiratory pe pneumonia ards
+"Question:
+What happens if ventilator disconnected in ARDS?"	"Answer:
+Alveolar derecruitment and hypoxemia that may not be readily corrected"	ccrn::respiratory pe pneumonia ards vents
+"Question:
+What is mortality from ARDS?"	"Answer:
+~30%"	ccrn::respiratory ards
+"Question:
+What do ARDS patients die from?"	"Answer:
+MODS, not hypoxemia"	ccrn::respiratory ards
+"Question:
+What are ARDS complications?"	"Answer:
+Secondary infections, PE, ileus, skin breakdown, malnutrition, barotrauma"	ccrn::respiratory ards
+"Question:
+Are steroids used for ARDS?"	"Answer:
+No (except select COVID-19 pneumonia)"	ccrn::respiratory ards
+"Question:
+What is pneumothorax?"	"Answer:
+Air in pleural space"	ccrn::respiratory pleural_space
+"Question:
+What are types of pneumothorax?"	"Answer:
+Spontaneous, traumatic (open/closed), iatrogenic, tension"	ccrn::respiratory pe pleural_space
+"Question:
+What is tension pneumothorax?"	"Answer:
+Air unable to exit → mediastinal shift → life-threatening"	ccrn::respiratory pleural_space
+"Question:
+What are signs of pneumothorax?"	"Answer:
+Sudden chest pain, dyspnea, tachypnea, decreased/absent breath sounds, hyperresonance, hypoxemia"	ccrn::respiratory pleural_space
+"Question:
+What are signs of tension pneumothorax?"	"Answer:
+Hypotension, tracheal deviation to opposite side, severe respiratory distress, JVD"	ccrn::respiratory pleural_space
+"Question:
+What is treatment for pneumothorax > 20%?"	"Answer:
+Chest tube, supplemental O2, pain treatment"	ccrn::respiratory pleural_space
+"Question:
+What is treatment for pneumothorax < 20%?"	"Answer:
+O2, monitor for lung reexpansion"	ccrn::respiratory pleural_space
+"Question:
+What should water seal chamber show?"	"Answer:
+Tidaling with deep inspiration (normal)"	ccrn::respiratory
+"Question:
+What does bubbling in water seal chamber indicate?"	"Answer:
+Air leak (NOT normal)"	ccrn::respiratory
+"Question:
+What determines suction amount in chest tube?"	"Answer:
+Gauge or water level, NOT wall suction source"	ccrn::respiratory pleural_space
+"Question:
+When to clamp chest tube?"	"Answer:
+Only when changing system, with disconnection, or with physician order"	ccrn::respiratory pleural_space
+"Question:
+Why not clamp chest tube routinely?"	"Answer:
+Cuts off negative pressure; lung may re-collapse"	ccrn::respiratory pleural_space
+"Question:
+How to confirm ETT placement?"	"Answer:
+Waveform capnography (most accurate), end-tidal CO2, auscultation"	ccrn::respiratory vents vent_modes
+"Question:
+What is ETT cuff pressure?"	"Answer:
+20 cm H2O"	ccrn::respiratory vents
+"Question:
+Where should ETT be on CXR?"	"Answer:
+3-5 cm above carina"	ccrn::respiratory vents
+"Question:
+Where does ETT migrate if it migrates?"	"Answer:
+Right lung (shorter, wider, less angle)"	ccrn::respiratory vents
+"Question:
+When to get ABGs after intubation?"	"Answer:
+Within 20-30 minutes"	ccrn::respiratory abg vents
+"Question:
+What is assist-control mode?"	"Answer:
+Patient receives set Vt at set rate; all patient-triggered breaths get set Vt"	ccrn::respiratory vent_modes
+"Question:
+What is SIMV mode?"	"Answer:
+Patient receives set Vt at set rate; breaths above set rate are spontaneous at patient's own Vt"	ccrn::respiratory vent_modes
+"Question:
+Is AC a weaning mode?"	"Answer:
+No (unless alternated with spontaneous breathing periods)"	ccrn::respiratory vent_modes weaning
+"Question:
+Is SIMV a weaning mode?"	"Answer:
+Yes (reducing rate allows patient to assume more work)"	ccrn::respiratory vent_modes weaning
+"Question:
+What is PSV?"	"Answer:
+Pressure support ventilation; increases airway pressure during inspiration to boost spontaneous Vt"	ccrn::respiratory vent_modes
+"Question:
+When is PSV triggered?"	"Answer:
+Patient-triggered (not if paralyzed/sedated)"	ccrn::respiratory vent_modes
+"Question:
+What is normal breath rate?"	"Answer:
+12-16 breaths/minute"	ccrn::respiratory
+"Question:
+What is normal tidal volume?"	"Answer:
+6-8 mL/kg"	ccrn::respiratory
+"Question:
+What is tidal volume for ARDS?"	"Answer:
+5-6 mL/kg (to prevent volutrauma)"	ccrn::respiratory ards
+"Question:
+What FiO2 on intubation?"	"Answer:
+100%, then adjust down to ≤ 50% ASAP"	ccrn::respiratory vents
+"Question:
+What causes high-pressure alarms?"	"Answer:
+Agitation, coughing, secretions, aspiration, kinked ETT, bronchospasm, decreasing compliance, pneumothorax"	ccrn::respiratory vent_alarms
+"Question:
+What causes low-pressure alarms?"	"Answer:
+Circuit disconnection/leak, inadequate Vt, cuff leak, chest tube leak"	ccrn::respiratory vent_alarms
+"Question:
+What to do if unable to troubleshoot alarm?"	"Answer:
+Disconnect ventilator, ventilate with bag/valve device"	ccrn::respiratory vent_alarms
+"Question:
+What ventilator settings for ARDS?"	"Answer:
+Low Vt (5-6 mL/kg), high PEEP (≥ 15), limit plateau pressure ≤ 30"	ccrn::respiratory ards vents
+"Question:
+What ventilator settings for asthma?"	"Answer:
+Low rate, low Vt, increased I:E ratio (> 1:3-4), no PEEP"	ccrn::respiratory asthma vents
+"Question:
+What are criteria for weaning?"	"Answer:
+Original reason resolved, minute ventilation < 10 L/min, spontaneous Vt > 5 mL/kg, NIF > -25 cm H2O, RSBI < 105, vital capacity > 10 mL/kg, ABGs acceptable on FiO2 ≤ 50%"	ccrn::respiratory weaning
+"Question:
+What are criteria to stop spontaneous breathing trial?"	"Answer:
+RR > 35 or < 8, SpO2 < 88%, respiratory distress, mental status change, cardiac arrhythmia, hypotension"	ccrn::respiratory weaning
+"Question:
+What is albuterol (Ventolin)?"	"Answer:
+Short-acting beta-2 agonist; bronchodilator; for asthma, COPD"	ccrn::respiratory meds
+"Question:
+What is ipratropium (Atrovent)?"	"Answer:
+Anticholinergic; bronchodilator; for asthma, COPD"	ccrn::respiratory meds
+"Question:
+What is sildenafil (Viagra)?"	"Answer:
+Phosphodiesterase-5 inhibitor; vasodilator; for pulmonary hypertension"	ccrn::respiratory meds
+"Question:
+What is tadalafil (Cialis)?"	"Answer:
+Phosphodiesterase-5 inhibitor; vasodilator; for pulmonary hypertension"	ccrn::respiratory ards meds
