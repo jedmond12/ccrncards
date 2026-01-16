@@ -1,0 +1,1030 @@
+Question	Answer	Tags
+"Question:
+What causes S1?"	"Answer:
+Closure of AV valves (mitral, tricuspid)"	ccrn::cardio heart_sounds
+"Question:
+Where is S1 loudest?"	"Answer:
+Apex (midclavicular, 5th ICS)"	ccrn::cardio heart_sounds
+"Question:
+What does S1 mark?"	"Answer:
+End of diastole, beginning of systole"	ccrn::cardio heart_sounds
+"Question:
+What causes S2?"	"Answer:
+Closure of semilunar valves (aortic, pulmonic)"	ccrn::cardio heart_sounds
+"Question:
+Where is S2 loudest?"	"Answer:
+Base (right sternal border, 2nd ICS)"	ccrn::cardio heart_sounds
+"Question:
+What does S2 mark?"	"Answer:
+End of systole, beginning of diastole"	ccrn::cardio heart_sounds
+"Question:
+What causes S2 splitting on inspiration?"	"Answer:
+Normal physiologic finding; wide fixed splitting indicates RBBB"	ccrn::cardio heart_sounds
+"Question:
+When is S2 louder?"	"Answer:
+Pulmonary embolism"	ccrn::cardio heart_sounds
+"Question:
+What is the aortic valve auscultatory point?"	"Answer:
+2nd ICS, right sternal border (base)"	ccrn::cardio heart_sounds valves
+"Question:
+What is the mitral valve auscultatory point?"	"Answer:
+5th ICS, midclavicular (apex)"	ccrn::cardio heart_sounds valves acs
+"Question:
+What causes S3?"	"Answer:
+Rapid rush of blood into dilated ventricle"	ccrn::cardio heart_sounds
+"Question:
+When does S3 occur?"	"Answer:
+Early diastole, right after S2"	ccrn::cardio heart_sounds
+"Question:
+Where is S3 best heard?"	"Answer:
+Apex with bell of stethoscope"	ccrn::cardio heart_sounds
+"Question:
+What is S3 associated with?"	"Answer:
+Heart failure"	ccrn::cardio heart_sounds
+"Question:
+What is the S3 mnemonic?"	"Answer:
+Ventricular gallop, 'Kentucky'"	ccrn::cardio heart_sounds
+"Question:
+What else causes S3?"	"Answer:
+Pulmonary HTN, cor pulmonale, mitral/aortic/tricuspid insufficiency"	ccrn::cardio heart_sounds
+"Question:
+What causes S4?"	"Answer:
+Atrial contraction into noncompliant ventricle"	ccrn::cardio heart_sounds
+"Question:
+When does S4 occur?"	"Answer:
+Right before S1"	ccrn::cardio heart_sounds
+"Question:
+Where is S4 best heard?"	"Answer:
+Apex with bell of stethoscope"	ccrn::cardio heart_sounds
+"Question:
+What is S4 associated with?"	"Answer:
+MI, ischemia, HTN, ventricular hypertrophy, aortic stenosis"	ccrn::cardio heart_sounds
+"Question:
+What is the S4 mnemonic?"	"Answer:
+Atrial gallop, 'Tennessee'"	ccrn::cardio heart_sounds
+"Question:
+Why is S4 not heard in atrial fibrillation?"	"Answer:
+No atrial contraction"	ccrn::cardio heart_sounds
+"Question:
+What causes a pericardial friction rub?"	"Answer:
+Pericarditis"	ccrn::cardio
+"Question:
+What is unique about pericardial friction rub pain?"	"Answer:
+Worse with deep inspiration; may be positional"	ccrn::cardio
+"Question:
+What is normal pulse pressure?"	"Answer:
+40-60 mmHg"	ccrn::cardio hemodynamics
+"Question:
+What does systolic BP indirectly measure?"	"Answer:
+Cardiac output and stroke volume"	ccrn::cardio hemodynamics hf
+"Question:
+What does narrowing pulse pressure indicate?"	"Answer:
+Severe hypovolemia or severe drop in CO"	ccrn::cardio hemodynamics
+"Question:
+What is an example of narrowed pulse pressure?"	"Answer:
+100/78"	ccrn::cardio hemodynamics
+"Question:
+What does diastolic BP indirectly measure?"	"Answer:
+Systemic vascular resistance (SVR)"	ccrn::cardio hemodynamics hf
+"Question:
+What does widened pulse pressure indicate?"	"Answer:
+Vasodilation, drop in SVR (seen in sepsis/septic shock)"	ccrn::cardio hemodynamics
+"Question:
+What is an example of widened pulse pressure?"	"Answer:
+100/38"	ccrn::cardio hemodynamics
+"Question:
+Which phase is longer, systole or diastole?"	"Answer:
+Diastole (one-third longer)"	ccrn::cardio
+"Question:
+When are coronary arteries perfused?"	"Answer:
+During diastole"	ccrn::cardio acs
+"Question:
+Why do CO and BP drop with extreme tachyarrhythmias?"	"Answer:
+No time for filling"	ccrn::cardio hemodynamics acs dysrhythmias
+"Question:
+What causes normal heart sounds S1 and S2?"	"Answer:
+Valve closure"	ccrn::cardio heart_sounds
+"Question:
+What determines valve opening and closing?"	"Answer:
+Pressure gradient across valve"	ccrn::cardio valves acs
+"Question:
+When does a valve open?"	"Answer:
+When pressure above > pressure below"	ccrn::cardio valves
+"Question:
+When does a valve close?"	"Answer:
+When pressure below > pressure above"	ccrn::cardio valves
+"Question:
+What is systole?"	"Answer:
+Ejection, high pressure"	ccrn::cardio
+"Question:
+What is diastole?"	"Answer:
+Filling, low pressure"	ccrn::cardio
+"Question:
+What are causes of valvular heart disease?"	"Answer:
+CAD, ischemia, MI, dilated cardiomyopathy, degeneration, bicuspid valve, rheumatic fever, infection, connective tissue disease"	ccrn::cardio
+"Question:
+When do murmurs of insufficiency occur?"	"Answer:
+When valve is closed"	ccrn::cardio heart_sounds valves
+"Question:
+When do murmurs of stenosis occur?"	"Answer:
+When valve is open"	ccrn::cardio heart_sounds valves
+"Question:
+Which valves are open during systole?"	"Answer:
+Semilunar valves (aortic, pulmonic)"	ccrn::cardio valves
+"Question:
+Which valves are closed during systole?"	"Answer:
+AV valves (mitral, tricuspid)"	ccrn::cardio valves
+"Question:
+What are systolic murmurs?"	"Answer:
+Aortic stenosis, pulmonic stenosis, mitral insufficiency, tricuspid insufficiency"	ccrn::cardio heart_sounds hemodynamics hf
+"Question:
+Is aortic stenosis acute or chronic?"	"Answer:
+Chronic (develops over time)"	ccrn::cardio valves
+"Question:
+What does mitral insufficiency cause on PA catheter?"	"Answer:
+Large V-waves on PAOP tracing"	ccrn::cardio valves acs
+"Question:
+Where is VSD murmur heard?"	"Answer:
+Left sternal border, 5th ICS"	ccrn::cardio heart_sounds
+"Question:
+Which valves are closed during diastole?"	"Answer:
+Semilunar valves (aortic, pulmonic)"	ccrn::cardio valves
+"Question:
+Which valves are open during diastole?"	"Answer:
+AV valves (mitral, tricuspid)"	ccrn::cardio valves
+"Question:
+What are diastolic murmurs?"	"Answer:
+Aortic insufficiency, pulmonic insufficiency, mitral stenosis, tricuspid stenosis"	ccrn::cardio heart_sounds hemodynamics hf
+"Question:
+What is mitral stenosis associated with?"	"Answer:
+Atrial fibrillation (due to atrial enlargement)"	ccrn::cardio valves acs
+"Question:
+When does mitral insufficiency murmur occur?"	"Answer:
+Systole (mitral valve closed)"	ccrn::cardio heart_sounds valves acs
+"Question:
+When does mitral stenosis murmur occur?"	"Answer:
+Diastole (mitral valve open)"	ccrn::cardio heart_sounds valves acs
+"Question:
+When does aortic insufficiency murmur occur?"	"Answer:
+Diastole (aortic valve closed)"	ccrn::cardio heart_sounds valves
+"Question:
+When does aortic stenosis murmur occur?"	"Answer:
+Systole (aortic valve open)"	ccrn::cardio heart_sounds valves
+"Question:
+When does VSD murmur occur?"	"Answer:
+Systole (ejection)"	ccrn::cardio heart_sounds
+"Question:
+What causes acute mitral valve regurgitation with MI?"	"Answer:
+Papillary muscle dysfunction or rupture"	ccrn::cardio valves acs
+"Question:
+Where is papillary muscle dysfunction murmur loudest?"	"Answer:
+Apex"	ccrn::cardio heart_sounds
+"Question:
+What grade is papillary muscle dysfunction?"	"Answer:
+Grade I or II"	ccrn::cardio
+"Question:
+What grade is papillary muscle rupture?"	"Answer:
+Grade V or VI"	ccrn::cardio
+"Question:
+Is papillary muscle rupture a surgical emergency?"	"Answer:
+Yes"	ccrn::cardio hypertension
+"Question:
+What are CAD risk factors?"	"Answer:
+HTN, diabetes, smoking, dyslipidemia, family history, age, obesity, sedentary lifestyle"	ccrn::cardio
+"Question:
+What is asymptomatic CAD?"	"Answer:
+Silent coronary disease"	ccrn::cardio
+"Question:
+What is stable angina?"	"Answer:
+Chest pain with activity, predictable, fixed calcified lesions"	ccrn::cardio acs
+"Question:
+What causes acute coronary syndrome?"	"Answer:
+Platelet-mediated thrombosis"	ccrn::cardio acs
+"Question:
+What are ACS types?"	"Answer:
+Unstable angina, NSTEMI, STEMI"	ccrn::cardio acs
+"Question:
+What is unstable angina?"	"Answer:
+Chest pain at rest, unpredictable, may respond to NTG, troponin negative, ST depression or T-wave inversion"	ccrn::cardio acs
+"Question:
+What is NSTEMI?"	"Answer:
+Troponin positive, ST depression, T-wave inversion, unrelenting chest pain"	ccrn::cardio acs
+"Question:
+What is STEMI?"	"Answer:
+Troponin positive, ST elevation in 2+ contiguous leads, unrelenting chest pain"	ccrn::cardio acs
+"Question:
+What is variant (Prinzmetal's) angina?"	"Answer:
+Unstable angina with transient ST elevation due to coronary artery spasm"	ccrn::cardio acs
+"Question:
+What causes Prinzmetal's angina?"	"Answer:
+Coronary spasm with/without atherosclerotic lesions"	ccrn::cardio acs
+"Question:
+When does Prinzmetal's angina occur?"	"Answer:
+At rest, may be cyclic (same time each day)"	ccrn::cardio acs
+"Question:
+What precipitates Prinzmetal's angina?"	"Answer:
+Nicotine, alcohol, cocaine"	ccrn::cardio acs
+"Question:
+Is troponin positive in Prinzmetal's angina?"	"Answer:
+No"	ccrn::cardio acs
+"Question:
+What relieves Prinzmetal's angina?"	"Answer:
+Nitroglycerin; STs return to normal"	ccrn::cardio acs meds
+"Question:
+What is the stat ECG timeline for chest pain?"	"Answer:
+Done and read within 10 minutes"	ccrn::cardio ecg
+"Question:
+What does stat ECG allow?"	"Answer:
+Categorization to STEMI vs NSTEMI/unstable angina; risk stratification"	ccrn::cardio ecg
+"Question:
+When should aspirin be given in ACS?"	"Answer:
+ASAP; chewed; improves morbidity/mortality"	ccrn::cardio acs meds
+"Question:
+What anticoagulant is given in ACS?"	"Answer:
+Heparin or enoxaparin"	ccrn::cardio acs meds
+"Question:
+What antiplatelet agents are used in ACS?"	"Answer:
+Clopidogrel (Plavix), abciximab (Reopro), eptifibatide (Integrilin), tirofiban (Aggrastat)"	ccrn::cardio acs meds
+"Question:
+When are beta blockers contraindicated in ACS?"	"Answer:
+Cocaine-induced ACS, hypotension, bradycardia, phosphodiesterase inhibitor use (Viagra)"	ccrn::cardio acs dysrhythmias
+"Question:
+What type of beta blocker for ACS?"	"Answer:
+Cardioselective (metoprolol); NOT non-cardioselective (propranolol)"	ccrn::cardio acs dysrhythmias meds
+"Question:
+How is ACS pain treated?"	"Answer:
+Nitroglycerin, morphine"	ccrn::cardio acs meds
+"Question:
+What artery and wall with changes in II, III, aVF?"	"Answer:
+RCA, inferior LV"	ccrn::cardio ecg dysrhythmias
+"Question:
+What artery and wall with changes in V1-V4?"	"Answer:
+LAD, anterior LV"	ccrn::cardio ecg
+"Question:
+What artery and wall with changes in V5, V6, I, aVL?"	"Answer:
+Circumflex, lateral LV"	ccrn::cardio
+"Question:
+What artery and wall with changes in V5, V6?"	"Answer:
+Low lateral LV"	ccrn::cardio
+"Question:
+What artery and wall with changes in I, aVL?"	"Answer:
+High lateral LV"	ccrn::cardio
+"Question:
+What artery and wall with changes in V1, V2?"	"Answer:
+RCA, posterior LV"	ccrn::cardio ecg
+"Question:
+What artery and wall with changes in V3R, V4R?"	"Answer:
+RCA, right ventricular infarct"	ccrn::cardio ecg
+"Question:
+What artery occludes in inferior MI?"	"Answer:
+RCA"	ccrn::cardio acs mi_types
+"Question:
+What leads show ST elevation in inferior MI?"	"Answer:
+II, III, aVF"	ccrn::cardio acs ecg mi_types
+"Question:
+What are reciprocal changes in inferior MI?"	"Answer:
+Lateral wall (I, aVL)"	ccrn::cardio acs mi_types
+"Question:
+What conduction disturbances occur with inferior MI?"	"Answer:
+2nd-degree Type I AV block, 3rd-degree AV block, SSS, sinus bradycardia"	ccrn::cardio acs mi_types
+"Question:
+What systolic murmur can develop with inferior MI?"	"Answer:
+MVR from papillary muscle rupture"	ccrn::cardio heart_sounds hemodynamics acs mi_types hf
+"Question:
+Why is posterior papillary muscle at risk?"	"Answer:
+Only one blood supply source (RCA)"	ccrn::cardio mi_types
+"Question:
+What does tachycardia with inferior MI indicate?"	"Answer:
+Higher mortality"	ccrn::cardio acs mi_types
+"Question:
+What is inferior MI also associated with?"	"Answer:
+RV infarct, posterior MI"	ccrn::cardio acs mi_types
+"Question:
+How should beta blockers and NTG be used in inferior MI?"	"Answer:
+With CAUTION"	ccrn::cardio acs mi_types dysrhythmias
+"Question:
+What percent of inferior MI have RV infarct?"	"Answer:
+~30%"	ccrn::cardio acs mi_types
+"Question:
+What artery supplies the right ventricle?"	"Answer:
+RCA"	ccrn::cardio
+"Question:
+What determines RV infarct symptoms?"	"Answer:
+Size of infarct"	ccrn::cardio acs mi_types
+"Question:
+What ECG shows RV infarct?"	"Answer:
+Right-sided ECG (ST elevation in V4R)"	ccrn::cardio acs ecg mi_types
+"Question:
+What are signs/symptoms of RV infarct?"	"Answer:
+JVD at 45°, high CVP, hypotension, clear lungs, bradyarrhythmias"	ccrn::cardio acs mi_types
+"Question:
+What is RV infarct treatment?"	"Answer:
+Fluids, positive inotropes"	ccrn::cardio acs mi_types
+"Question:
+What to avoid in RV infarct?"	"Answer:
+Preload reducers (nitrates, diuretics)"	ccrn::cardio acs mi_types
+"Question:
+Why caution with beta blockers in RV infarct?"	"Answer:
+Often cannot give initially due to hypotension"	ccrn::cardio acs mi_types dysrhythmias
+"Question:
+What artery occludes in anterior MI?"	"Answer:
+LAD"	ccrn::cardio acs mi_types
+"Question:
+What leads show ST elevation in anterior MI?"	"Answer:
+V1-V4 (precordial)"	ccrn::cardio acs ecg mi_types
+"Question:
+What are reciprocal changes in anterior MI?"	"Answer:
+Inferior wall (II, III, aVF)"	ccrn::cardio acs mi_types
+"Question:
+What AV block may develop with anterior MI?"	"Answer:
+2nd-degree Type II or RBBB"	ccrn::cardio acs mi_types dysrhythmias
+"Question:
+Why Type II block with anterior MI?"	"Answer:
+LAD supplies common bundle of His"	ccrn::cardio acs ecg mi_types dysrhythmias
+"Question:
+What does Type II block indicate in anterior MI?"	"Answer:
+Ominous sign"	ccrn::cardio acs ecg mi_types dysrhythmias
+"Question:
+What systolic murmur can develop with anterior MI?"	"Answer:
+Ventricular septal defect"	ccrn::cardio heart_sounds hemodynamics acs mi_types hf
+"Question:
+Does anterior MI have higher mortality than inferior?"	"Answer:
+Yes; heart failure more common"	ccrn::cardio acs mi_types
+"Question:
+What leads show ST elevation in lateral MI?"	"Answer:
+V5, V6 (low lateral); I, aVL (high lateral)"	ccrn::cardio acs ecg mi_types
+"Question:
+What artery is involved in lateral MI?"	"Answer:
+Left circumflex"	ccrn::cardio acs mi_types
+"Question:
+What is reperfusion for STEMI?"	"Answer:
+PCI or fibrinolytic therapy"	ccrn::cardio acs interventions
+"Question:
+What is door-to-balloon time for PCI?"	"Answer:
+90 minutes"	ccrn::cardio interventions
+"Question:
+What is door-to-drug time for fibrinolytics?"	"Answer:
+30 minutes"	ccrn::cardio interventions
+"Question:
+What are eligibility criteria for fibrinolytics?"	"Answer:
+ST elevation in 2+ contiguous leads or new LBBB, onset < 12 hrs, pain ≥ 30 min, unresponsive to SL NTG"	ccrn::cardio interventions
+"Question:
+What are absolute contraindications to fibrinolytics?"	"Answer:
+Prior intracranial hemorrhage, structural cerebral lesion, intracranial malignancy, ischemic stroke < 3 months, suspected aortic dissection, active bleeding, significant head/facial trauma < 3 months"	ccrn::cardio interventions
+"Question:
+What indicates successful reperfusion?"	"Answer:
+Chest pain relief, ST resolution, marked troponin/CK-MB elevation, reperfusion arrhythmias"	ccrn::cardio interventions
+"Question:
+Why does troponin elevate with reperfusion?"	"Answer:
+Myocardial 'stunning' when vessel opens"	ccrn::cardio interventions
+"Question:
+What are reperfusion arrhythmias?"	"Answer:
+VT, VF, accelerated idioventricular rhythm (AIVR)"	ccrn::cardio acs interventions dysrhythmias
+"Question:
+Why do reperfusion arrhythmias occur?"	"Answer:
+Myocardial 'stunning' when vessel opens"	ccrn::cardio acs interventions dysrhythmias
+"Question:
+What to monitor post-PCI for reocclusion?"	"Answer:
+Chest pain, ST elevation"	ccrn::cardio interventions
+"Question:
+What is vasovagal reaction during sheath removal?"	"Answer:
+Hypotension < 90 systolic with/without bradycardia, no compensatory tachycardia, pallor, nausea, yawning, diaphoresis"	ccrn::cardio
+"Question:
+How to manage vasovagal reaction?"	"Answer:
+Fluids, atropine"	ccrn::cardio meds
+"Question:
+What bleeding site to monitor post-PCI?"	"Answer:
+Sheath site, retroperitoneal"	ccrn::cardio interventions
+"Question:
+What are signs of retroperitoneal bleed?"	"Answer:
+Sudden hypotension, severe low back pain"	ccrn::cardio
+"Question:
+How long to hold manual pressure post-sheath removal?"	"Answer:
+Minimum 20 min (30 min if on GP IIb/IIIa inhibitors)"	ccrn::cardio
+"Question:
+Is emergent reperfusion needed for NSTEMI?"	"Answer:
+No"	ccrn::cardio acs interventions
+"Question:
+What meds for NSTEMI?"	"Answer:
+Same as STEMI"	ccrn::cardio acs
+"Question:
+When is cardiac cath done for NSTEMI?"	"Answer:
+Within 24 hours if high risk or continued chest pain/instability"	ccrn::cardio acs
+"Question:
+What to start if high-risk NSTEMI?"	"Answer:
+GP IIb/IIIa inhibitors (Integrilin, Reopro)"	ccrn::cardio acs
+"Question:
+What is the most common complication of acute MI?"	"Answer:
+Arrhythmias"	ccrn::cardio acs
+"Question:
+What are life-threatening arrhythmias post-MI?"	"Answer:
+VT, VF"	ccrn::cardio acs dysrhythmias
+"Question:
+How to treat VF?"	"Answer:
+Defibrillate"	ccrn::cardio dysrhythmias
+"Question:
+How to treat stable sustained VT?"	"Answer:
+Drug therapy"	ccrn::cardio dysrhythmias
+"Question:
+How to treat unstable sustained VT?"	"Answer:
+Synchronized cardioversion"	ccrn::cardio dysrhythmias
+"Question:
+What other complications of acute MI?"	"Answer:
+Bradycardia, heart blocks, SSS, atrial fibrillation, heart failure, cardiogenic shock, reinfarction, thromboembolism, pericarditis, ventricular aneurysm, VSD, papillary muscle rupture, wall rupture"	ccrn::cardio acs
+"Question:
+How does atrial fibrillation affect MI mortality?"	"Answer:
+Increases risk 10-15%, even if returned to NSR"	ccrn::cardio acs
+"Question:
+What is goal of PCI with stent?"	"Answer:
+Restoration of blood flow distal to coronary lesion"	ccrn::cardio interventions
+"Question:
+What is most common PCI procedure?"	"Answer:
+Intracoronary stenting"	ccrn::cardio interventions
+"Question:
+What is in-hospital death rate for PCI?"	"Answer:
+~1.8%"	ccrn::cardio interventions
+"Question:
+What is in-hospital MI rate for PCI?"	"Answer:
+~0.4%"	ccrn::cardio acs interventions
+"Question:
+What are PCI complications?"	"Answer:
+Coronary perforation, distal embolization, intramural hematoma, stent deployment failure, stent thrombosis, stroke/TIA, arrhythmias, renal failure, retroperitoneal bleed"	ccrn::cardio interventions
+"Question:
+When does stent thrombosis most likely occur?"	"Answer:
+Acutely (< 24 hours) or subacutely (< 30 days)"	ccrn::cardio interventions
+"Question:
+What is hypertensive emergency/crisis?"	"Answer:
+Elevated BP with end organ damage (brain, heart, kidney, retina)"	ccrn::cardio hypertension
+"Question:
+What is hypertensive urgency?"	"Answer:
+Elevated BP without acute end organ damage"	ccrn::cardio hypertension
+"Question:
+What is greatest risk of hypertensive crisis?"	"Answer:
+Stroke"	ccrn::cardio hypertension
+"Question:
+What is treatment of hypertensive crisis?"	"Answer:
+Emergent BP lowering; nitroprusside or labetalol"	ccrn::cardio hypertension meds
+"Question:
+What is nitroprusside?"	"Answer:
+Preload and afterload reducer"	ccrn::cardio meds
+"Question:
+What is cyanide toxicity from nitroprusside?"	"Answer:
+Mental status change, tachycardia, seizure, need for increased dose, unexplained metabolic acidosis"	ccrn::cardio meds
+"Question:
+When is cyanide toxicity more likely?"	"Answer:
+Renal impairment or drug use > 24 hours"	ccrn::cardio
+"Question:
+What is labetalol dosing preference?"	"Answer:
+Intermittent IV doses (max 300 mg total)"	ccrn::cardio meds
+"Question:
+How long does labetalol effect persist?"	"Answer:
+4-6 hours after IV dose"	ccrn::cardio meds
+"Question:
+What are the 6 Ps of PAD?"	"Answer:
+Pain, pallor, pulse absent/diminished, paresthesia, paralysis, poikilothermia"	ccrn::cardio vascular
+"Question:
+What is poikilothermia?"	"Answer:
+Loss of hair on toes/legs, glossy/thin/cool/dry skin"	ccrn::cardio acs
+"Question:
+What is ankle-brachial index (ABI)?"	"Answer:
+Test to assess lower extremity perfusion"	ccrn::cardio vascular
+"Question:
+What is normal ABI?"	"Answer:
+> 0.90"	ccrn::cardio vascular
+"Question:
+How is ABI calculated?"	"Answer:
+Ankle pressure ÷ brachial pressure (same side)"	ccrn::cardio vascular
+"Question:
+What are PAD treatments?"	"Answer:
+Embolectomy, bypass graft, angioplasty"	ccrn::cardio vascular
+"Question:
+What bed position for PAD?"	"Answer:
+Reverse Trendelenburg"	ccrn::cardio vascular
+"Question:
+Should you elevate affected extremity in PAD?"	"Answer:
+NO - decreases perfusion"	ccrn::cardio acs vascular
+"Question:
+What medications for PAD?"	"Answer:
+Thrombolytics (tPA), anticoagulants (heparin), antiplatelet agents (ASA, clopidogrel), vasodilators"	ccrn::cardio vascular meds
+"Question:
+What are signs/symptoms of acute carotid artery disease?"	"Answer:
+TIA, monocular visual disturbances, aphasia, stroke"	ccrn::cardio vascular
+"Question:
+What is gold standard diagnostic test for carotid disease?"	"Answer:
+Angiography (risk of stroke during exam)"	ccrn::cardio vascular
+"Question:
+What are carotid artery disease treatments?"	"Answer:
+Carotid endarterectomy (CEA), carotid stenting, aspirin, statin therapy"	ccrn::cardio vascular meds
+"Question:
+What to monitor post-carotid procedure?"	"Answer:
+Frequent neurological/motor checks, BP/HR (labile BP/bradyarrhythmia possible), bleeding"	ccrn::cardio vascular
+"Question:
+What is hypoperfusion syndrome post-carotid procedure?"	"Answer:
+Headache ipsilateral to revascularized artery, focal motor seizures, intracerebral hemorrhage"	ccrn::cardio vascular
+"Question:
+What is Wolff-Parkinson-White syndrome?"	"Answer:
+Genetic conduction abnormality with abnormal pathway bypassing AV node"	ccrn::cardio
+"Question:
+What age group has WPW?"	"Answer:
+< 30 years old"	ccrn::cardio dysrhythmias
+"Question:
+What does ECG show in WPW sinus rhythm?"	"Answer:
+Short PR interval, delta wave"	ccrn::cardio ecg dysrhythmias
+"Question:
+What arrhythmia does WPW cause?"	"Answer:
+SVT; may also have pre-excited atrial fibrillation"	ccrn::cardio acs dysrhythmias
+"Question:
+What is pre-excited atrial fibrillation?"	"Answer:
+Irregular rhythm, rate ≥ 150 bpm, wide QRS"	ccrn::cardio
+"Question:
+What are WPW symptoms during SVT?"	"Answer:
+Palpitations, dizziness, chest pain, SOB, syncope"	ccrn::cardio dysrhythmias
+"Question:
+What is definitive WPW treatment?"	"Answer:
+Radiofrequency ablation"	ccrn::cardio dysrhythmias
+"Question:
+How to treat unstable SVT in WPW?"	"Answer:
+Synchronized cardioversion or adenosine"	ccrn::cardio dysrhythmias meds
+"Question:
+How to treat pre-excited AF in WPW?"	"Answer:
+Beta blockers, amiodarone, or procainamide IV"	ccrn::cardio dysrhythmias meds
+"Question:
+What NOT to give for pre-excited AF in WPW?"	"Answer:
+Adenosine, digoxin, calcium channel blockers"	ccrn::cardio dysrhythmias meds
+"Question:
+Why avoid adenosine/digoxin/CCB in pre-excited AF?"	"Answer:
+May enhance antegrade conduction through abnormal pathway by increasing AV node refractory period → VF"	ccrn::cardio meds
+"Question:
+What causes QT prolongation?"	"Answer:
+Drugs (amiodarone, quinidine, haloperidol, procainamide), electrolyte problems (hypokalemia, hypocalcemia, hypomagnesemia)"	ccrn::cardio dysrhythmias meds
+"Question:
+What can QT prolongation lead to?"	"Answer:
+Torsades de pointes"	ccrn::cardio ecg dysrhythmias
+"Question:
+What is treatment for torsades VT?"	"Answer:
+Magnesium"	ccrn::cardio dysrhythmias meds
+"Question:
+What does first letter of pacemaker code indicate?"	"Answer:
+Chamber paced"	ccrn::cardio devices
+"Question:
+What does second letter of pacemaker code indicate?"	"Answer:
+Chamber sensed"	ccrn::cardio devices
+"Question:
+What does third letter of pacemaker code indicate?"	"Answer:
+Response to sensing"	ccrn::cardio devices
+"Question:
+What does I mean in pacemaker code?"	"Answer:
+Inhibits (demand pacing)"	ccrn::cardio devices
+"Question:
+What does D mean in pacemaker code?"	"Answer:
+Inhibits and triggers (dual)"	ccrn::cardio devices
+"Question:
+What does O mean in pacemaker code?"	"Answer:
+None"	ccrn::cardio devices
+"Question:
+What is DDD pacemaker?"	"Answer:
+Paces both chambers, senses both, can inhibit and trigger"	ccrn::cardio devices
+"Question:
+What is VVI pacemaker?"	"Answer:
+Paces ventricle, senses ventricle, inhibits in response to sensing"	ccrn::cardio devices
+"Question:
+What are 3 basic pacer malfunctions?"	"Answer:
+Failure to pace, failure to capture, failure to sense"	ccrn::cardio devices
+"Question:
+What is failure to pace?"	"Answer:
+No spike when expected"	ccrn::cardio
+"Question:
+What is failure to capture?"	"Answer:
+Spikes without QRS (for ventricular pacing)"	ccrn::cardio
+"Question:
+What is failure to sense?"	"Answer:
+Pacing in native beats"	ccrn::cardio
+"Question:
+What tiered therapy can ICDs provide?"	"Answer:
+Programmed to shock, burst pace, provide pacing for bradyarrhythmias"	ccrn::cardio devices
+"Question:
+What is ICD burst pacing?"	"Answer:
+Sense tachyarrhythmia, provide beats faster than tachyarrhythmia, suddenly stop (hope for SA node recovery)"	ccrn::cardio devices
+"Question:
+If ICD does not correct arrhythmia, what to do?"	"Answer:
+Shock as usual; do not place pads directly over ICD"	ccrn::cardio acs dysrhythmias devices
+"Question:
+What patient education needed for ICD?"	"Answer:
+Device function, emotional support (fear of being shocked)"	ccrn::cardio devices
+"Question:
+What is heart failure?"	"Answer:
+Clinical syndrome with signs/symptoms of high intracardiac pressures and decreased CO"	ccrn::cardio hf
+"Question:
+What is acute decompensated heart failure?"	"Answer:
+Abrupt onset of severe symptoms requiring hospitalization"	ccrn::cardio hf
+"Question:
+What percent of acute decompensated HF have chronic HF history?"	"Answer:
+~75%"	ccrn::cardio hf
+"Question:
+What is heart failure with systolic dysfunction?"	"Answer:
+EF ≤ 40%, problem with ejection"	ccrn::cardio hemodynamics hf
+"Question:
+What is heart failure with diastolic dysfunction?"	"Answer:
+EF > 50%, problem with filling"	ccrn::cardio hemodynamics hf
+"Question:
+What is BNP?"	"Answer:
+B-type natriuretic peptide"	ccrn::cardio hf
+"Question:
+Why is BNP released?"	"Answer:
+Ventricle under wall stress; attempts to dilate and decrease ventricular pressure"	ccrn::cardio hf
+"Question:
+When does BNP elevate?"	"Answer:
+LV failure (or to lesser degree, RV stress from pulmonary HTN/PE)"	ccrn::cardio hf
+"Question:
+What is pathophysiology of systolic dysfunction?"	"Answer:
+Decreased contractility → decreased CO → compensatory mechanisms (SNS, RAAS) → fluid retention"	ccrn::cardio hemodynamics hf
+"Question:
+What causes systolic HF remodeling over time?"	"Answer:
+Prolonged compensatory hormone effects"	ccrn::cardio hemodynamics hf
+"Question:
+What drugs decrease neurohormonal effects in HF?"	"Answer:
+ACE inhibitors, ARBs, beta blockers, aldosterone antagonists"	ccrn::cardio hf
+"Question:
+What is heart size on CXR in systolic HF?"	"Answer:
+May be large/dilated or normal"	ccrn::cardio hemodynamics hf
+"Question:
+What is PMI shift in systolic HF?"	"Answer:
+From midclavicular to left (if enlarged heart)"	ccrn::cardio hemodynamics acs hf
+"Question:
+What is heart size on CXR in diastolic HF?"	"Answer:
+Generally normal"	ccrn::cardio hemodynamics hf
+"Question:
+What may ECG show in diastolic HF?"	"Answer:
+LV hypertrophy pattern (especially with uncontrolled HTN)"	ccrn::cardio hemodynamics ecg hf
+"Question:
+What causes right-sided HF?"	"Answer:
+Pulmonary HTN, cor pulmonale, RV infarct, left-sided HF, tricuspid/pulmonic valve disease"	ccrn::cardio hf
+"Question:
+What causes left-sided HF?"	"Answer:
+CAD, MI, HTN, cardiomyopathy, mitral/aortic valve disease"	ccrn::cardio hf
+"Question:
+What are signs/symptoms of right-sided HF?"	"Answer:
+JVD, peripheral edema, hepatomegaly, ascites, weight gain"	ccrn::cardio hf
+"Question:
+What are signs/symptoms of left-sided HF?"	"Answer:
+Dyspnea, orthopnea, PND, pulmonary crackles, S3, cough, fatigue"	ccrn::cardio hf
+"Question:
+What is AHA Stage A heart failure?"	"Answer:
+High risk; no dysfunction"	ccrn::cardio hf
+"Question:
+What is AHA Stage B heart failure?"	"Answer:
+Heart disorder/structural defect; no symptoms"	ccrn::cardio hf
+"Question:
+What is AHA Stage C heart failure?"	"Answer:
+Heart disorder/structural defect with symptoms (past or present)"	ccrn::cardio hf
+"Question:
+What is AHA Stage D heart failure?"	"Answer:
+End-stage with symptoms despite maximal therapy"	ccrn::cardio hf
+"Question:
+What is NYHA Class I heart failure?"	"Answer:
+Ordinary activity does not cause symptoms; extraordinary activity does"	ccrn::cardio hf
+"Question:
+What is NYHA Class II heart failure?"	"Answer:
+Comfortable at rest; ordinary activity causes symptoms"	ccrn::cardio ecg hf
+"Question:
+What is NYHA Class III heart failure?"	"Answer:
+Comfortable at rest; minimal activity causes symptoms"	ccrn::cardio ecg hf
+"Question:
+What is NYHA Class IV heart failure?"	"Answer:
+Symptoms at rest; severe limitation of physical activity"	ccrn::cardio hf
+"Question:
+What is main cause of death from HF?"	"Answer:
+Sudden death arrhythmia"	ccrn::cardio hf
+"Question:
+What NYHA classes may need ICD?"	"Answer:
+Class II to IV"	ccrn::cardio devices hf
+"Question:
+What is dilated cardiomyopathy?"	"Answer:
+Enlarged heart, decreased contractility, systolic dysfunction"	ccrn::cardio cardiomyopathy
+"Question:
+What causes dilated cardiomyopathy?"	"Answer:
+Idiopathic, viral, alcohol, chemotherapy, peripartum"	ccrn::cardio cardiomyopathy
+"Question:
+What is EF in dilated cardiomyopathy?"	"Answer:
+< 40%"	ccrn::cardio cardiomyopathy
+"Question:
+What is hypertrophic cardiomyopathy?"	"Answer:
+Thickened ventricular wall, decreased compliance, diastolic dysfunction"	ccrn::cardio cardiomyopathy
+"Question:
+What causes hypertrophic cardiomyopathy?"	"Answer:
+Genetic (autosomal dominant)"	ccrn::cardio cardiomyopathy
+"Question:
+What is EF in hypertrophic cardiomyopathy?"	"Answer:
+Normal or increased (> 50%)"	ccrn::cardio cardiomyopathy
+"Question:
+What heart sound in hypertrophic cardiomyopathy?"	"Answer:
+S4"	ccrn::cardio heart_sounds cardiomyopathy
+"Question:
+What drugs for dilated cardiomyopathy?"	"Answer:
+Increase contractility, decrease preload and afterload"	ccrn::cardio cardiomyopathy
+"Question:
+What drugs for hypertrophic cardiomyopathy?"	"Answer:
+Beta blockers, calcium channel blockers (decrease HR, increase filling time)"	ccrn::cardio cardiomyopathy
+"Question:
+What is cardiogenic shock?"	"Answer:
+Most extreme HF when compensatory mechanisms fail"	ccrn::cardio shock
+"Question:
+What causes cardiogenic shock?"	"Answer:
+Extreme drop in SV from systolic dysfunction"	ccrn::cardio shock
+"Question:
+What is result of cardiogenic shock?"	"Answer:
+Elevated PAOP, elevated SVR, decreased CO, inadequate organ perfusion"	ccrn::cardio shock
+"Question:
+What are etiologies of cardiogenic shock?"	"Answer:
+Acute MI, chronic HF, cardiomyopathy, dysrhythmias, tamponade, papillary muscle rupture"	ccrn::cardio shock
+"Question:
+Why is papillary muscle rupture life-threatening?"	"Answer:
+Obliterates mitral valve; requires immediate surgery"	ccrn::cardio
+"Question:
+What are signs of cardiogenic shock?"	"Answer:
+Hypotension, tachycardia, decreased urine output, cool/clammy skin, altered mental status, elevated PAOP, low CO/CI"	ccrn::cardio shock
+"Question:
+What is treatment of cardiogenic shock?"	"Answer:
+Identify cause, manage arrhythmias, reperfusion if STEMI, emergent surgery if mechanical problem, mechanical support"	ccrn::cardio shock
+"Question:
+What is IABP used for?"	"Answer:
+LV heart failure, cardiogenic shock, cardiomyopathies, bridge to transplant"	ccrn::cardio hemodynamics iabp
+"Question:
+What does balloon do?"	"Answer:
+Inflates and deflates"	ccrn::cardio interventions
+"Question:
+When does balloon inflate?"	"Answer:
+At dicrotic notch, beginning of diastole"	ccrn::cardio interventions iabp
+"Question:
+What are benefits of balloon inflation?"	"Answer:
+Increases coronary artery perfusion, increases diastolic BP"	ccrn::cardio interventions
+"Question:
+When does balloon deflate?"	"Answer:
+Right before systole"	ccrn::cardio interventions iabp
+"Question:
+What triggers balloon deflation?"	"Answer:
+R-wave of ECG or upstroke of arterial pressure wave"	ccrn::cardio interventions
+"Question:
+What are benefits of balloon deflation?"	"Answer:
+Decreases afterload, decreases myocardial oxygen demand, increases CO/SV"	ccrn::cardio interventions
+"Question:
+What happens during cardiopulmonary bypass?"	"Answer:
+Aortic cross-clamping, heart stopped"	ccrn::cardio cardiac_surgery
+"Question:
+What are common cannulation sites for bypass?"	"Answer:
+Aorta, right atrium"	ccrn::cardio cardiac_surgery
+"Question:
+What does longer bypass time cause?"	"Answer:
+More bleeding, more complications"	ccrn::cardio cardiac_surgery
+"Question:
+What is priming during bypass?"	"Answer:
+Hemodilution with isotonic crystalloids; enhances oxygenation"	ccrn::cardio acs cardiac_surgery
+"Question:
+What temperature during bypass?"	"Answer:
+Hypothermia (28-36°C)"	ccrn::cardio cardiac_surgery
+"Question:
+What anticoagulation during bypass?"	"Answer:
+Large heparin doses"	ccrn::cardio cardiac_surgery meds
+"Question:
+How is cardiac arrest achieved during bypass?"	"Answer:
+Potassium cardioplegic agent infused during diastole"	ccrn::cardio cardiac_surgery
+"Question:
+What are post-CABG complications?"	"Answer:
+Hemodynamic abnormalities, arrhythmias, tamponade, pericarditis, electrolyte abnormalities, bleeding, pulmonary problems, pain/anxiety, renal failure, glycemic control issues, GI problems, infections"	ccrn::cardio cardiac_surgery
+"Question:
+How to maintain chest tube patency?"	"Answer:
+No dependent loops; gently milk if clots appear"	ccrn::cardio
+"Question:
+Is routine milking/stripping of chest tubes indicated?"	"Answer:
+No"	ccrn::cardio acs
+"Question:
+What do mediastinal chest tubes remove?"	"Answer:
+Serosanguinous fluid from operative site"	ccrn::cardio
+"Question:
+What do pleural chest tubes remove?"	"Answer:
+Air, blood, serous fluid from pleural space"	ccrn::cardio
+"Question:
+Where to keep chest tubes?"	"Answer:
+Lower than patient's chest"	ccrn::cardio
+"Question:
+When to clamp chest tubes?"	"Answer:
+Only when changing drainage system or system disconnect"	ccrn::cardio
+"Question:
+Why not clamp chest tubes routinely?"	"Answer:
+Loses connection to negative chamber"	ccrn::cardio
+"Question:
+What chest tube output requires intervention?"	"Answer:
+> 100 mL for 2 consecutive hours"	ccrn::cardio
+"Question:
+How to maintain hemodynamic stability post-CABG?"	"Answer:
+Correct volume status, administer blood products"	ccrn::cardio acs vascular cardiac_surgery
+"Question:
+What are mechanical valve advantages?"	"Answer:
+Durable, long-lasting"	ccrn::cardio valves
+"Question:
+What are mechanical valve disadvantages?"	"Answer:
+Require lifelong anticoagulation"	ccrn::cardio valves
+"Question:
+What are biological valve advantages?"	"Answer:
+No lifelong anticoagulation (only antiplatelet)"	ccrn::cardio valves
+"Question:
+What are biological valve disadvantages?"	"Answer:
+Less durable, may need replacement"	ccrn::cardio valves
+"Question:
+What anticoagulation for mechanical valve?"	"Answer:
+Warfarin (lifelong)"	ccrn::cardio valves
+"Question:
+What anticoagulation for biological valve?"	"Answer:
+Antiplatelet therapy (aspirin)"	ccrn::cardio valves meds
+"Question:
+Why avoid drop in preload post-valve surgery?"	"Answer:
+Patients had elevated end-diastolic volumes; sudden normalization causes hypotension"	ccrn::cardio valves cardiac_surgery
+"Question:
+Why anticipate conduction disturbances post-valve surgery?"	"Answer:
+Valves anatomically close to conduction pathways"	ccrn::cardio valves cardiac_surgery
+"Question:
+What may be needed post-valve surgery for conduction?"	"Answer:
+Temporary or permanent pacing"	ccrn::cardio valves cardiac_surgery
+"Question:
+What is TAVR?"	"Answer:
+Transcatheter aortic valve replacement"	ccrn::cardio cardiac_surgery
+"Question:
+When was TAVR approved?"	"Answer:
+2011"	ccrn::cardio cardiac_surgery
+"Question:
+What is TAVR procedure?"	"Answer:
+Placement of collapsible prosthetic valve (bovine/porcine) over diseased valve"	ccrn::cardio cardiac_surgery
+"Question:
+What is TAVR access?"	"Answer:
+Percutaneous or small incision; usually femoral artery"	ccrn::cardio cardiac_surgery
+"Question:
+Where is TAVR performed?"	"Answer:
+Modified cardiac cath lab"	ccrn::cardio cardiac_surgery
+"Question:
+Who are ideal TAVR candidates?"	"Answer:
+Severe aortic valve disease, high-risk for open surgery"	ccrn::cardio cardiac_surgery
+"Question:
+Can intermediate-risk patients get TAVR?"	"Answer:
+Yes, if heart valve team decides"	ccrn::cardio cardiac_surgery
+"Question:
+Are extreme high-risk/inoperable or low-risk patients TAVR candidates?"	"Answer:
+No"	ccrn::cardio cardiac_surgery
+"Question:
+What are TAVR complications?"	"Answer:
+Vascular complications (hematomas, retroperitoneal bleed, arterial occlusion), heart block, stroke, AKI, paravalvular regurgitation"	ccrn::cardio cardiac_surgery
+"Question:
+What antiplatelet therapy post-TAVR?"	"Answer:
+Aspirin 75-100 mg/day for life; clopidogrel 75 mg/day for 3-6 months"	ccrn::cardio cardiac_surgery meds
+"Question:
+What are tamponade etiologies?"	"Answer:
+Post-cardiac surgery, pericarditis, pericardial effusion, trauma"	ccrn::cardio tamponade
+"Question:
+What are signs/symptoms of tamponade?"	"Answer:
+Restlessness, agitation, hypotension, elevated JVD, equalization of pressures (CVP=PAD=PAOP), muffled heart sounds, enlarged cardiac silhouette, narrowed pulse pressure, pulsus paradoxus"	ccrn::cardio tamponade
+"Question:
+What is example of narrowed pulse pressure in tamponade?"	"Answer:
+82/68"	ccrn::cardio hemodynamics tamponade
+"Question:
+What is pulsus paradoxus?"	"Answer:
+Excessive drop (> 12 mmHg) in SBP during inspiration"	ccrn::cardio tamponade
+"Question:
+What causes pulsus paradoxus in tamponade?"	"Answer:
+Cardiac restriction with inspiration; increased intrathoracic pressure, decreased venous return"	ccrn::cardio tamponade
+"Question:
+How is pulsus paradoxus best seen?"	"Answer:
+Respiratory variation on arterial waveform"	ccrn::cardio tamponade
+"Question:
+What is treatment for post-op cardiac surgery tamponade?"	"Answer:
+Emergent return to OR"	ccrn::cardio cardiac_surgery tamponade
+"Question:
+What is treatment for medical tamponade?"	"Answer:
+Emergent pericardiocentesis"	ccrn::cardio tamponade
+"Question:
+Which valve most at risk for trauma rupture?"	"Answer:
+Aortic valve (most anterior)"	ccrn::cardio valves
+"Question:
+What differentiates myocardial contusion from pericarditis?"	"Answer:
+Pericarditis has friction rub, pain worse with inspiration/positional; contusion has MI-like symptoms"	ccrn::cardio
+"Question:
+What is an aneurysm?"	"Answer:
+Localized blood-filled outpouching in artery wall"	ccrn::cardio aneurysm
+"Question:
+What determines rupture risk?"	"Answer:
+Size (larger = more likely to rupture)"	ccrn::cardio acs
+"Question:
+What are aneurysm etiologies?"	"Answer:
+Arteriosclerosis, HTN, smoking, obesity, bacterial infection, congenital, trauma, Marfan syndrome"	ccrn::cardio aneurysm
+"Question:
+What percent of CV aneurysms are abdominal aortic?"	"Answer:
+75%"	ccrn::cardio valves acs aneurysm
+"Question:
+What are AAA signs/symptoms?"	"Answer:
+Asymptomatic if small, abdominal pulsations, abdominal/low back pain, nausea, vomiting, shock"	ccrn::cardio aneurysm
+"Question:
+What percent of CV aneurysms are thoracic aortic?"	"Answer:
+25%"	ccrn::cardio valves aneurysm
+"Question:
+What are thoracic aneurysm signs/symptoms?"	"Answer:
+Sudden tearing/ripping chest pain radiating to shoulders/neck/back, cough, hoarseness, dysphagia, dyspnea, dizziness, difficulty walking/speaking, widened mediastinum on CXR"	ccrn::cardio aneurysm
+"Question:
+How to treat aneurysm < 5 cm with no symptoms?"	"Answer:
+Monitor regularly (ultrasound/CT), treat HTN with beta blockers"	ccrn::cardio aneurysm
+"Question:
+Are Marfan patients treated sooner for aneurysm?"	"Answer:
+Yes"	ccrn::cardio aneurysm
+"Question:
+How to treat thoracic aneurysm > 6 cm or symptomatic?"	"Answer:
+Surgical repair"	ccrn::cardio aneurysm
+"Question:
+What is treatment for dissection?"	"Answer:
+SURGERY; aggressive HTN and HR control (labetalol drip)"	ccrn::cardio aneurysm meds
+"Question:
+What is aortic dissection?"	"Answer:
+Blood passes through inner lining between aortic layers"	ccrn::cardio valves aneurysm
+"Question:
+What is tear pattern in dissection?"	"Answer:
+Spiral"	ccrn::cardio aneurysm
+"Question:
+Can dissection occur suddenly or gradually?"	"Answer:
+Both"	ccrn::cardio aneurysm
+"Question:
+Where does dissection occur?"	"Answer:
+Ascending aorta or aortic arch"	ccrn::cardio aneurysm
+"Question:
+Is dissection life-threatening?"	"Answer:
+Yes; requires immediate surgical intervention"	ccrn::cardio aneurysm
+"Question:
+What is aspirin used for in ACS?"	"Answer:
+Antiplatelet; reduces mortality"	ccrn::cardio acs meds
+"Question:
+What is clopidogrel (Plavix)?"	"Answer:
+Antiplatelet; ADP receptor antagonist; prevents platelet aggregation"	ccrn::cardio meds
+"Question:
+What is abciximab (Reopro)?"	"Answer:
+GP IIb/IIIa inhibitor; antiplatelet; prevents platelet aggregation"	ccrn::cardio
+"Question:
+What is eptifibatide (Integrilin)?"	"Answer:
+GP IIb/IIIa inhibitor; antiplatelet; prevents platelet aggregation"	ccrn::cardio
+"Question:
+What is tirofiban (Aggrastat)?"	"Answer:
+GP IIb/IIIa inhibitor; antiplatelet; prevents platelet aggregation"	ccrn::cardio
+"Question:
+What is metoprolol (Lopressor)?"	"Answer:
+Cardioselective beta blocker; decreases HR, contractility, BP; for ACS, HTN, HF"	ccrn::cardio meds
+"Question:
+What is propranolol (Inderal)?"	"Answer:
+Non-cardioselective beta blocker; affects heart and lungs; avoid in ACS"	ccrn::cardio
+"Question:
+What is nitroglycerin?"	"Answer:
+Nitrate; vasodilator; decreases preload; for angina, ACS, HF"	ccrn::cardio meds
+"Question:
+What is morphine used for in ACS?"	"Answer:
+Pain relief; decreases anxiety, preload, afterload"	ccrn::cardio acs meds
+"Question:
+What is heparin?"	"Answer:
+Anticoagulant; prevents clot formation/extension; for ACS"	ccrn::cardio meds
+"Question:
+What is enoxaparin?"	"Answer:
+Low molecular weight heparin; anticoagulant; for ACS"	ccrn::cardio meds
+"Question:
+What is nitroprusside (Nipride)?"	"Answer:
+Preload and afterload reducer; for hypertensive crisis"	ccrn::cardio meds
+"Question:
+What is labetalol (Normodyne)?"	"Answer:
+Alpha and beta blocker; for hypertensive crisis; duration 4-6 hours"	ccrn::cardio meds
+"Question:
+What is furosemide (Lasix)?"	"Answer:
+Loop diuretic; decreases preload; for HF, pulmonary edema"	ccrn::cardio acs meds
+"Question:
+What is digoxin?"	"Answer:
+Cardiac glycoside; weak positive inotrope; slows AV conduction; for HF, atrial fibrillation"	ccrn::cardio meds
+"Question:
+What is dopamine at low dose (< 5 mcg/kg/min)?"	"Answer:
+Dopaminergic; renal vasodilation"	ccrn::cardio acs meds
+"Question:
+What is dopamine at medium dose (5-10 mcg/kg/min)?"	"Answer:
+Beta-1 agonist; positive inotrope"	ccrn::cardio acs meds
+"Question:
+What is dopamine at high dose (> 10 mcg/kg/min)?"	"Answer:
+Alpha agonist; vasoconstriction"	ccrn::cardio acs meds
+"Question:
+What is dobutamine?"	"Answer:
+Beta-1 agonist; positive inotrope; for HF, cardiogenic shock"	ccrn::cardio acs meds
+"Question:
+What is milrinone?"	"Answer:
+Phosphodiesterase inhibitor; positive inotrope and vasodilator; for HF"	ccrn::cardio acs meds
+"Question:
+What is atropine?"	"Answer:
+Anticholinergic; increases HR; for symptomatic bradycardia"	ccrn::cardio meds
+"Question:
+What is amiodarone?"	"Answer:
+Antiarrhythmic; for VT, VF, atrial fibrillation; causes QT prolongation"	ccrn::cardio acs meds
+"Question:
+What is adenosine?"	"Answer:
+Antiarrhythmic; slows AV conduction; for SVT; avoid in pre-excited AF"	ccrn::cardio meds
+"Question:
+What is magnesium used for in arrhythmias?"	"Answer:
+Treatment for torsades de pointes"	ccrn::cardio acs dysrhythmias meds
+"Question:
+What is alteplase (tPA)?"	"Answer:
+Fibrinolytic; breaks down clots; for STEMI, ischemic stroke, PE"	ccrn::cardio meds
