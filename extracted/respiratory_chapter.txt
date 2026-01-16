@@ -1,0 +1,1975 @@
+Respiratory Concepts
+
+
+The difference between a successful person and others is not a lack
+of strength, not a lack of knowledge, but rather a lack of will.
+
+                                                  —Vince Lombardi
+
+
+
+                 RESPIRATORY TEST BLUEPRINT
+
+    Respiratory 15% of total test           22 questions
+
+
+   → Acute pulmonary embolus
+   → ARDS
+   → Acute respiratory failure
+   → Acute respiratory infection (e.g., pneumonia)
+   → Aspiration
+   → Chronic conditions (e.g., COPD, asthma, bronchitis,
+     emphysema)
+   → Failure to wean from mechanical ventilation
+   → Pleural space abnormalities (e.g., pneumothorax,
+     hemothorax, empyema, pleural effusions)
+   → Pulmonary fibrosis
+   → Pulmonary hypertension
+   → Status asthmaticus
+   → Thoracic surgery
+    → Thoracic trauma (e.g., fractured rib, lung contusion,
+      tracheal perforation)
+    → Transfusion-related acute lung injury (TRALI)*
+
+     *This topic is covered in the Hematology/Immunology Concep
+
+     ts chapter of this book.
+
+
+
+           RESPIRATORY TESTABLE NURSING ACTIONS
+
+□     Interpret blood gas results
+□     Recognize indications for and manage patients requiring:
+         Modes of mechanical ventilation
+         Noninvasive positive pressure ventilation (e.g., BiPAP,
+         CPAP, high-flow nasal cannula)
+         Oxygen therapy delivery devices
+         Prevention of complications related to mechanical
+         ventilation (ventilator bundle)
+         Prone positioning
+         Pulmonary therapeutic interventions related to mechanical
+         ventilation: airway clearance, extubation, intubation,
+         weaning
+         Therapeutic gases (e.g., oxygen, nitric oxide, heliox, CO2)
+        Thoracentesis
+        Tracheostomy
+
+    *Note: Although the test blueprint refers to these topics as
+    respiratory concepts, the terms respiratory and pulmonary are
+synonymous and are used interchangeably throughout this
+book.
+
+
+ Plan on spending approximately 22 hours studying respiratory
+ concepts, since there will be 22 questions related to
+ respiratory topics. The first half of this chapter reviews
+ pulmonary physiological concepts that may appear on the
+ exam. These concepts are the basis of the specific
+ respiratory disorders and treatments that are covered in the
+ second half of this chapter.
+Pulmonary Assessment and Physiology
+Ventilation
+  Ventilation is the movement of air in (from the atmosphere) and out (from the
+  body) to maintain appropriate concentrations of O2 and CO2.
+  Central control (brain stem): primary control
+    Senses blood pH, decrease in pH → ventilation is stimulated
+    A decrease in pH = acidosis, which results in an increase in the rate and/or
+    depth of breathing
+  Peripheral control (PaO2 “sensors” in aortic arch): secondary control
+    Senses PaO2 of blood, decrease in PaO2 → ventilation stimulated
+    Decrease in PaO2 = hypoxemia, which results in an increase in the rate
+    and/or depth of breathing
+    Chronic PaCO2 retainers rely on mild hypoxemia for ventilator drive. If the
+    PaO2 is corrected to normal, this may result in a decreased drive to breathe
+     (ventilate).
+  What is the clinical indicator of ventilation? How do you know that your patient
+  is ventilating normally?
+     You need to know the PaCO2 (NOT the PaO2).
+  What is minute ventilation?
+   Tidal volume (Vt) × respiratory rate (RR)—easily seen on the ventilator of a
+   patient who requires mechanical ventilation
+   Normal ventilation is ~ 4 L/minute.
+   An increase in minute ventilation = an increase in work of breathing
+  What is the primary muscle of ventilation?
+   Diaphragm
+   Anything that affects the “health” of the diaphragm (deconditioning,
+   hypoxemia, acidosis, hypophosphatemia) will adversely affect ventilation.
+  What is the position for optimal ventilation?
+   Upright sitting position
+Supine position is NOT good for ventilation; if a patient is in respiratory
+distress, the worst position for the patient is flat on his or her back!
+Dead Space Ventilation
+   Volume of air that does not participate in gas exchange
+     Anatomic dead space: ~ 2 mL/kg of Vt
+    — We all have this; it is normal.
+    — No gas exchange at level of nose down to alveoli
+     Alveolar dead space: pathologic, non-perfused alveoli, PE
+     Physiological dead space = anatomic dead space + alveolar dead space
+✰ A pulmonary embolus results in increased alveolar dead space! A clot in the
+  pulmonary circulation (a pulmonary embolus): no blood flow past alveoli in that
+  area of the pulmonary circulation (Figure 4-1).
+
+
+
+
+                      Figure 4-1. Dead space ventilation
+Pulmonary Perfusion
+The main function of the pulmonary system is gas exchange. For gas exchange
+to occur normally, there needs to be ventilation. However, movement of air alone
+is not enough for normal gas exchange. There needs to be perfusion, movement
+of blood past alveoli.
+
+   Pulmonary perfusion is movement of blood through pulmonary capillaries.
+   Any decrease in blood flow past alveoli (e.g., pulmonary embolus, low cardiac
+   output states) will affect the ventilation/perfusion ratio and gas exchange.
+   Normal ventilation/perfusion ratio:
+
+
+
+
+   Ideal lung unit = 0.8 ratio, normal V/Q ratio
+
+Any problem that alters ventilation (V) or perfusion (Q) can result in abnormal gas
+exchange if compensatory mechanisms are not successful. For example, even
+though it is not a pulmonary problem, a low cardiac output can result in poor gas
+exchange.
+
+   You will not be expected to calculate V/Q ratios for the exam. However, you
+   will need to know that the pulmonary problems (discussed in this chapter) will
+   result in abnormal V/Q ratios, from mild to extreme, depending upon the
+   extent of the problem.
+
+
+EFFECT OF GRAVITY ON PULMONARY PERFUSION
+   In the upright position, most pulmonary blood is in the lower lung lobes (see A
+   in Figure 4-2). When lying supine, most pulmonary blood is posterior (see B in
+   Figure 4-2). Rarely are ALL lung units perfused, but an example would be
+   vigorous exercise (as in C in Figure 4-2).
+                         Figure 4-2. Perfused lung units
+
+
+   What are the clinical implications?
+✰ You want the “good” lung down.
+    Large right lung pneumonia: if the patient is turned to the right (“bad” lung),
+    more blood goes to the right, and the patient may become hypoxemic.
+    This patient should not be turned to the right side.
+✰ Perfusion of under-perfused anterior chest alveoli explains the improved
+  oxygenation seen during PRONE positioning for severe hypoxemia.
+V/Q Ratio
+✰ Normal V/Q ratio
+    When there are no problems with either ventilation or perfusion, the patient
+    will have normal gas exchange on room air (Figure 4-3).
+                     Figure 4-3. Normal V/Q ratio, FiO2
+                                    0.21
+
+Abnormal V/Q ratio
+     When there is a problem with ventilation or perfusion, there is a V/Q
+     mismatch.
+     The patient will develop hypoxemia on room air. However, providing oxygen
+     will generally correct the hypoxemia until the etiology can be determined
+     and addressed (Figure 4-4).
+
+
+
+
+       Figure 4-4. V/Q mismatch (i.e., pneumonia, pulmonary embolism)
+
+
+    Treatment of V/Q mismatch
+   — Give O2
+   — Identify and treat the underlying problem
+✰ Shunt
+    An extreme V/Q mismatch; even providing 100% FiO2 will NOT correct the
+    hypoxemia (Figure 4-5).
+     Figure 4-5. Shunt (i.e., acute respiratory distress syndrome (ARDS))
+
+   A shunt is movement of blood from the right side of the heart to the left side of
+   the heart without getting oxygenated; venous blood moves to the arterial side.
+   Normal physiological shunt: Thebesian veins of the heart empty into the left
+   atrium. This is why the normal oxygen saturation on room air is 95% to 99%; it
+   cannot be 100% on room air due to this shunt. (With supplemental oxygen,
+   100% saturation can be achieved.)
+   Anatomic shunt: two examples are a ventricular septal defect and an atrial
+   septal defect.
+✰ Pathologic shunt: ARDS! Blood goes through the lungs but does NOT get
+  oxygenated, resulting in refractory hypoxemia.
+    Treatment of a shunt: administer oxygen, AND
+    Positive end-expiratory pressure (PEEP)
+   — Prevents expiratory pressure from returning to zero; by keeping expiratory
+     pressure POSITIVE, it . . .
+   — ↓ Surface tension of the alveoli, preventing atelectasis
+   — ↑ Alveolar recruitment
+— ↑ Driving pressure, extends time of gas transfer, allows for a ↓ in FiO2
+   (Figure 4-6)
+
+
+
+
+                  Figure 4-6. Visual representation of PEEP
+
+— With the addition of PEEP to the airway (provided in cm water pressure,
+  i.e., 10 cm, 15 cm), hypoxemia will be addressed and the FiO2 may be
+   decreased from 100%.
+Assessment of Oxygenation in the Critically Ill
+Adequate oxygenation is the delivery of O2 to meet tissue demands at the
+cellular level. In order to achieve this, each of the following needs to occur:
+
+   Adequate ventilation
+   Transfer of O2 across alveolar-capillary membrane
+   Presence of hemoglobin to carry O2
+   Adequate cardiac output to deliver O2 to the tissue bed
+   Release of O2 from the hemoglobin molecule
+   Ability of cells to utilize O2
+
+At the cellular level, sufficient oxygen is needed for the production of adenosine
+triphosphate (ATP), which is needed for cell energy and life. See Figure 4-7 to
+see how oxygen is needed for aerobic metabolism, along with the production of
+sufficient ATP for cell life. Without sufficient oxygen at the cellular level, lactic acid
+is produced (LACTIC ACIDOSIS), which is the evidence of anaerobic
+metabolism, organ failure, and eventual cell death.
+
+
+
+
+             Figure 4-7. Importance of oxygen at the cellular level
+It is NOT sufficient to examine only PaO2 and SaO2! For example, a patient
+with sepsis/septic shock may have a normal PaO2, SaO2, and hemoglobin; clear
+lungs; and adequate ventilation and oxygen delivery, yet a lactate level of 10.
+This is lactic acidosis. Why? Oxygen utilization is affected by sepsis/septic shock
+and results in anaerobic metabolism at the cellular level. Table 4-1 lists the
+clinical indicators of oxygenation in the critically ill.
+
+
+                      Table 4-1. Indicators of Oxygenation
+
+
+
+
+ ✰ For the exam:
+  ➤ Do not memorize the formulas.
+   ➤ Remember that the assessment of oxygenation is more than just
+      examining the PaO2 or SaO2.
+   ➤ Consider the effects of severe anemia, low cardiac output, and an inability
+     to utilize oxygen even when delivery is adequate (e.g., sepsis).
+
+
+
+Most critically ill patients have continuous monitoring of oxygen saturation (SaO2)
+that is noninvasively measured with the use of a bedside pulse oximetry (SpO2).
+Although the normal SaO2 on room air is 95% to 99%, the goal for most critically
+ill patients is to maintain the SpO2 at 90% or greater, usually with supplemental
+oxygen. Note from the curve depicted in Figure 4-8 that when the SaO2 is less
+than 90%, the PaO2 is less than 60 mmHg. When the PaO2 is less than 60
+mmHg, cells begin to have difficulty maintaining aerobic metabolism (without
+compensation, i.e., an increase in heart rate or oxygen delivery).
+                      Figure 4-8. PaO2/SaO2 relationship
+
+
+For the Adult CCRN exam, you will need to understand a high-level concept: the
+oxyhemoglobin-dissociation curve. Certain clinical conditions make
+hemoglobin “hold on” to oxygen molecules (the curve shifts to the LEFT). Other
+conditions allow hemoglobin to “release” the oxygen more easily to the tissue (the
+curve shifts to the RIGHT). See Table 4-2 for conditions that shift the curve to the
+left and right and Figure 4-9 for an illustration of the oxyhemoglobin-dissociation
+curve.
+
+  Table 4-2. Clinical Conditions That Cause a Shift of the Oxyhemoglobin-
+                              Dissociation Curve
+            Figure 4-9. Oxyhemoglobin-dissociation curve
+
+Conditions that cause a shift to the left result in a higher SaO2, but the tissues
+do not get needed O2 as readily.
+Conditions that cause a shift to the right result in a somewhat lower SaO2, but
+the tissues receive O2 more readily.
+2,3-Diphosphoglycerate (2,3-DPG)
+  What is 2,3-DPG? It is an organic phosphate, found in RBCs, that has the
+  ability to alter the affinity of Hgb for oxygen.
+    Decreased 2,3-DPG results in hemoglobin holding on to O2 (Table 4-3).
+    Increased 2,3-DPG results in hemoglobin more readily releasing O2 (Table
+    4-3).
+
+            Table 4-3. Effect of 2,3-DPG on Hgb Affinity for Oxygen
+Carbon Monoxide Poisoning
+   Carbon monoxide (CO) has a greater affinity for hemoglobin than oxygen—
+   approximately 230 times greater (Figure 4-10)!
+
+
+
+
+           Figure 4-10. Carbon monoxide’s effects on hemoglobin
+
+   In the presence of CO, oxygen cannot be carried → tissue hypoxia.
+   Do NOT use pulse oximetry to monitor the oxygenation status for a patient
+   with CO poisoning. The pulse oximeter cannot differentiate between CO and
+   O2. Therefore, an SpO2 of 95%, in the presence of CO poisoning, only means
+   that the hemoglobin is saturated with a total of 95% molecules.
+     If the CO level of the blood is 40%, the maximum amount of O2 that can be
+     carried by hemoglobin is 60%.
+Carboxyhemoglobin (COHb) levels and associated clinical presentation:
+
+   0–5% = Normal
+   < 15% = Often in smokers, truck drivers
+   15–40% = Headache, some confusion
+   40–60% = Loss of consciousness, Cheyne-Stokes respiration
+   50–70% = Mortality > 50%
+✰ Treatment
+   100% FiO2 until symptoms resolve and carboxyhemoglobin level is < 10%
+   Hyperbaric oxygen chamber if available, generally within 30 minutes
+Lung Compliance
+Think of compliance as the degree of elasticity of tissue. Therefore, a decrease in
+compliance increases resistance or stiffness.
+
+   Static compliance: measurement of the elastic properties of the lung
+
+
+
+
+    Note that an increase in plateau pressure will decrease compliance.
+   Dynamic compliance: measurement of the elastic properties of the airways
+
+
+
+
+     Note that an increase in peak inspiratory pressure will decrease
+     compliance.
+   Normal for both is ~ 45–50 mL/cm H2O.
+   Patients with pulmonary problems that mainly involve the airways (e.g.,
+   asthma) have a decrease in dynamic compliance, but their static compliance
+   remains normal (Figure 4-11).
+   Patients with pulmonary problems that mainly involve the lungs (e.g.,
+   pneumonia, ARDS) have a decrease in static compliance, but their dynamic
+   compliance may also decrease as the lung pressures may transmit up to the
+   airways (Figure 4-11).
+               Figure 4-11. Dynamic vs. static compliance
+
+
+  TIP
+
+  ✰ For the exam, remember that decreased compliance increases the work of
+  breathing.
+
+
+
+Status asthmaticus
+  Static compliance (lungs) would be normal.
+  Dynamic compliance would be low.
+ARDS
+  Static compliance would be low.
+  Dynamic compliance would also be low.
+Acid-Base Interpretation
+ABGs WILL be tested on the Adult CCRN exam. You need to understand the 4
+major acid-base abnormalities as well as states of compensation—
+uncompensated, partial compensation, and full compensation. Not only will you
+need to know how to interpret the ABG, but you will also need to know what the
+clinical implications are for the patient and the treatment, if there are any. How did
+you do on the ABG question in the pretest of this book? A succinct review of acid-
+base interpretation is given in Table 4–4. Practice ABGs are also provided later in
+this section (with answers at the end of this chapter) so that you can practice as
+needed.
+
+                       Table 4-4. Normal ABG Parameters
+
+
+
+
+The information that follows will focus on acid-base interpretation, not
+oxygenation, which is covered in other areas of this book.
+General Points Related to Acid-Base Balance
+   Remember that the pH represents the hydrogen ion (H+) concentration of the
+   blood.
+   Due to the Henderson-Hasselbalch equation, when the H+ concentration is
+   increased, the pH decreases, and when the H+ concentration is decreased,
+   the pH increases. There is an inverse relationship between the H+ and the pH,
+   so don’t get confused!
+   Think of PaCO2 as an acid. When it increases, there is acidosis. When it
+   decreases, there is alkalosis.
+     The PaCO2 is controlled by the lungs. It is the respiratory parameter.
+     The lungs can change the PaCO2 within minutes (rapid change).
+   Think of HCO3 as a base. When it is greater than normal, alkalosis may be
+   present. When it is less than normal, acidosis may be present.
+     The HCO3 is controlled by the kidneys. It is the metabolic parameter.
+     The kidneys alter the HCO3 over hours to days (slow change).
+
+ Table 4-5. Four Primary Acid-Base Disorders and Expected Compensatory
+                                 Change
+
+
+
+
+Anion Gap
+The anion gap is the difference between positive and negative anions. In most
+instances of metabolic acidosis, there is an increase in the anion gap. In several
+types of metabolic acidosis, though, the anion gap remains normal.
+You will NOT need to calculate the anion gap for this exam, but you should know
+what is normal:
+
+
+
+
+   Normal is 5–15 mEq/L.
+   The anion gap is helpful in determining the cause of and/or response to
+   treatment for metabolic acidosis (Table 4-6). For instance, if a patient with
+   DKA presents with an anion gap of 25 mEq/L, one would expect the anion gap
+   to decrease gradually as the patient responds positively to treatment. Since
+   electrolytes are assessed frequently, the acidosis can be monitored by
+   monitoring the anion gap without getting frequent ABGs.
+
+               Table 4-6. Problems Associated with the Anion Gap
+
+
+
+
+      NOTE
+
+      You will not need to know how to calculate the anion gap for this exam.
+
+
+
+
+Acid-Base Compensation
+   Compensation is the body’s way of attempting to return the pH to normal
+   (7.35–7.45).
+     Uncompensated
+     Partial compensation
+     Full compensation: rare in critically ill, suspect a mixed disorder if present
+     Review Tables 4-7, 4-8, 4-9, and 4-10
+         Table 4-7. Examples of Compensation for Respiratory Acidosis
+
+
+
+
+         Table 4-8. Examples of Compensation for Respiratory Alkalosis
+
+
+
+
+          Table 4-9. Examples of Compensation for Metabolic Acidosis
+
+
+
+
+         Table 4-10. Examples of Compensation for Metabolic Alkalosis
+
+
+
+
+COMBINED ACID-BASE DISORDERS—SELDOM SEEN ON
+THE EXAM
+Occurs when 2 single disorders are present simultaneously to produce the same
+abnormality.
+
+   Combined respiratory and metabolic acidosis:
+    pH         7.21
+
+    PaCO2      50
+   HCO3       12
+
+ Combined respiratory and metabolic alkalosis:
+
+   pH         7.59
+
+   PaCO2      30
+
+   HCO3       33
+
+
+MIXED ACID-BASE DISORDERS—SELDOM SEEN ON THE
+EXAM
+ Simple acid-base disorders result from a single process, such as metabolic
+ acidosis.
+ In many critically ill patients, multiple acid-base disturbances exist concurrently
+ and result in complex, mixed acid-base disorders.
+ For example, a patient with septic shock may present with respiratory alkalosis
+ and metabolic acidosis.
+ Complex formulas can be applied to determine whether the compensating
+ parameter (PaCO2 or HCO3) has compensated more than predicted for the
+ primary problem, indicating that a mixed disorder is present. You will not need
+ to know these formulas for this exam.
+
+
+SYSTEMATIC ASSESSMENT OF ACID-BASE
+1. Evaluate the pH → determine whether it is normal, acidotic, or alkalotic.
+2. Evaluate respiratory parameters and then renal parameters → determine
+   which, if either, is abnormal.
+3. Determine the state of compensation.
+4. Evaluate for a mixed disorder.
+5. Assess oxygenation (PaO2, SaO2).
+Practice ABGs
+ Directions: Interpret each of the following ABGs. Identify the primary problem and the type
+ of compensation. The answers can be found on page 108.
+
+
+
+
+ABG                               Interpretation
+
+1. pH 7.48 PaCO2 32 HCO3 24       1. ______________________________________________
+
+2. pH 7.32 PaCO2 48 HCO3 25       2. ______________________________________________
+
+3. pH 7.30 PaCO2 38 HCO3 18       3. ______________________________________________
+
+4. pH 7.28 PaCO2 60 HCO3 29       4. ______________________________________________
+
+5. pH 7.49 PaCO2 40 HCO3 30       5. ______________________________________________
+
+6. pH 7.28 PaCO2 70 HCO3 33       6. ______________________________________________
+
+7. pH 7.50 PaCO2 49 HCO3 38       7. ______________________________________________
+
+8. pH 7.31 PaCO2 32 HCO3 15       8. ______________________________________________
+
+9. pH 7.30 PaCO2 50 HCO3 25       9.______________________________________________
+
+10. pH 7.48 PaCO2 40 HCO3         10. _____________________________________________
+30
+
+11. pH 7.38 PaCO2 80 HCO3 47      11. _____________________________________________
+Respiratory Disorders
+About 14 respiratory topics are included in the Adult CCRN test
+blueprint. However, some topics are more likely to be included on the
+exam than others. It is highly recommended that you study ARDS,
+status asthmaticus, pneumonia, and pulmonary embolism in order to
+do well on the respiratory questions. The physiological concepts that
+were reviewed previously in this chapter are the foundation for all of
+the respiratory disorders. Specific respiratory disorders that are likely
+to be seen on this exam are reviewed in the following sections.
+Acute Respiratory Failure
+ Acute respiratory failure is defined as a rapidly occurring inability
+ of the lungs to maintain adequate oxygenation of the blood with
+ or without impairment of carbon dioxide (CO2) elimination.
+ Specifically, the ABG demonstrates:
+   PaO2 of 60 mmHg or less, with or without an elevation of
+   PaCO2 to 50 mmHg or more with pH < 7.30
+ As seen from the definition, the primary problem may be one of
+ hypoxemia (Type 1) or hypercarbia (Type 2) or both (Type 3).
+ Type 1 (Hypoxemic)
+   ARDS
+   Asthma
+   Atelectasis
+   Interstitial fibrosis
+   Pneumonia
+   Pulmonary edema (heart failure)
+   Pulmonary embolism (massive)
+   Smoke inhalation
+ Type 2 (Hypercapnic)
+   CNS depression due to oversedation
+   COPD (acute exacerbation)
+   Head trauma
+   Musculoskeletal disorders or trauma
+   Sleep apnea
+   Status asthmaticus
+ Type 3
+     ARDS (late)
+     COPD (late, acute exacerbation)
+     Status asthmaticus (late)
+   Clinical signs/symptoms of acute hypoxemic respiratory failure
+     Pulmonary: tachypnea, adventitious breath sounds, accessory
+     muscle use
+     Cardiac: tachyarrhythmias (initial), bradyarrhythmias (late),
+     hypertension or hypotension, cyanosis (central, e.g., lips,
+     earlobes)
+     Neurological: anxiety, agitation
+   Clinical signs/symptoms of acute hypercapnic respiratory failure
+     Pulmonary: shallow breathing, bradypnea, lungs may be clear
+     or there may be adventitious breath sounds
+     Neurological: progressive decreased level of consciousness
+     (lethargic, obtunded, stuporous, unresponsive)
+Prompt identification and treatment may prevent a catastrophic
+outcome! The etiology of the signs/symptoms may not be the
+primary focus initially.
+Treatment of Acute Respiratory Failure
+  Maintain airway and improve ventilation.
+   Positioning (upright)
+   Suctioning
+   Bronchodilator therapy for wheezing
+   Noninvasive ventilation
+   Intubation, mechanical ventilation if needed
+   Repeat ABGs as needed
+  Optimize oxygenation.
+   Adjust FiO2 to keep SaO2 ~ > 0.90
+    Decrease FiO2 to 0.50 or less ASAP
+    Do not allow hypoxemia to occur to “prevent O2 toxicity”
+    Use PEEP/CPAP as needed
+    Use pulse oximetry to monitor response to therapy
+  Optimize circulation, cardiac output.
+    Manage hypotension
+    Address cardiac arrhythmias
+  Identify the etiology, target treatment accordingly.
+  Provide emotional support.
+Use of Noninvasive Ventilation for the
+Management of Acute Respiratory Failure
+When used for an appropriate patient, noninvasive ventilation (NIV)
+has been shown to decrease morbidity and mortality. There are 2
+main types of NIV. Generally, though, the exam does not cover the
+details related to the type of NIV. More importantly, understand those
+who would NOT benefit from this therapy. Occasionally, a patient
+may initially be a good candidate for NIV but then, due to a change
+in condition, the patient should be intubated with an endotracheal
+tube.
+
+   CPAP—Continuous positive airway pressure
+    Indicated for patients with hypoxemic respiratory failure who
+    have increased work of breathing (e.g., cardiogenic pulmonary
+    edema)
+    Settings include FiO2 and 1 pressure setting in cm H2O
+     pressure.
+   BiPAP—Bilevel positive airway pressure
+     Indicated for patients with hypoxemic and/or hypercapnic
+     respiratory failure
+     Settings include FiO2 and 2 pressure settings: the inspiratory
+     positive airway pressure (IPAP) and the expiratory positive
+     airway pressure (EPAP).
+     IPAP assists ventilation and EPAP assists oxygenation.
+
+
+Advantages of NIV
+   Buys time for medical treatment to take effect
+   Reduces the work of breathing (WOB)
+   Decreases preload and afterload
+   Improves oxygenation
+   Improves ventilation (BiPAP)
+   Reduces atelectasis
+   Prevents intubation and resultant risks
+✰ Contraindications for NIV
+    Hemodynamic instability or life-threatening arrhythmias
+    Copious secretions
+    High risk of aspiration
+    Impaired mental status (unable to protect airway)
+    Suspected pneumothorax
+    Inability to cooperate
+    Life-threatening refractory hypoxemia (PaO2 < 60 with FiO2
+    1.00)
+Use of High-Flow Nasal Cannula (HFNC) Oxygen
+HFNC oxygen therapy, which has long been used for pediatric and
+infant populations, is now used for select adult populations in the
+treatment of acute respiratory failure and post-extubation.
+
+   HFNC oxygen delivery systems are able to deliver FiO2 (up to
+   100%) of heated and humidified gas at flow rates up to 60
+   L/minute via a nasal cannula.
+   Advantages of HFNC therapy
+     Able to provide high FiO2 (up to 100%)
+     Heated and humidified oxygen may improve secretion
+     clearance and decrease airway inflammation
+     Able to meet high inspiratory flow demands of tachypneic
+     patients
+     Seems to promote alveolar recruitment and increase FRC
+     Decreases dead space ventilation
+     More comfortable than CPAP or BiPAP masks, allows access
+     to the mouth without removal of a mask
+   Limitations of HFNC oxygen therapy
+     Unable to deliver higher airway pressures (PEEP or CPAP),
+     and the low levels of airway pressure provided are variable
+     when mouth breathing
+     Provides limited pressure support for a patient with
+     hypercapnic respiratory failure
+   Indications: community-acquired pneumonia; cardiogenic
+   pulmonary edema when NIV is not tolerated; preoxygenation
+prior to intubation; post-extubation (even in low-risk patients); for
+a patient who refuses intubation (DNI) but accepts alternate
+treatment measures
+HFNC oxygen therapy may also be used in conjunction with NIV
+post-extubation to prevent re-intubation.
+Nursing implications
+   Monitor for deteriorating oxygenation/ventilation (the patient
+   may require NIV or intubation and mechanical ventilation)
+   Assess for nasal skin irritation
+Chronic Obstructive Pulmonary
+Disease (COPD): Acute Exacerbation
+ COPD includes emphysema, asthma, and bronchitis (more
+ details on status asthmaticus are in the next section).
+ In general, with each type of COPD, it is easier for air to enter the
+ pulmonary system than to exit it; inspiration is easier than
+ exhalation.
+ Physiological consequences of COPD include:
+   Dynamic hyperinflation occurs due to too much air in the lungs.
+   Air trapping and auto-PEEP are common.
+   Expiratory flow rates are LOW.
+   An acute exacerbation results in a V/Q mismatch due to a
+   problem with ventilation and an increase in the PaCO2.
+   The patient may have chronic CO2 retention; if so, the patient
+   will have partial or complete compensation and high HCO3 on
+   the ABG.
+   COPD may result in right ventricular enlargement (cor
+   pulmonale) and elevated CVP.
+ Signs of an acute exacerbation of COPD include:
+  Worsening dyspnea
+  Increase in sputum purulence
+  Increase in sputum volume
+  Hypercapnia, hypoxemia
+ Management of an acute exacerbation of COPD includes:
+ Titrate FiO2 to PaO2 > 60 mmHg or SaO2 > 90% with care not
+ to overcorrect hypoxemia and decrease respiratory drive
+— Must address severe hypoxemia; do not withhold oxygen
+     only because hypoventilation may occur . . . cells still need
+     oxygen
+ Bronchodilator therapy
+— Inhaled short-acting beta-agonist (SABA), e.g., albuterol
+— Inhaled anticholinergic
+ Monitor the level of consciousness for decreased
+ responsiveness (clinical sign of worsening hypercapnia).
+ Corticosteroid therapy
+ Antibiotic therapy (when pneumonia is thought to be the
+ trigger)
+ Proceed with mechanical ventilatory support if needed
+ (noninvasive or invasive).
+— Multiple studies have shown that noninvasive ventilation
+    (NIV) is beneficial for patients with an acute exacerbation of
+    COPD.
+Status Asthmaticus
+ Status asthmaticus is airway hyper-reactivity that produces severe airway
+ narrowing that is refractory to aggressive bronchodilator therapy, which may
+ result in respiratory failure. Status asthmaticus can be fatal as evidenced by the
+ pathophysiology diagram in Figure 4-12.
+Figure 4-12. Pathophysiology of status
+             asthmaticus
+Clinical Presentation of Status Asthmaticus
+  Dyspnea, tachypnea
+  Cough, chest tightness
+  Accessory muscle use
+  Wheezing → decreased breath sounds → absent breath sounds . . . ominous
+  sign!
+  V/Q mismatch
+  Chest X-ray may have flattened diaphragm (sign of air trapping).
+  Tachycardia
+  Pulsus paradoxus ≥ 15 mmHg (severe is > 18 mmHg)
+  Anxiety → ↓ LOC
+  May have elevated WBC, eosinophils
+  Peak flow rate < 80% of predicted, < 50% is severe
+  History of previous intubations (higher mortality)
+  Table 4-11 describes ABG changes.
+
+       Table 4-11. ABG Progression in Status Asthmaticus (on Room Air)
+Management of Status Asthmaticus
+  Measure presenting peak flow rate (PFR).
+   Admit the patient to the hospital if the PFR is 50–70%.
+    Admit the patient to the ICU if the PFR is < 50%.
+  Bronchodilator: short-acting beta-2 agonists, e.g., albuterol (Ventolin)
+  Anticholinergics, e.g., ipratropium (Atrovent)
+  Corticosteroids (systemic)
+  O2, pulse oximetry
+  Hydration to prevent thickened secretions
+  Avoid sedation agents.
+  Intubation, mechanical ventilation if any of the following ominous signs occur:
+    Respiratory acidosis
+    Severe hypoxemia
+      Silent chest
+      Change in the level of consciousness (LOC)
+  If the patient is intubated and sedated on mechanical ventilation, avoid paralytics
+  because paralytics combined with steroids increase incidences of neuropathy.
+ ✰ Ventilator management for status asthmaticus
+   Use low rate to increase exhalation time.
+   Use low tidal volumes to prevent auto-PEEP.
+   Increase inspiration/expiration (I/E) ratio, often greater than 1:3–4, to allow time
+   for optimal exhalation and to prevent auto-PEEP.
+Pulmonary Embolism
+ A pulmonary embolism (PE) is a partial or complete obstruction of the pulmonary
+ capillary bed by a blood clot or another substance such as fat, air, amniotic fluid,
+ or a foreign material, with a disruption of blood flow to an area of the lung.
+   Massive: > 50% occlusion
+   Submassive: < 50% occlusion
+   80–90% result from DVT
+ Although a pulmonary embolism may be the result of a variety of causes, venous
+ thromboembolism (VTE) is the primary cause. VTE and a fat embolism are the 2
+ types of embolism that are most likely to be covered on the Adult CCRN exam.
+ Refer to Table 4-12 for the risk factors for VTE and Figure 4-13 for the
+ pathophysiology of PE.
+
+         Table 4-12. Risk Factors for Venous Thromboembolism (VTE)
+                   Figure 4-13. Pathophysiology of pulmonary
+                                   embolism
+
+
+Refer to Table 4-13 for the signs and symptoms of a PE.
+
+                    Table 4-13. Signs and Symptoms of a PE
+Types of PE
+  Venous thromboembolism—DVT
+  Fat emboli—long bone, pelvic fractures
+  Air emboli—surgery, IV lines
+  Catheter embolization
+  RA/LA or RV embolus—AFib/flutter (left atrial leading to stroke is more common)
+  Amniotic fluid embolism (rare)—amniocentesis, abruptio placenta, or abortion
+  Tumor emboli—malignancy causes an increase in thrombin
+  Septic emboli—bacterial/viral
+Diagnosis of PE
+   Pulmonary angiography—gold standard!
+   V/Q scan: “high” probability, “low” probability, not definitive
+   High-speed CT scan
+   D-dimer: good rule-out test; if positive, it means that a clot is present in the body;
+   therefore, if symptoms ARE due to a PE, expect the D-dimer to be positive
+   Venous Doppler (helps with source)
+
+  TIP
+
+  ✰ A PE will increase alveolar dead space!
+
+
+
+Note: ~ 2/3 of PEs never get diagnosed!
+
+
+Table 4-14 lists mechanical and pharmacological agents that are used to prevent
+PEs.
+
+
+                            Table 4-14. Prevention of PEs
+Treatment of PE
+  Maintain adequate airway, ventilation, and oxygenation
+  Fluids!
+  Anticoagulation
+    Heparin (80 units/kg IVP and then 18 units/kg/hr drip)
+    Low–molecular-weight heparin (1 mg/kg q 12 hrs)
+    Coumadin on the first treatment day if able
+    The patient may require long-term anticoagulation.
+
+
+    NOTE
+
+    You will not need to know drug doses for this exam.
+
+
+
+  Fibrinolytic therapy: for all patients with hemodynamic compromise with a
+  low risk for bleeding
+  Maintain cardiac output (inotropes, fluids)
+  Analgesics for a patient who experiences pain
+Pulmonary Hypertension
+Pulmonary hypertension (PH) is included on the test blueprint.
+However, you are more likely to see questions that cover status
+asthmaticus, PE, pneumonia, and ARDS than questions that cover
+PH. Keep this in mind when studying.
+
+   PH is defined as a MEAN pulmonary artery pressure that is
+   greater than 25 mmHg at rest and a PAOP that is less than 16
+   mmHg at rest with secondary right heart failure.
+     The normal mean pulmonary artery pressure is ~ 20 mmHg.
+     Since the RV normally pumps into a low-pressure system, the
+     wall of the RV is thin compared to that of the LV. Pulmonary
+     hypertension results in cor pulmonale and right ventricular
+     failure.
+   5 groups of PH, as defined by the World Health Organization
+   (WHO)
+     Group 1—Pulmonary arterial hypertension (PAH); sporadic and
+     hereditary due to localized small pulmonary muscular arterioles
+     (i.e., collagen vascular diseases, drug/toxin induced)
+     Group 2—Pulmonary hypertension (PH) due to left heart
+     disease, such as LVF or valvular (mitral, aortic) disease
+     Group 3—PH due to lung diseases or hypoxemia
+     Group 4—PH due to chronic thromboembolic problems
+     Group 5—PH that has unclear factors or is multifactorial (e.g.,
+     sarcoidosis)
+Signs and Symptoms of Pulmonary Hypertension
+  Exertional dyspnea, lethargy, and fatigue due to an inability to
+  increase cardiac output with activity
+  Progression to RV failure, chest pain, syncope with exertion, and
+  peripheral edema
+  Passive hepatic congestion may cause anorexia and ABD pain
+  Ortner’s syndrome—cough, hemoptysis, and hoarseness
+  Systolic ejection murmur, increased intensity of pulmonic
+  component of S2 heart sound, diastolic pulmonic regurgitation
+  murmur, right-sided murmurs, and gallops are augmented with
+  inspiration.
+  RV hypertrophy, elevated JVD, hepatomegaly, ascites, and
+  pleural effusion
+Treatment of Pulmonary Hypertension
+  Treat the underlying cause as able.
+  Each “group” has specific treatments based on the cause.
+  All regimens should consider diuretics, oxygen, anticoagulants,
+  digoxin, and exercise training.
+  Use dilators, which include calcium channel blockers or
+  phosphodiesterase-5 inhibitors, e.g., sildenafil (Viagra), tadalafil
+  (Cialis), or treprostinil (Remodulin).
+  For patients who are refractory to all medical interventions—lung
+  transplantation (bilateral or heart-lung transplant) or possible
+  atrial septostomy (right-to-left shunt)
+Pneumonia
+Pneumonia is an acute inflammation of the lung parenchyma
+(caused by an infectious agent) that can lead to alveolar
+consolidation.
+
+Causative agents include:
+
+ 1. Bacterial
+ 2. Viral
+ 3. Fungal
+ 4. Parasitic
+
+Pneumonia may also be classified according to where it developed:
+
+   Community-acquired pneumonia (CAP)
+    Outside the hospital
+    Common pathogens: Streptococcus pneumoniae, Legionella
+    pneumophila, Klebsiella pneumoniae, Haemophilus influenzae,
+    Staphylococcus aureus, Mycoplasma pneumoniae,
+    Pseudomonas aeruginosa
+   Hospital-acquired pneumonia (HAP)
+     Acute care
+     Long-term care
+     Nursing home
+✰ Ventilator-associated pneumonia (VAP); now referred to as
+  ventilator-associated event (VAE)
+By definition, develops 48 hours or more after admission to the
+hospital
+Common pathogens: P. aeruginosa, Escherichia coli, K.
+pneumoniae, Acinetobacter baumannii, Staphylococcus aureus
+(especially diabetes and head trauma), MRSA
+HAP has higher mortality than CAP.
+Risk Factors for Pneumonia
+Multiple factors will increase the risk, including:
+
+   Age
+   Preexisting pulmonary disease
+   Smoking
+   ↓ level of consciousness (LOC)
+   Artificial airways
+   Chronic illness
+   Malnutrition
+   Immunocompromised
+   Increased secretions
+   Atelectasis
+   Immobility
+   Depressed cough or gag reflexes
+   Concurrent antibiotic therapy
+   Aspiration
+   Organisms spread from another site (gut, wound) to the lungs.
+   Multiple organ dysfunction syndrome (MODS)
+Signs and Symptoms of Pneumonia
+  Chills, diaphoresis, fever, malaise
+  Tachycardia, chest pain
+  Confusion (especially for the elderly)
+  Productive cough
+  Use of accessory muscles
+  Dehydration
+  Over area of consolidation on the chest:
+    ↑ Tactile fremitus
+    Dull to percussion
+    Bronchial breath sounds or diminished breath sounds
+    Bronchophony (louder/clearer)
+    Egophony (“e” to “a”)
+    Whispered pectoriloquy (whisper heard better with a
+    stethoscope)
+Diagnosis of Pneumonia
+  CXR: consolidation or diffuse patchy infiltrates
+  Sputum culture with Gram stain
+  Blood cultures
+  WBC: high but may be normal or low in immunocompromised or
+  elderly people
+  WBC differential: increased bands > 10%
+  ABGs: hypoxemia
+  Thoracentesis for effusions
+Treatment of Pneumonia
+   Optimize oxygenation and ventilation.
+    Titrate FiO2
+✰ Positioning—GOOD lung DOWN
+    Bronchial hygiene, chest physiotherapy
+    Prone positioning for severe hypoxemia
+    Noninvasive ventilation or intubation/mechanical ventilation as
+    needed
+    Bronchoscopy (with lavage, if needed)
+    Mobilize, clear secretions
+   Identify organism
+     Sputum culture and sensitivity (C&S)
+     Blood cultures
+   Antibiotic therapy
+     Empiric therapy: choice of agent is based on the likely
+     causative organism (as determined by a patient assessment
+     and the types of pneumonia seen in the community and in the
+     institution) and whether that organism may be resistant to
+     therapy
+     Timing: first dose within 4 hours if the patient first presents to
+     the Emergency Department (and is later admitted to the
+     hospital); the first antibiotic dose should be given in the
+     Emergency Department; note that if the patient has sepsis, the
+     antibiotic timing differs (see Chapter 5 of this book)
+     Organism-specific therapy: as soon as the results of the C&S
+     are available
+System support
+  Hydration
+  Fever management
+  Glucose control
+  Nutrition
+General preventative measures
+  Smoking cessation
+  Pneumonia vaccine for those who are 65 and older
+  Flu vaccine
+Prevention of Hospital-Acquired Pneumonia
+  Practice hand hygiene.
+  Keep HOB elevated 30 degrees or greater.
+  Prevent bacterial translocation from GI tract: use the gut, feed
+  patient.
+  Practice oral hygiene!
+  Provide education on common institution pathogens and the
+  rates of nosocomial pneumonia.
+  Use evidence-based confirmation of feeding tube placement.
+    Confirm with an X-ray prior to using for feeding.
+    Mark the exit site with an indelible marker for future reference.
+    Assess patency every 4 hours.
+    Observe for a change in the length of the external portion of
+    the feeding tube (as determined by movement of the marked
+    portion of the tube).
+    Review routine chest and abdominal X-ray reports to look for
+    notations about tube location.
+    Observe changes in volume of aspirate from feeding tube.
+    If pH strips are available, measure the pH of feeding tube
+    aspirates if feedings are interrupted for more than a few hours.
+    Observe the appearance of feeding tube aspirates if feedings
+    are interrupted for more than a few hours.
+    Obtain an X-ray to confirm tube position if there is doubt about
+    the tube’s location.
+Prevention of Ventilator-Associated Pneumonia
+Prevention involves all of the interventions for preventing hospital-
+acquired pneumonia, plus:
+
+   Drain accumulated condensate from tubing.
+   Prevent backflow of tubing condensate into endotracheal tube
+   (ETT).
+   Change ventilator tubing only when it is contaminated.
+   Mobilize the patient.
+   Utilize aseptic technique for ETT, tracheostomy suctioning.
+   Adhere to mouth care protocol, chlorhexidine mouth rinse.
+   Brush teeth to remove plaque.
+   Keep ETT cuff inflated.
+   Perform subglottic suctioning prior to cuff deflation.
+   Perform routine oropharyngeal suctioning.
+Aspiration
+Aspiration is the inhalation of toxic substances into the lung, with an
+injury to the lung that is the result of the chemical, mechanical, and/or
+bacterial characteristics of the aspirate.
+
+   Oropharyngeal is most common!
+   May or may not involve an infection
+   May be acute or chronic: micro or massive
+   Table 4-15 shows management techniques.
+
+             Table 4-15. Emergent Management of Aspiration
+
+
+
+
+✰ Due to the anatomy of the right mainstem bronchus (shorter, wider,
+  and with less of an angle), most aspirations occur in the RIGHT lung.
+  Although aspirations may occur in both lungs, they seldom are
+  isolated solely to the left lung.
+Etiology of Aspirations
+  Altered level of consciousness
+  Drug or alcohol abuse
+  Depressed gag, cough, or swallowing reflexes
+  Presence of feeding tubes (all types)
+  Improper patient positioning
+  Presence of artificial airways
+  Ileus or gastric distension
+  History of dysphagia, GERD, esophageal strictures, ↓ GI motility
+  Increased secretions
+Signs and Symptoms of Aspirations
+  Acute respiratory distress
+  Presence of gastric contents in oropharynx
+  Tachycardia
+  Hypoxemia
+  Crackles
+  Copious secretions due to alveolar edema
+  Hypotension (massive fluid shifts may occur)
+Acute Respiratory Distress Syndrome
+(ARDS) and Acute Lung Injury (ALI)
+ARDS and ALI are syndromes caused by a variety of acute conditions that trigger
+an inflammatory response, resulting in an increase in the permeability of the
+pulmonary capillary membrane, which allows a transudation of proteinaceous
+fluid into the interstitial and alveolar spaces. They may also be referred to as
+“noncardiogenic pulmonary edema.” Damage to Type II alveolar cells is one of
+the pathological consequences. Since these are the cells that are responsible for
+the production of surfactant, massive atelectasis occurs.
+
+
+  TIP
+
+  ✰ This exam always includes several questions on this topic! Study accordingly.
+
+
+
+ALI is similar to ARDS in that both involve a shunt, which results in hypoxemia.
+The degree of the shunt is represented by the PaO2 to FiO2 ratio, as described in
+Table 4-16. Note that you will not be expected to differentiate between ALI and
+ARDS on this exam.
+
+   All of the criteria in Table 4-16 must be present for a diagnosis of ARDS or
+   ALI. The pulmonary edema is not due to heart failure. Hypoxemia is
+   REFRACTORY, meaning that the FiO2 is increased to the maximum of 100%
+   and hypoxemia is still present.
+   Since a shunt is present, PEEP needs to be provided in order to increase
+   alveolar recruitment and treat the refractory hypoxemia.
+
+                  Table 4-16. Differentiation of ARDS and ALI
+NOTE
+
+PEEP treats a shunt by preventing alveolar collapse; it does not necessarily
+decrease pulmonary shunting.
+PaO2/FiO2 Examples
+   The patient is receiving 50% FiO2 and PaO2 is 90:
+
+
+
+
+   The patient is receiving 30% FiO2 and PaO2 is 110:
+
+
+
+
+   The patient is receiving room air and PaO2 is 62:
+
+
+
+
+   The patient is on 100% FiO2 and PaO2 is 95:
+
+
+
+
+Remember: It is not only the PaO2/FiO2 ratio that is considered when diagnosing
+ALI or ARDS; the other 3 factors also need to be present.
+Surfactant
+   Phospholipid/lipoprotein produced by Type II alveolar cells
+   Stabilizes alveoli, “keeps them open”
+   Increases lung compliance
+   Eases work of breathing
+   Therefore, with ARDS (destruction of Type II alveolar cells):
+     Massive atelectasis, alveolar collapse
+     Decreased compliance
+     Increased work of breathing
+     Decreased functional residual capacity (FRC)
+
+Figure 4-14 and Tables 4-17 and 4-18 show the pathophysiology, etiology, and
+signs and symptoms of ARDS and ALI.
+
+
+
+
+                 Figure 4-14. Pathophysiology of ARDS/ALI
+
+
+                       Table 4-17. Etiology of ARDS/ALI
+Table 4-18. Signs and Symptoms of ARDS/ALI
+Treatment of ARDS/ALI
+ ✰ Pulmonary stabilization strategies
+   Intubation with mechanical ventilation
+   PEEP, usually 15 cm H2O or greater; monitor for barotrauma and ↓ cardiac
+   output; treat hypotension, but do NOT discontinue PEEP
+  — Note: Disconnection of the ventilator circuit (and PEEP) will result in
+     alveolar derecruitment and hypoxemia that may not be readily corrected.
+   Limit plateau pressure to 30 cm H2O or less.
+   Limit tidal volume (Vt) to 5–6 mL/kg → “permissive hypercapnia” to prevent
+   volutrauma.
+  — A low Vt will cause a rise in the PaCO2 and a drop in the pH; however,
+      patients tend to tolerate a pH as low as 7.2.
+
+  Cardiovascular stabilization
+   Support the BP (fluids, vasopressors, especially when ARDS is due to
+    septic shock).
+    Monitor for and treat arrhythmias.
+  Prone positioning: helps deliver blood flow to underperfused lung units,
+  thereby improving ventilation/perfusion; keeps alveolar lung units open, thus
+  improving gas exchange and preventing further injury
+    Use extreme caution to avoid misplacement or loss of airway.
+    Prevent a pressure injury.
+  Monitor acid-base balance.
+  DVT and stress ulcer prophylaxis
+  Analgesia, sedation
+  Nutritional support
+  Nitric oxide, prone positioning may provide improvement in oxygenation.
+  Coordinate the interdisciplinary team—PT, OT, and dietitian.
+  Prevent, identify organ failure.
+  Provide emotional support (to the patient and the patient’s family).
+  Monitor for complications.
+No steroids (except for select patients with COVID-19 pneumonia)
+Complications of ARDS/ALI
+The mortality from ARDS is still around 30%, although patients do not die from
+hypoxemia. Instead, they die from multiple organ dysfunction syndrome (MODS)
+and other complications, as listed below:
+
+   Secondary infections
+   Pulmonary embolus
+   Ileus
+   Skin breakdown
+   Malnutrition
+   Barotrauma: pneumothorax, subcutaneous emphysema
+Pneumothorax
+Pneumothorax (Figures 4-15 and 4-16 and Table 4-19) is included in the Adult
+CCRN test blueprint. A simple, unilateral pneumothorax is generally not life-
+threatening, unless it occurs in a patient with end-stage chronic lung disease. A
+tension pneumothorax, however, may be life-threatening. Therefore, you must
+know the difference between the two types. The test makers also expect you to
+have an understanding of chest tube management.
+
+
+
+
+                      Figure 4-15. Pathophysiology of a
+                                pneumothorax
+Types of Pneumothorax
+  Spontaneous
+  Traumatic
+    Open (penetrating chest trauma)
+    Closed (blunt chest trauma)
+    Iatrogenic (due to therapeutic or diagnostic procedures) (Figure 4-16)
+✰ Tension
+   Air is unable to exit → mediastinal shift
+   Life-threatening
+
+
+
+
+                Figure 4-16. Pneumothorax (no mediastinal
+                                 shift)
+
+
+            Table 4-19. Signs and Symptoms of a Pneumothorax
+Figure 4-17. Simple right pneumothorax (no
+                 tension)
+               Figure 4-18. Right tension pneumothorax,
+                            mediastinal shift
+
+
+Hemothorax
+ Usually due to trauma; presents as lung collapse, with blood in the pleural
+ space or in the mediastinal space
+Dullness to percussion
+Absent breath sounds on the affected side
+Tracheal deviation toward the unaffected side
+Treatment for a Pneumothorax
+  Pneumothorax > 20%
+   Chest tube: reestablish negative pleural pressure
+   Supplemental O2
+   Treat pain, if needed.
+  Pneumothorax < 20%
+    O2
+   Monitor for lung reexpansion.
+   If there is a pneumothorax plus an underlying lung disease, the patient may
+   need a chest tube.
+✰ Chest Tube Assessment and Management
+  Close assessment of the patient’s respiratory status, which should improve
+  after chest tube insertion
+  Pain assessment, treatment
+  Entry site—dressing assessment
+  Tubing—no dependent loops!
+  Drainage collection chamber
+    Keep lower than chest
+  Water seal chamber
+    Tidaling with deep inspiration is normal.
+   Air leak
+  — Bubbling in water seal chamber is not normal.
+  — May be present postoperatively; if there has not been a leak and now
+      there is bubbling, notify the physician.
+  — Avoid high airway pressures with chest tubes in place in order to avoid an
+       air leak.
+  Suction control chamber: gauge or water level determines the amount of
+  suction, NOT the wall suction source.
+  Clamp only when changing the system, with inadvertent disconnection, or with
+  a physician order.
+    Clamping cuts off the negative pressure water seal chamber; expanded
+    lung may re-collapse.
+Mechanical Ventilation
+Endotracheal Tube Placement
+  Confirmation of correct placement is done immediately after
+  intubation.
+     Waveform capnography is most accurate.
+     End-tidal CO2 detector
+   Auscultation
+  Cuff inflation to 20 cm H2O pressure
+  Obtain a chest radiograph for placement confirmation; should be
+  3–5 cm above the carina.
+  Assess and document tube placement at the level of the teeth or
+  gum line for an ongoing assessment of correct placement.
+  If the tube migrates down, it most often migrates to the right lung
+  due to the anatomy of the mainstem bronchi (right is shorter/wider,
+  with less of an angle, than the left).
+  Get ABGs within 20 to 30 minutes of intubation to assess acid-
+  base status.
+  The endotracheal tube:
+      Is narrow and increases airway resistance, similar to breathing
+    through a straw
+    Is longer than a tracheostomy tube; therefore, it has a greater
+    degree of dead space ventilation than a tracheostomy tube
+Ventilator Management
+  Ventilator breaths may be delivered at a set volume (most
+  common for adults) or at a set pressure.
+  The main focus of the exam is how the ventilator settings may
+  differ depending upon the patient’s primary problem (e.g., ARDS
+  or asthma); nontraditional modes of ventilation are not covered on
+  this exam.
+
+
+Ventilator Modes
+  Assist-control (AC) mode
+    The patient receives the set tidal volume at the set breath rate;
+    the patient also receives the set tidal volume for each breath
+    triggered by the patient’s spontaneous effort made above the
+    set breath rate.
+   — For example, if the AC is set at a rate of 12 breaths/minute,
+        at a tidal volume of 700 mL, and the patient’s total rate per
+      minute is 20, the tidal volume of the 8 extra breaths initiated
+      by the patient is 700 mL because the extra breaths are
+      sensed by the machine and the set tidal volume (700 mL) is
+       given.
+    All breaths are machine breaths.
+    Provides full ventilatory support
+    Not used as a weaning mode unless it is being alternated with
+    periods of spontaneous breathing (reducing the AC rate does
+    nothing if the patient is spontaneously breathing)
+     Can result in overventilation and/or hyperinflation of the lungs at
+     higher spontaneous breathing rates
+   Synchronized intermittent mandatory ventilation (SIMV) mode
+     The patient receives the set tidal volume at the set breath rate,
+     and all breaths above the set rate are spontaneous breaths at
+     the patient’s own tidal volume.
+   — For example, if the SIMV is set at a rate of 12 breaths/min, at
+     a tidal volume of 700 mL, and the patient’s total rate per
+     minute is 20, the tidal volume of the 8 extra breaths will vary
+        from breath to breath because the breaths that are
+        spontaneously initiated by the patient are at the patient’s own
+        tidal volume.
+     All machine breaths are synchronized with the patient’s
+     breathing effort.
+     Provides full or partial ventilatory support
+     Reducing the SIMV rate will allow the patient to assume more of
+     the work of breathing.
+     Spontaneous breaths may be pressure supported.
+
+
+Ventilator Settings
+Positive End-Expiratory Pressure (PEEP)
+   Positive pressure is applied to the airways at the end of
+   exhalation.
+   Increases lung volume at the end of exhalation (FRC), creating
+   more surface area for gas exchange; increases alveolar
+   recruitment
+   Can be applied to patients via artificial airways, full face mask,
+   nasal mask, and nasal prongs (neonates)
+   Think oxygenation!
+
+
+Continuous Positive Airway Pressure (CPAP)
+   CPAP is PEEP applied to a spontaneously breathing patient.
+   The patient does not receive machine breaths.
+   The patient assumes all of the work of breathing.
+   Usually the last step in the weaning process
+   All breaths may be pressure supported.
+   The patient may experience fatigue if left on CPAP for an
+   extended period of time.
+
+Pressure Support Ventilation (PSV)
+   The patient receives an increase in airway pressure during
+   inspiration to augment (boost) the spontaneous tidal volume.
+   Patient-triggered mode (if the patient is paralyzed and/or sedated,
+   PSV will not be triggered on)
+   Rate, tidal volume, inspiratory flow rate, and inspiratory time are
+   determined by the patient’s effort.
+   You cannot use PSV with assist-control mode.
+   PSV is frequently used during weaning to reduce the work of
+   breathing and to overcome imposed work of ETT and ventilator
+   circuit.
+
+
+Breath Rate
+   The breath rate is determined by the PaCO2, generally 12–16
+   breaths/minute on full ventilator support.
+
+Tidal Volume (Vt)
+   The tidal volume (Vt) is determined by the patient’s ideal body
+   weight and medical problem.
+   Generally, the Vt is 6–8 mL/kg.
+   For ARDS, in order to prevent “volutrauma,” it is 5–6 mL/kg.
+
+Fraction of Inspired Oxygen (FiO2)
+   The fraction of inspired oxygen (FiO2) is generally set at 100% on
+   intubation and is then adjusted down according to the PaO2; the
+   goal is to decrease it to 50% or less as soon as you are able to.
+
+
+Ventilator Alarms
+   Alarms are set for patient safety.
+
+Cause of High-Pressure Limit Alarms
+   Agitation
+   Coughing
+   Secretions
+   Aspiration
+   Kinked/occluded ETT or ventilator circuit
+   Bronchospasm or mucosal edema
+   Decreasing lung compliance (ARDS)
+   Pneumothorax
+
+Cause of Low-Pressure Limit Alarms
+   Ventilator circuit disconnection or leak
+   Inadequate tidal volume
+   Cuff leak
+   Chest tube leak
+If You Are Unable to Troubleshoot an Alarm, What Should You Do?
+   Disconnect the ventilator from the airway, and ventilate with a
+   bag/valve device.
+   A bag/valve device should be at the bedside of every patient who
+   is receiving mechanical ventilation, with the mask available as
+   well, in case there is an issue with the artificial airway.
+   As noted in the section on ARDS, disconnecting the ventilator
+   circuit (and PEEP) for a patient who requires high PEEP will result
+   in alveolar derecruitment and hypoxemia, which may not be
+   readily corrected.
+✰ Refer to Table 4-20 for the different ventilator setting guidelines
+  used for ARDS and asthma.
+
+  Table 4-20. Ventilator Setting Guidelines Used for ARDS and
+                                 Asthma
+
+
+
+
+Weaning from Mechanical Ventilation
+Criteria for weaning from mechanical ventilation and initiating a
+spontaneous breathing trial:
+
+   Original reason for intubation is being resolved.
+   Resting minute ventilation (ideally < 10 L/min)
+   Spontaneous tidal volume (ideally > 5 mL/kg)
+   Negative inspiratory force (NIF) (ideally > –25 cm H2O)
+   Rapid shallow breathing index (respiratory rate/Vt) (ideally < 105
+   breaths/min/L)
+   Vital capacity (ideally above 10 mL/kg body weight)
+   ABGs/oxygenation acceptable with FiO2 50% or less
+
+Criteria for stopping the spontaneous breathing trial:
+
+   Respiratory rate (> 35 breaths/minute)
+   Respiratory rate (< 8 breaths/minute)
+   SpO2 (< 88%)
+   Respiratory distress
+   Mental status change
+   Acute cardiac arrhythmia
+   Acute hypotension
+
+
+ Now that you have reviewed the key respiratory concepts, go
+ to the Practice Questions. Answer the questions, and then
+ check your answers. Continue to review the information until
+ you answer 80% of the practice questions correctly.
+Practice Questions
+ 1. Which of the following developments would indicate that a
+    patient, who is receiving noninvasive ventilation, may require
+   intubation with an endotracheal tube?
+
+    (A) a need for an increase in FiO2 from 0.30 to 0.40
+    (B) a dry cough and a fever
+    (C) a change in mental status with difficulty to arouse
+    (D) positive blood cultures
+
+
+ 2. A patient was discharged from the medical unit 7 days ago
+    following an acute ischemic stroke and is now anxious and
+    complaining of severe shortness of breath. The patient
+    demonstrates tachycardia, tachypnea, hypotension, an SpO2 of
+   88% on 3 L/nasal cannula, and a temperature of 37.9°C.
+   Breath sounds are present, clear, and equal bilaterally. A chest
+   X-ray is clear. ABGs reveal respiratory alkalosis. Based on this
+   history and assessment, which of the following problems exists
+   and which interventions should the nurse anticipate?
+
+    (A) increased dead space ventilation; fibrinolytic therapy
+    (B) decreased dynamic compliance; bronchodilators
+    (C) infection; antibiotics
+    (D) shunt; PEEP therapy
+3. A patient who is receiving mechanical ventilation has a peak
+   inspiratory pressure of 70 cm H2O and a plateau pressure of
+  35 cm H2O. What intervention would be most beneficial for this
+  patient?
+
+   (A) Increase the FiO2.
+   (B) Administer morphine.
+   (C) Obtain stat ABGs.
+   (D) Administer a bronchodilator.
+
+4. Which of the following is an appropriate intervention for a
+   patient with status asthmaticus who is on a ventilator?
+
+   (A) Decrease the peak flow rate.
+   (B) Increase the tidal volume.
+   (C) Check for auto-PEEP.
+   (D) Increase the breath rate.
+
+
+5. Which of the following interventions has been demonstrated to
+   decrease ventilator-associated pneumonia?
+
+   (A) Provide sedation.
+   (B) Maintain the head of the bed at 20° or greater.
+   (C) Adhere to a mouth care protocol.
+   (D) Deflate the endotracheal tube cuff prior to suctioning.
+
+6. A 49-year-old male, who weighs 70 kg, is admitted to the ICU
+   with smoke inhalation and ARDS. He is receiving mechanical
+   ventilation with the following ventilator settings: FiO2 = 0.80,
+  assist-control mode = 10 breaths/minute, Vt = 400 mL, and
+  PEEP = 15 cm of pressure. Arterial blood gases are as follows:
+  pH 7.39, PaCO2 42, PaO2 96, HCO3 22, and O2 sat 98%.
+  Which of the following interventions is appropriate?
+
+  (A) Decrease the FiO2.
+  (B) Increase the tidal volume.
+  (C) Decrease the PEEP.
+  (D) Do not make any changes.
+
+7. Which of the following statements about lung compliance is
+   TRUE?
+
+  (A) An increase in the peak inspiratory pressure will decrease
+      static compliance.
+  (B) A decrease in compliance increases the work of breathing.
+  (C) Static compliance is decreased with an asthma
+      exacerbation.
+  (D) The plateau pressure is used to calculate dynamic
+      compliance.
+
+8. Each of the following is a clinical feature of ARDS EXCEPT:
+
+  (A) bilateral chest infiltrates on an X-ray.
+  (B) PAOP > 18 cm H2O.
+  (C) refractory hypoxemia.
+  (D) tachypnea.
+
+9. A patient has mild tachypnea, a productive cough, bronchial
+   breath sounds in the right mid and lower lobes, dullness to
+   percussion over the right lower chest, and an SpO2 of 92% on
+   0.40 FiO2. Which of the following interventions would be
+   appropriate for this patient?
+
+    (A) Contact the physician for an order for a bronchodilator.
+    (B) Use noninvasive ventilation.
+    (C) Avoid turning the patient to the right side.
+    (D) Maintain the patient in a supine position.
+
+10. Drug therapy that is most likely to be prescribed for a patient
+    with status asthmaticus includes which of the following drug
+    categories?
+
+    (A) bronchodilators and anticoagulants
+    (B) corticosteroids and diuretics
+    (C) antibiotics and expectorants
+    (D) bronchodilators and corticosteroids
+
+11. The following interventions may improve oxygenation EXCEPT:
+
+    (A) increasing the FiO2.
+    (B) giving PRBCs.
+    (C) giving fluids or pressors to increase a low BP.
+    (D) increasing the ventilator breath rate.
+
+12. While monitoring a patient post-thoracotomy, the nurse
+    suspects that there is hypoventilation. Which characteristic best
+    defines hypoventilation?
+      (A) PaCO2 > 45 mmHg
+      (B) respiratory rate < 12
+      (C) pH < 7.35
+      (D) PaO2 < 60 mmHg
+
+
+ 13. A patient who was admitted with a carboxyhemoglobin (COHb)
+     level of 45% is lethargic and complains of a headache. The
+     patient is receiving 100% O2 per a face mask and is noted to
+     have an SpO2 of 100%. Which of the following is indicated?
+
+      (A) Administer hydrocodone with acetaminophen.
+      (B) Continue the FiO2 of 1.00.
+      (C) Decrease the FiO2.
+      (D) Intubate and initiate mechanical ventilation.
+
+For questions 14 and 15
+
+A 38-year-old female is admitted with respiratory failure secondary to
+viral pneumonitis. She is receiving mechanical ventilation and
+suddenly becomes restless, tachypneic, tachycardic, and
+hypotensive. The high-pressure ventilator alarm is continuous, and
+pulse oximetry (SpO2) decreases to 0.83. Breath sounds are
+diminished on the right with tracheal deviation to the left.
+
+ 14. Based on this information, what condition is likely developing?
+    (A) ARDS (acute respiratory distress syndrome)
+    (B) hemothorax
+    (C) tension pneumothorax
+    (D) pulmonary embolism
+
+15. Treatment for the patient described in this scenario would likely
+    include which of the following?
+
+    (A) morphine and furosemide
+    (B) addition of PEEP
+    (C) vasopressors
+    (D) chest tube
+
+   For questions 16 and 17
+
+   A 63-year-old male is admitted with acute respiratory distress.
+   Symptoms include marked shortness of breath and circumoral
+   cyanosis. He is awake and complains of shortness of breath.
+   He has a history of COPD (chronic obstructive pulmonary
+   disease). Blood gases reveal the following information:
+
+
+     pH                7.22
+
+     PaCO2             62
+
+     PaO2              54
+
+     SaO2              81%
+
+     HCO3              25
+     FiO2               30%
+
+
+
+16. Based on this information, what condition is likely developing?
+
+    (A) congestive heart failure
+    (B) ARDS
+    (C) acute respiratory failure
+    (D) pulmonary emboli
+
+
+17. What would be the priority treatment indicated at this time?
+
+    (A) Increase the FiO2.
+    (B) Intubate and initiate mechanical ventilation.
+    (C) Use postural drainage treatment.
+    (D) Administer a bronchodilator.
+
+   ___________________________________________
+
+18. Which of the following may be an effect of mechanical
+    ventilation and PEEP (positive end-expiratory pressure)?
+
+    (A) atelectasis
+    (B) oxygen toxicity
+    (C) ARDS
+    (D) reduced cardiac output
+
+19. Which of the following is NOT a clinical finding seen in
+    pneumonia?
+    (A) a chest X-ray with an area of consolidation
+    (B) hypoxemia refractory to O2 administration with a need for
+        PEEP
+    (C) normal WBCs with increased immature neutrophils (bands)
+    (D) bronchial breath sounds, diminished breath sounds, or
+        crackles on auscultation
+
+20. Which of the following would be the earliest sign of
+    hypoventilation?
+
+    (A) respiratory rate of 20 breaths/minute
+    (B) anxiety
+    (C) decreased level of consciousness
+    (D) SpO2 of 85%
+
+
+21. A 70 kg patient with ARDS is intubated and mechanically
+    ventilated. The patient is on a continuous vecuronium infusion
+    to maintain a twitch of “1.” The peak inspiratory pressure is 55
+    cm H2O, and the plateau pressure is 50 cm H2O. The PaO2 is
+   60. The physician orders the following ventilator settings:
+   assist-control mode = 12 breaths/minute, tidal volume 700 mL,
+   FiO2 1.00, and PEEP 15. The nurse knows that:
+    (A) continuous positive airway pressure (CPAP) is an
+        appropriate setting for a patient who is receiving
+        vecuronium.
+    (B) a tidal volume of 700 mL is inappropriate for this patient.
+    (C) the PEEP should be decreased to 5 cm H2O pressure to
+        improve oxygenation.
+    (D) the plateau pressure is appropriate for this patient.
+
+22. When caring for a postoperative patient with a chest tube, care
+    of the patient needs to include:
+
+    (A) loop tubing right above the collection chamber.
+    (B) placing the collection chamber on the IV pole when turning
+         the patient.
+    (C) clamping the chest tube during patient transport.
+    (D) reporting sudden bubbling in the negative pressure
+         chamber.
+
+23. A patient with an acute exacerbation of COPD is minimally
+    responsive, tachypneic, and tachycardic. The ABG results
+    include pH 7.20, PaCO2 68, and PaO2 65. The nurse
+   anticipates that the next intervention will be:
+
+    (A) initiating noninvasive ventilation.
+    (B) endotracheal intubation.
+    (C) beginning low-flow oxygen per a nasal cannula.
+    (D) administering sodium bicarbonate to correct acidosis.
+24. A patient with a known history of asthma is admitted with
+    asthma exacerbation. The critical care nurse needs to be
+    aware of the potential clinical signs that may indicate a need for
+    intubation and initiation of mechanical ventilation. Which of the
+    following would indicate a possible need for intubation?
+
+    (A) difficulty to arouse
+    (B) respiratory alkalosis
+    (C) bilateral wheezing
+    (D) SaO2 92%
+
+
+25. Which of the following factors would DECREASE the release of
+    oxygen from hemoglobin at the tissue level?
+
+    (A) a temperature of 39°C
+    (B) increased levels of 2,3-DPG
+    (C) arterial pH of 7.30
+    (D) a massive transfusion of stored, banked blood
+
+26. A trauma patient with multiple long bone fractures suddenly
+    develops agitation, tachypnea, tachycardia, and mild
+    hypoxemia. Her lungs are clear, and a petechial rash is noted
+    on her upper body. Which of the following is suspected?
+
+    (A) acute respiratory distress syndrome
+    (B) fat embolism
+    (C) deep vein thrombosis
+    (D) delirium
+27. A patient’s arterial blood gas (ABG) is as follows: pH 7.32,
+    PaCO2 33, and HCO3 16. Based on this ABG, what might be
+   this patient’s problem?
+
+    (A) anxiety
+    (B) shock
+    (C) drug overdose
+    (D) electrolyte imbalance
+Answer Key
+ 1. C
+ 2. A
+ 3. D
+ 4. C
+ 5. C
+ 6. A
+ 7. B
+ 8. B
+ 9. C
+10. D
+11. D
+12. A
+13. B
+14. C
+15. D
+16. C
+17. A
+18. D
+19. B
+20. C
+21. B
+22. D
+23. B
+24. A
+25. D
+26. B
+27. B
+Answers and Explanations
+ 1. (C) Noninvasive ventilation is not safe for a patient who is
+    unable to protect his or her airway. A depressed level of
+    consciousness increases the risk of airway obstruction or
+    aspiration. Choice (A) can be provided with NIV. Choices (B)
+    and (D) do not put a patient who is receiving NIV at a greater
+    risk for a poor outcome.
+ 2. (A) This scenario describes a patient who is experiencing a
+    pulmonary embolism (PE). Signs of hypotension and
+    hypoxemia indicate that it is a massive PE. The PE increases
+    dead space ventilation due to the drop in pulmonary perfusion.
+    Fibrinolytic therapy (tissue plasminogen activator) is indicated
+    for a massive PE. For any of the other choices to be correct, the
+    patient would have to have abnormal breath sounds.
+ 3. (D) This clinical picture is one of asthma. Asthma is an airway
+    problem that results in bronchospasm, which increases airway
+    pressure as evidenced by an elevated inspiratory pressure
+    while the lung pressure itself (the plateau pressure) remains
+    normal. Symptoms would be relieved with a bronchodilator. The
+    other choices would not relieve these symptoms.
+ 4. (C) A patient with asthma has difficulty with expiration.
+    Therefore, with each breath air may get trapped, resulting in
+    elevation of the end-expiratory pressure without PEEP being
+    set on the ventilator. This may decrease cardiac output because
+   it decreases venous return. The other interventions would all
+   increase the air trapping.
+5. (C) Mouth care decreases bacterial colonization in the mouth,
+   which decreases the possibility of microaspiration of bacteria in
+   lower airways. The other 3 choices have NOT been found to
+   decrease incidences of ventilator-associated pneumonia.
+   Sedation should be minimized. The head of the bed should be
+   greater than 30°. The ETT cuff should not be deflated prior to
+   suctioning but, instead, prior to ETT removal. (At that time, the
+   mouth and the subglottic space should be well suctioned.)
+6. (A) The goal is to get the FiO2 down to 50% or less ASAP for a
+  patient who requires high FiO2. This patient’s oxygenation
+  status would allow for a decrease in the FiO2. During acute
+   ARDS, the tidal volume needs to be low to prevent volutrauma,
+   and the PEEP needs to be maintained to limit atelectasis.
+7. (B) Decreased compliance increases “stiffness” and therefore
+   requires more work to ventilate. Choice (A) is not correct
+   because an increase in the peak inspiratory pressure will
+   decrease dynamic compliance. Choice (C) is not correct
+   because asthma decreases dynamic (airway) compliance, not
+   static (lung) compliance. Choice (D) is not correct because
+   dynamic compliance is calculated using the peak inspiratory
+   pressure.
+8. (B) If the PAOP is high, the pulmonary edema is most likely
+   cardiac in origin, whereas in ARDS, the pulmonary edema is
+   noncardiogenic in origin. The other 3 choices (bilateral
+   infiltrates, refractory hypoxemia, and tachypnea) are all present
+   in ARDS.
+ 9. (C) This clinical scenario is one of right-sided pneumonia.
+    Therefore, the right side is the “bad” side. Due to the effects of
+    gravity on perfusion, the patient generally does better with the
+    “good” lung DOWN. With the “bad” lung down, there is an
+    increased risk of worsening hypoxemia. Choice (A) is not
+    correct because the patient is not wheezing. Therefore, there is
+    no indication for a bronchodilator. Choice (B) is not correct
+    because this condition does not warrant NIV. Choice (D) is not
+    correct because the best position for a patient with a pulmonary
+    problem is sitting upright, not lying flat.
+10. (D) A patient with asthma needs a bronchodilator (to treat the
+    bronchospasm caused by smooth muscle contraction around
+    the airways) and steroids (to treat the airway inflammation).
+    There is no indication for anticoagulants, diuretics, or antibiotics
+    to treat asthma.
+11. (D) An increase in the ventilator breath rate will influence the
+    PaCO2 (ventilation), not oxygenation. The other 3 choices will
+    improve oxygenation at the tissue level. An increase in the
+    FiO2 will provide more oxygen at the alveolar-capillary
+    membrane. A blood transfusion will increase oxygen content by
+    increasing hemoglobin, which is the carrier of oxygen.
+    Increasing a low blood pressure will increase oxygen delivery.
+12. (A) The best clinical indicator of effective ventilation is the
+    PaCO2. Although a breath rate less than 12 may indicate
+    hypoventilation, it is not as sensitive an indicator as is PaCO2.
+    In addition, the breath rate does not include the other
+    determinant of effective ventilation (depth of ventilation or tidal
+    volume). Although a low pH may indicate hypoventilation, it may
+   also indicate metabolic acidosis. Hypoxemia (PaO2 less than 80
+    mmHg on room air) may be present during hyperventilation.
+13. (B) If the patient has a COHb level of 45%, the best SaO2
+   achievable is 55% since saturation of hemoglobin cannot be
+   greater than 100% total. The patient needs 100% FiO2 until
+   COHb levels have returned to normal and symptoms (alteration
+   in the level of consciousness and headaches) are relieved.
+   Opiates may depress the level of consciousness and mask the
+   patient’s response to FiO2. A decrease in the FiO2 would
+   decrease the driving forces of oxygen and prolong abnormal
+   COHb levels. Intubation would not help oxygenation since the
+   same FiO2 can be provided with a face mask. Intubation would
+    be indicated for a ventilation problem, but the patient does not
+    have signs of hypoventilation.
+14. (C) This clinical scenario describes a pneumothorax. As a result
+    of hypotension and tracheal deviation to the opposite side of the
+    pneumothorax, the pneumothorax is a life-threatening tension
+    pneumothorax with symptoms that are the result of a
+    mediastinal shift. If ARDS was the problem, the patient would
+    have bilateral crackles. If a hemothorax was the problem, there
+    would generally be a history of trauma, not an infection. A
+    mediastinal shift (tracheal deviation to the opposite side and
+    hypotension) is not usually present with a hemothorax. If the
+    problem was a PE, the breath sounds would be equal
+    bilaterally.
+15. (D) The treatment for a tension pneumothorax is a chest tube
+    (generally after emergent needle decompression). None of the
+    other choices is beneficial for treating a tension pneumothorax.
+16. (C) Not enough information is provided to select any condition
+    other than acute respiratory failure. Acute respiratory failure is
+    an ABG diagnosis, and this ABG meets the requirements of
+    acute respiratory failure. Do NOT read into the questions.
+17. (A) This patient has severe hypoxemia that needs to be
+    addressed first in order to prevent all of the associated effects
+    of the severe hypoxemia. Although the patient is not ventilating
+    normally, the elevated PaCO2 is less of a problem, as indicated
+    by the patient’s mental status. The level of consciousness is not
+    depressed. There is no indication in the scenario for choices (C)
+    or (D).
+18. (D) Initiation of mechanical ventilation (even without PEEP) that
+    delivers positive pressure breaths results in a mild increase in
+    the intrathoracic pressure with a resultant decrease in venous
+    return. PEEP increases the intrathoracic pressure even more
+    and causes a decrease in venous return. Mechanical ventilation
+    and/or PEEP do not cause any of the other 3 choices.
+19. (B) Pneumonia results in a V/Q mismatch, not a shunt.
+    Therefore, the administration of oxygen will correct the
+    hypoxemia. PEEP is not required as it is for a shunt (ARDS).
+    The worse the pneumonia, the greater the FiO2 requirement will
+    be. The other 3 choices are possible clinical indicators of
+    pneumonia.
+20. (C) As ventilation decreases, the PaCO2 rises and affects the
+   brain by decreasing the level of consciousness from lethargy to
+   an obtunded state, to a stupor, to a comatose state. Although
+   the patient MAY have hypoventilation with a respiratory rate of
+   20 breaths/minute, it would not be considered a typical sign.
+   Anxiety and SpO2 are more likely signs of hypoxemia than early
+    signs of hypoventilation.
+21. (B) Since the patient has ARDS, low tidal volumes (5–6 mL/kg)
+    are indicated (permissive hypercapnia) in order to prevent
+    volutrauma. Since the patient weighs 70 kg, a Vt of 700 mL is
+    too high. CPAP requires that the patient has a spontaneous
+    breathing effort. Therefore, CPAP is not appropriate for this
+    patient. A patient with ARDS requires high PEEP to prevent
+    atelectasis and hypoxemia. Therefore, a decrease in PEEP
+    would worsen the hypoxemia. The plateau pressure should be
+    kept at 30 cm H2O or less. Therefore, this patient’s plateau
+    pressure is too high, and a decrease in the Vt may help
+    decrease the plateau pressure.
+22. (D) Sudden bubbling in the negative pressure chamber is an
+    indication of a possible air leak; this should be reported to the
+    physician. All of the other choices should be avoided when
+    caring for a patient with a chest tube. Loops will increase
+    pressure in the system. The collection chamber needs to be
+    kept below the level of the chest at all times. Clamping the
+    chest tube cuts off the negative pressure provided by the
+    negative pressure chamber and could result in lung re-collapse.
+23. (B) Due to the patient’s decreased level of consciousness, the
+    need for improved ventilation is a priority. NIV would address
+    the hypoventilation, but it would not be considered safe for a
+    patient with minimal responsiveness. Providing oxygen alone
+    would not address the main problem (hypoventilation), which in
+    this case is worse than the problem of hypoxemia. This patient
+    has respiratory acidosis and should not be treated with sodium
+    bicarbonate.
+24. (A) A depressed level of consciousness may be an indication of
+    hypoventilation (respiratory acidosis) and a precursor to
+    respiratory arrest for a patient with asthma exacerbation.
+    Respiratory alkalosis and bilateral wheezing are common early
+    manifestations during an asthma exacerbation. Mild hypoxemia
+    should be treated with an increase in FiO2 but is not considered
+   ominous unless it is severe.
+25. (D) Banked blood does not have normal 2,3-DPG. Low levels of
+    2,3-DPG shift the oxyhemoglobin-dissociation curve up to the
+    left, which will decrease hemoglobin’s release of oxygen at the
+    tissue level. The remaining 3 choices—a fever, increased levels
+    of 2,3-DPG, and acidosis—all shift the curve to the right, which
+    increases the release of oxygen from hemoglobin.
+26. (B) This clinical scenario is one of a pulmonary embolism. With
+    the history of long bone fractures and the development of
+    petechiae, a fat embolism is most likely. ARDS does not present
+    with clear lungs. DVT does not always result in a PE. If it did,
+    though, the PE would be due to a blood clot and petechiae
+    would not be present. Delirium may result in agitation but not
+    the other symptoms.
+27. (B) The low pH indicates acidosis. The low bicarbonate
+    indicates that the acidosis is metabolic, and the low PaCO2
+   indicates that hyperventilation has started in order to
+   compensate. The only option that causes metabolic acidosis is
+   shock. Anxiety generally causes respiratory alkalosis. An opiate
+drug overdose results in respiratory acidosis. An electrolyte
+imbalance (low chloride) causes metabolic alkalosis.
+Answers to Practice ABGs
+ 1. Respiratory alkalosis, no compensation
+ 2. Respiratory acidosis, no compensation
+ 3.   Metabolic acidosis, no compensation
+ 4.   Respiratory acidosis, partial compensation
+ 5.   Metabolic alkalosis, no compensation
+ 6.   Respiratory acidosis, partial compensation
+ 7.   Metabolic alkalosis, partial compensation
+ 8.   Metabolic acidosis, partial compensation
+ 9.   Respiratory acidosis, no compensation
+10.   Metabolic alkalosis, no compensation
+11.   Mixed disorder: respiratory acidosis and metabolic alkalosis
+5
+
