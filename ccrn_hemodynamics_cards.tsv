@@ -1,0 +1,345 @@
+Question	Answer	Tags
+"Question:
+What is the foundational equation for hemodynamics?"	"Answer:
+CO = HR × SV
+Cardiac Output = Heart Rate × Stroke Volume"	ccrn::hemodynamics equations
+"Question:
+What determines stroke volume (SV)?"	"Answer:
+Preload, afterload, and contractility of the ventricles"	ccrn::hemodynamics
+"Question:
+What is normal cardiac output (CO)?"	"Answer:
+4-8 L/min"	ccrn::hemodynamics normal_values
+"Question:
+What is normal cardiac index (CI)?"	"Answer:
+2.5-4.0 L/min/m²"	ccrn::hemodynamics normal_values
+"Question:
+Why is cardiac index (CI) more meaningful than CO?"	"Answer:
+Takes into account body surface area (BSA)"	ccrn::hemodynamics
+"Question:
+What is normal stroke volume (SV)?"	"Answer:
+50-100 mL per beat"	ccrn::hemodynamics normal_values
+"Question:
+What happens to CO as HR increases (up to a point)?"	"Answer:
+CO increases"	ccrn::hemodynamics direction_of_change
+"Question:
+What is maximal HR from SA node for most people?"	"Answer:
+Generally 130-170 beats per minute"	ccrn::hemodynamics
+"Question:
+What happens to CO with extreme bradycardia?"	"Answer:
+Low CO and hypotension"	ccrn::hemodynamics direction_of_change
+"Question:
+What is first sign of compensation for low CO?"	"Answer:
+Increase in HR (occurs before BP drops)"	ccrn::hemodynamics
+"Question:
+What happens to CO with extreme tachycardia?"	"Answer:
+CO decreases due to loss of diastolic filling time"	ccrn::hemodynamics direction_of_change
+"Question:
+Why does extreme tachycardia decrease CO?"	"Answer:
+Loss of diastolic filling time → ventricles don't have time to fill → ventricular preload drops → ventricle cannot put out what is not delivered"	ccrn::hemodynamics
+"Question:
+What happens to CO as stroke volume increases?"	"Answer:
+CO increases"	ccrn::hemodynamics direction_of_change
+"Question:
+What is preload?"	"Answer:
+Volume/pressure in the ventricle at end of diastole after AV valves close, just prior to ejection"	ccrn::hemodynamics
+"Question:
+What reflects right ventricular preload?"	"Answer:
+Right atrial (RA) pressure or central venous pressure (CVP)"	ccrn::hemodynamics
+"Question:
+What reflects left ventricular preload?"	"Answer:
+PAOP (pulmonary artery occlusion pressure)"	ccrn::hemodynamics
+"Question:
+What happens to SV and CO as preload increases (up to a point)?"	"Answer:
+SV and CO increase"	ccrn::hemodynamics direction_of_change
+"Question:
+What may happen with too high preload?"	"Answer:
+Heart failure"	ccrn::hemodynamics
+"Question:
+What is afterload?"	"Answer:
+Pressure (resistance) against which ventricle must pump to open the valve (pulmonic or aortic)"	ccrn::hemodynamics
+"Question:
+How is right ventricular afterload measured?"	"Answer:
+Pulmonary vascular resistance (PVR)"	ccrn::hemodynamics
+"Question:
+How is left ventricular afterload measured?"	"Answer:
+Systemic vascular resistance (SVR)"	ccrn::hemodynamics
+"Question:
+What happens to SV and CO as afterload increases?"	"Answer:
+SV and CO decrease"	ccrn::hemodynamics direction_of_change
+"Question:
+What is contractility?"	"Answer:
+Contractile force of the myofibrils, independent of preload and afterload"	ccrn::hemodynamics
+"Question:
+What happens to SV and CO as contractility increases?"	"Answer:
+SV and CO increase"	ccrn::hemodynamics direction_of_change
+"Question:
+What is normal SvO2 range?"	"Answer:
+60-75%"	ccrn::hemodynamics normal_values oxygenation
+"Question:
+Is too low or too high SvO2 bad?"	"Answer:
+Both too low and too high are BAD"	ccrn::hemodynamics oxygenation
+"Question:
+What type of SvO2 changes are significant?"	"Answer:
+Sustained changes (not brief changes like during position change)"	ccrn::hemodynamics oxygenation
+"Question:
+What are hemodynamics of left ventricular failure?"	"Answer:
+↑ PAOP (> 18 mmHg)
+↓ CI
+↑ SVR (compensatory vasoconstriction)
+Normal or ↓ CVP"	ccrn::hemodynamics profiles lv_failure
+"Question:
+What are hemodynamics of cardiogenic shock?"	"Answer:
+↑ PAOP
+↓ CI
+↑ SVR (compensatory)
+Normal BP maintained by compensatory vasoconstriction initially"	ccrn::hemodynamics profiles cardiogenic_shock
+"Question:
+What are hemodynamics of septic shock?"	"Answer:
+↓ SVR (massive dilation)
+↓ Preload (capillary leak)
+↑ or normal CI (higher than normal initially)
+↑ SvO2"	ccrn::hemodynamics profiles septic_shock
+"Question:
+What are hemodynamics of hypovolemic shock?"	"Answer:
+↓ CVP
+↓ PAOP
+↓ CI
+↑ SVR (compensatory)
+↓ SvO2"	ccrn::hemodynamics profiles hypovolemic_shock
+"Question:
+What are hemodynamics of acute right ventricular failure?"	"Answer:
+↑ CVP (high right-sided pressure)
+↓ PAOP (low left-sided pressure)
+↓ CI (poor RV output → less volume to LV)"	ccrn::hemodynamics profiles rv_failure
+"Question:
+What does dopamine 5-10 mcg/kg/min primarily do?"	"Answer:
+Increases contractility (stimulates beta-1 receptors in heart)"	ccrn::hemodynamics drugs dopamine
+"Question:
+What does dopamine > 10 mcg/kg/min primarily do?"	"Answer:
+Increases afterload (stimulates alpha receptors in arteries → vasoconstriction)"	ccrn::hemodynamics drugs dopamine
+"Question:
+What does dobutamine primarily do?"	"Answer:
+Increases contractility (stimulates beta-1 receptors in heart)"	ccrn::hemodynamics drugs
+"Question:
+What does nitroglycerin 20 mcg/min primarily do?"	"Answer:
+Decreases preload (causes venodilation)
+Only at higher doses does it dilate arterial vessels"	ccrn::hemodynamics drugs
+"Question:
+What does norepinephrine primarily do?"	"Answer:
+Increases afterload (potent vasoconstrictor, stimulates alpha receptors)"	ccrn::hemodynamics drugs
+"Question:
+What do beta blockers do to contractility and heart rate?"	"Answer:
+Decrease contractility
+Decrease heart rate
+(Block beta-1 receptors, blocking adrenergic effects)"	ccrn::hemodynamics drugs
+"Question:
+What does nitroprusside do to preload and afterload?"	"Answer:
+Decreases preload (venodilation)
+Decreases afterload (arterial dilation)
+Dilates both venous and arterial sides"	ccrn::hemodynamics drugs
+"Question:
+What do ACE inhibitors do to afterload?"	"Answer:
+Decrease afterload
+Block conversion of angiotensin I to II → arterial vessels dilate"	ccrn::hemodynamics drugs
+"Question:
+What does furosemide (Lasix) do to preload?"	"Answer:
+Decreases preload (loop diuretic and venodilator)
+Diuresis and venodilation reduce preload"	ccrn::hemodynamics drugs
+"Question:
+What does fluid bolus do to preload?"	"Answer:
+Increases preload (increases volume in vasculature)"	ccrn::hemodynamics direction_of_change
+"Question:
+What does milrinone do to contractility?"	"Answer:
+Increases contractility (phosphodiesterase inhibitor, stimulates cardiac muscle contraction)"	ccrn::hemodynamics drugs
+"Question:
+What does morphine do to preload?"	"Answer:
+Decreases preload (mildly dilates venous bed)
+May be used in low doses to treat heart failure"	ccrn::hemodynamics drugs
+"Question:
+What clinical finding indicates giant V-waves on PAOP tracing?"	"Answer:
+Mitral valve insufficiency (regurgitation)"	ccrn::hemodynamics waveforms
+"Question:
+Where is PAOP read when giant V-waves are present?"	"Answer:
+At the A-wave, NOT at the V-wave"	ccrn::hemodynamics waveforms
+"Question:
+What is giant V-wave often associated with?"	"Answer:
+Acute inferior wall MI with papillary muscle dysfunction/rupture"	ccrn::hemodynamics waveforms
+"Question:
+What is the square wave test (dynamic response test)?"	"Answer:
+Test to assess accuracy of hemodynamic monitoring system
+Squeeze flush device and immediately release, then examine response"	ccrn::hemodynamics monitoring
+"Question:
+When should square wave test be performed?"	"Answer:
+- Immediately after catheter insertion
+- Beginning of each shift after zeroing
+- Whenever values are questionable"	ccrn::hemodynamics monitoring
+"Question:
+What does overdamped wave response result in?"	"Answer:
+- Falsely decreased systolic pressure
+- Falsely high diastolic pressure
+- Poorly defined components (diminished/absent dicrotic notch)"	ccrn::hemodynamics monitoring
+"Question:
+What causes overdamped wave response?"	"Answer:
+Air or blood clot in system, loose connections, loss of air in pressure bag, kinking of catheter/tubing"	ccrn::hemodynamics monitoring
+"Question:
+What does underdamped wave response result in?"	"Answer:
+- Falsely high systolic pressure (overshoot)
+- Possibly falsely low diastolic pressure
+- \"Ringing\" artifacts on waveform"	ccrn::hemodynamics monitoring
+"Question:
+What causes underdamped wave response?"	"Answer:
+Pinpoint air bubbles in system, add-on tubing, defective transducer"	ccrn::hemodynamics monitoring
+"Question:
+What happens to SvO2 with decreased cardiac output?"	"Answer:
+SvO2 decreases"	ccrn::hemodynamics oxygenation direction_of_change
+"Question:
+What happens to SvO2 with decreased arterial oxygen saturation?"	"Answer:
+SvO2 decreases"	ccrn::hemodynamics oxygenation direction_of_change
+"Question:
+What happens to SvO2 with fever?"	"Answer:
+SvO2 decreases (increased O2 consumption)"	ccrn::hemodynamics oxygenation direction_of_change
+"Question:
+Why is SvO2 elevated in septic shock?"	"Answer:
+O2 delivery (DO2) is adequate but O2 utilization (VO2) at cellular level is low
+Oxygen not being used despite availability"	ccrn::hemodynamics oxygenation septic_shock
+"Question:
+What are causes of low SvO2?"	"Answer:
+- Decreased cardiac output
+- Decreased arterial oxygen saturation (SpO2)
+- Fever (increased O2 consumption)
+- Increased metabolic demand"	ccrn::hemodynamics oxygenation
+"Question:
+What are causes of high SvO2?"	"Answer:
+- Septic shock (poor O2 utilization)
+- Hypothermia (decreased O2 consumption)
+- Decreased metabolic demand"	ccrn::hemodynamics oxygenation
+"Question:
+In patient with heart failure, what happens to afterload, contractility, and preload?"	"Answer:
+↑ Afterload (compensatory vasoconstriction for reduced CO)
+↓ Contractility (heart muscle loses contractility)
+↑ Preload (low ejection fraction → increased left heart pressure)"	ccrn::hemodynamics profiles heart_failure
+"Question:
+What treatment is indicated for heart failure with decreased contractility?"	"Answer:
+Positive inotropic drug (e.g., dobutamine, milrinone)"	ccrn::hemodynamics treatment
+"Question:
+What happens to preload and afterload in septic shock?"	"Answer:
+↓ Preload (capillary leakage, loss of volume in vasculature)
+↓ Afterload (massive vasodilation, loss of vascular tone, low SVR)"	ccrn::hemodynamics profiles septic_shock
+"Question:
+In hypovolemia, what should be given and why?"	"Answer:
+Fluid administration to increase preload (\"fill up the tank\")
+Improves myocardial stretch (Frank-Starling law)"	ccrn::hemodynamics treatment hypovolemia
+"Question:
+Should pressors be used in hypovolemia?"	"Answer:
+No
+SVR is already high due to compensatory vasoconstriction"	ccrn::hemodynamics treatment hypovolemia
+"Question:
+What happens to SVR in hypovolemia?"	"Answer:
+↑ SVR (compensatory vasoconstriction to maintain arterial BP)"	ccrn::hemodynamics profiles hypovolemic_shock direction_of_change
+"Question:
+What happens to SVR in septic shock?"	"Answer:
+↓ SVR (massive vasodilation due to endotoxins)"	ccrn::hemodynamics profiles septic_shock direction_of_change
+"Question:
+What happens to SVR in cardiogenic shock?"	"Answer:
+↑ SVR (compensatory vasoconstriction)"	ccrn::hemodynamics profiles cardiogenic_shock direction_of_change
+"Question:
+What happens to PAOP in left ventricular failure?"	"Answer:
+↑ PAOP (> 18 mmHg)
+LV not emptying normally → backup of volume → higher left-sided pressure"	ccrn::hemodynamics profiles lv_failure direction_of_change
+"Question:
+What happens when PAOP exceeds 18 mmHg?"	"Answer:
+Pulmonary capillary pressures increase → pulmonary edema"	ccrn::hemodynamics
+"Question:
+What is therapy for increased preload?"	"Answer:
+- Diuretics (furosemide)
+- Venodilators (nitroglycerin, morphine, nitroprusside)"	ccrn::hemodynamics treatment
+"Question:
+What is therapy for decreased preload?"	"Answer:
+- Fluid bolus
+- Volume expansion"	ccrn::hemodynamics treatment
+"Question:
+What is therapy for increased afterload?"	"Answer:
+- Vasodilators (nitroprusside, ACE inhibitors)
+- Arterial dilators"	ccrn::hemodynamics treatment
+"Question:
+What is therapy for decreased afterload?"	"Answer:
+- Vasopressors (norepinephrine, high-dose dopamine)
+- Volume expansion if also hypovolemic"	ccrn::hemodynamics treatment
+"Question:
+What is therapy for decreased contractility?"	"Answer:
+- Positive inotropes (dobutamine, milrinone, mid-range dopamine)"	ccrn::hemodynamics treatment
+"Question:
+What happens to diastolic filling time with extreme tachycardia?"	"Answer:
+Diastolic filling time decreases"	ccrn::hemodynamics direction_of_change
+"Question:
+What happens to ventricular preload with decreased diastolic filling time?"	"Answer:
+Ventricular preload drops"	ccrn::hemodynamics direction_of_change
+"Question:
+Can patients on beta blockers compensate well for low CO?"	"Answer:
+No - may not be able to increase HR to compensate (beta blockers decrease HR)"	ccrn::hemodynamics
+"Question:
+Will preload seldom be elevated if heart is disease-free?"	"Answer:
+Yes - in general, preload seldom elevated if heart disease-free and no metabolic abnormalities"	ccrn::hemodynamics
+"Question:
+What happens to BP when CO becomes critically low?"	"Answer:
+BP will decrease"	ccrn::hemodynamics direction_of_change
+"Question:
+What is normal CVP range?"	"Answer:
+2-6 mmHg"	ccrn::hemodynamics normal_values
+"Question:
+What is normal PAOP range?"	"Answer:
+6-12 mmHg"	ccrn::hemodynamics normal_values
+"Question:
+What is normal SVR range?"	"Answer:
+800-1200 dynes/s/cm⁻⁵"	ccrn::hemodynamics normal_values
+"Question:
+What is normal PVR range?"	"Answer:
+< 250 dynes/s/cm⁻⁵"	ccrn::hemodynamics normal_values
+"Question:
+What is normal mean arterial pressure (MAP)?"	"Answer:
+70-100 mmHg"	ccrn::hemodynamics normal_values
+"Question:
+In acute RV failure, why is PAOP low?"	"Answer:
+Poor RV output → less volume getting to left heart → low left heart pressure (PAOP)"	ccrn::hemodynamics profiles rv_failure
+"Question:
+In acute RV failure, why is CVP high?"	"Answer:
+Volume backing up on right side of heart → high right-sided pressure"	ccrn::hemodynamics profiles rv_failure
+"Question:
+What hemodynamic findings suggest mitral valve regurgitation?"	"Answer:
+Giant V-waves on PAOP tracing when balloon inflated"	ccrn::hemodynamics waveforms
+"Question:
+What are signs patient may be hypovolemic on exam?"	"Answer:
+Flat neck veins, cool dry skin, thirst, dry oral mucous membranes, hypotension, tachycardia"	ccrn::hemodynamics assessment
+"Question:
+What are signs of left heart failure on exam?"	"Answer:
+SOB, fatigue, bibasilar crackles, S3 gallop, weight gain, venous congestion on CXR, cardiomegaly"	ccrn::hemodynamics assessment
+"Question:
+What are signs of sepsis affecting hemodynamics?"	"Answer:
+Warm dry skin (early), hypotension despite fluids, tachycardia, fever, elevated WBC with left shift, positive cultures"	ccrn::hemodynamics assessment sepsis
+"Question:
+What is Frank-Starling law of the heart?"	"Answer:
+Increase in preload (stretch) increases cardiac output
+\"Fill up the tank\" to improve myocardial stretch"	ccrn::hemodynamics
+"Question:
+Do you need to memorize formulas for Adult CCRN exam?"	"Answer:
+No - but need to know normal values and clinical relevance"	ccrn::hemodynamics exam_tips
+"Question:
+Are printed waveform strips commonly on Adult CCRN exam?"	"Answer:
+Seldom included on exam"	ccrn::hemodynamics exam_tips
+"Question:
+What should you concentrate on studying for Adult CCRN hemodynamics?"	"Answer:
+- Normal and abnormal hemodynamic ranges
+- Therapies that affect hemodynamics
+- Direction of change with various conditions/treatments"	ccrn::hemodynamics exam_tips
+"Question:
+What happens to CO with increased HR in patient on beta blocker?"	"Answer:
+Limited increase - beta blocker limits HR response"	ccrn::hemodynamics drugs direction_of_change
+"Question:
+Why does low SVR occur in septic shock?"	"Answer:
+Endotoxins cause massive vasodilation → loss of vascular tone"	ccrn::hemodynamics septic_shock
+"Question:
+What is recommended method for assessing adequacy of arterial line system?"	"Answer:
+Perform square wave test (dynamic response test)"	ccrn::hemodynamics monitoring
+"Question:
+Should cuff pressures be used to verify accuracy of intra-arterial pressures?"	"Answer:
+No"	ccrn::hemodynamics monitoring
