@@ -1,0 +1,1589 @@
+Multisystem Concepts
+
+
+By failing to prepare, you are preparing to fail.
+
+                                                    —Benjamin Franklin
+
+
+
+                  MULTISYSTEM TEST BLUEPRINT
+
+     Multisystem 14% of total test              21 questions
+
+
+   → Acid-base imbalance*
+   → Bariatric complications**
+   → Comorbidity in patients with transplant history
+   → End-of-life care
+   → Healthcare-associated conditions (e.g., VAE, CAUTI,
+     CLABSI)
+   → Hypotension
+   → Infectious diseases
+        Influenza (e.g., pandemic or epidemic)
+        Multi-drug resistant organisms (e.g., MRSA, VRE, CRE)
+   → Life-threatening maternal/fetal complications (e.g.,
+     eclampsia, HELLP syndrome, postpartum hemorrhage,
+     amniotic embolism)
+   → Multiple organ dysfunction syndrome (MODS)
+   → Multisystem trauma
+    → Pain: acute, chronic
+    → Post-intensive care syndrome (PICS)
+    → Sepsis
+    → Septic shock
+    → Shock states
+        Distributive (e.g., anaphylactic, neurogenic)
+        Hypovolemic
+    → Sleep disruption (including sensory overload)
+    → Thermoregulation
+    → Toxic ingestion/inhalations (e.g., drug/alcohol overdose)
+    → Toxin/drug exposure (including allergies)
+
+    *This topic is also covered in the Respiratory Concepts
+    chapter of this book.
+
+    **This topic is covered in the Gastrointestinal Concepts
+    chapter of this book.
+
+
+
+          MULTISYSTEM TESTABLE NURSING ACTIONS
+
+□     Manage continuous temperature monitoring
+□     Provide end-of-life and palliative care
+□     Recognize risk factors and manage malignant hyperthermia
+□     Recognize indications for, and manage, patients undergoing:
+        Continuous sedation
+        Intermittent sedation
+        Neuromuscular blockade agents
+   Procedural sedation—minimal
+   Procedural sedation—moderate
+   Targeted temperature management (previously known as
+   therapeutic hypothermia)
+
+The number of questions in the multisystem section of the
+Adult CCRN test blueprint has significantly increased in
+recent years. There are now 21 multisystem-related questions
+on this exam (as opposed to only 12 previously). Therefore,
+plan on studying the content in this chapter for approximately
+21 hours.
+Shock
+Overview
+  Although blood pressure (hypotension) is generally thought of when
+  discussing shock, shock is actually a cellular disease due to either
+  inadequate perfusion (the oxygen demand is greater than the oxygen
+  delivered) or the inability of cells to utilize the delivered oxygen
+  (issues with oxygen utilization/consumption).
+  Refer to Figure 5-1 to study the pathophysiology of shock.
+
+
+
+
+                Figure 5-1. Pathophysiology of shock
+
+  There are 3 stages of all types of shock:
+   1. Compensatory
+   2. Progressive
+   3. Refractory
+The rapidity with which a patient progresses through these stages
+varies depending upon many factors.
+During the compensatory stage of shock (Figures 5-2 and 5-3), the
+blood pressure (BP) is maintained as a result of 2 mechanisms:
+stimulation of the sympathetic nervous system and activation of the
+renin-angiotensin-aldosterone system (RAAS).
+Sympathetic Nervous System Stimulation
+
+
+
+
+    Figure 5-2. Physiology of compensatory stage of shock
+Renin-Angiotensin-Aldosterone System
+(RAAS) Activation
+
+
+
+
+    Figure 5-3. Compensatory stage of shock due to RAAS
+Clinical Signs/Symptoms of the Stages of Shock
+Compensatory Stage of Shock (Blood Pressure
+Maintained)
+  Tachycardia
+  Tachypnea, respiratory alkalosis
+  Normal PaO2
+  Oliguria
+  Skin is pale, cool (except in early sepsis)
+  Restlessness, anxiety
+  Complaints of thirst
+  Remember, BP maintained!
+
+
+Progressive Stage of Shock (Compensatory
+Mechanisms Failing)
+  Hypotension
+  Worsening tachycardia, tachypnea, oliguria
+  Metabolic acidosis
+  Decreased PaO2
+  Clammy, mottled skin
+  Further change in LOC
+  The patient may complain of nausea.
+
+
+Refractory Stage of Shock
+  The patient is not responsive to interventions.
+  Severe systemic hypoperfusion, multiple organ
+  dysfunction syndrome (MODS)
+The patient may survive shock, but die from failure of one or more
+organs.
+  Pulmonary (ARDS)
+  Kidney (acute tubular necrosis)
+  Heart (failure, ischemia)
+  Hematologic (disseminated intravascular coagulation)
+  Neurological (encephalopathy, stroke)
+  Liver (failure)
+Types of Shock
+  Hypovolemic
+  Septic
+  Anaphylactic
+  Neurogenic (seldom tested on this exam)
+  Cardiogenic (covered in the Cardiovascular Concepts chapter)
+  Obstructive (covered in the Cardiovascular Concepts and Respiratory
+  Concepts chapters)
+    Tension pneumothorax
+    Massive pulmonary embolism
+    Cardiac tamponade
+Hypovolemic Shock
+   Critical reduction in the circulating intravascular volume, leading to
+   inadequate tissue perfusion
+   Most common type of shock
+     Internal causes—third-spacing or pooling in the intravascular
+     compartment
+     External causes—hemorrhage, GI or renal losses, burns, excessive
+     diaphoresis
+   Hypovolemia effects on pulse pressure:
+     Systolic decreases, diastolic maintains or elevates, NARROW pulse
+     pressure
+     Example:
+    — Baseline is 130/80
+    — Volume loss → 110/80, 100/80, 90/70
+   Hemodynamics
+     ↓ BP
+     ↓ Pulse pressure
+     ↓ Right atrial pressure (CVP)
+     ↓ Cardiac output, O2 delivery
+     ↓ Left atrial pressure (PAOP)
+     ↓ SvO2
+     ↑ Systemic vascular resistance (SVR)
+Everything is decreased except SVR.
+Treatment of Hypovolemic Shock
+  Identify the etiology and correct it, if possible.
+  Replace volume appropriately, “Fill up the tank!”
+    Rapid and vigorous volume loading
+    Requires at least 2 large bore IV sites (hemorrhagic); a central line is
+    not necessary but may assist fluid replacement.
+    Use a fluid warmer if > 2,000 mL of fluids are administered in 1 hour
+    (ALL fluids for trauma patients).
+  Avoid use of vasopressors.
+  Fluid resuscitation: goal is to maintain O2 delivery (DO2) and O2 uptake
+  (VO2) into tissue and sustain aerobic metabolism.
+  Fluid resuscitate to clinical targets (e.g., decreased tachycardia,
+  increased urine output)
+    Use isotonic fluid: 0.9 normal saline or lactated Ringer’s.
+    Which is better? There are advantages and disadvantages to each
+    (Table 5-1).
+
+     Table 5-1. Comparison of Normal Saline and Lactated Ringer’s
+Resuscitation endpoints
+ MAP ≥ 65 mmHg
+ CVP ~ 6 mmHg (not well-defined)
+ Urine OP 0.5 mL/kg/hr
+  Heart rate decreased
+  Hgb > 7.0 g/dL and coagulation/platelet abnormalities are corrected.
+ — Hemoglobin and hematocrit measurements are not accurate during
+       active blood loss.
+
+NOTE
+
+NO PRESSORS for hypovolemic shock! The SVR is already high due to
+compensatory mechanisms.
+Hemorrhagic Shock
+The severity of hemorrhagic shock is categorized into 4 classes (Table 5-
+2).
+
+
+             Table 5-2. Classification of Hemorrhagic Shock
+
+
+
+
+   Class I: treat with crystalloids
+   Class II: treat with crystalloids
+   Class III: treat with crystalloids + blood
+   Class IV: treat with crystalloids + blood
+Treatment of Hemorrhagic (Hypovolemic) Shock
+  STOP the bleeding.
+  Blood transfusion
+    Optimal hemoglobin (Hgb) threshold remains controversial, and Hgb
+    levels are NOT reliable during active bleeding.
+    7.0 g/dL Hgb is fairly well established in the critically ill.
+    Goal may be higher in the presence of:
+  — Active bleeding
+  — Severe hypoxemia
+  — Myocardial ischemia
+  — Lactic acidosis
+  Packed red blood cells (PRBCs), unlike whole blood, do not have
+  plasma or platelets; therefore, the patient will need a replacement of the
+  coagulation components of blood with a transfusion of multiple units of
+  PRBCs.
+    Fresh frozen plasma
+    Platelets
+    Cryoprecipitate
+  Risks of blood product administration
+    Hemolytic and non-hemolytic reactions
+    Transfusion-mediated immunomodulation
+    Viral infection transmission
+    Transfusion-related acute lung injury (TRALI)
+   Hypothermia—WARM blood products to prevent this
+  — Consequences of hypothermia
+      ➤ Impairment of red cell deformability
+      ➤ Platelet dysfunction
+      ➤ Increase in affinity of hemoglobin to hold onto O2
+ Coagulopathy: monitor coagulation status, provide plasma and
+ platelets
+ Hypocalcemia, hypomagnesemia (citrate in transfused blood binds
+ ionized Ca++ and Mg++)
+ Banked blood does not have adequate 2,3-DPG. What is the
+ consequence?
+— Shifts the oxyhemoglobin-dissociation curve to the LEFT (see the
+  Respiratory Concepts chapter); increases the affinity of
+   hemoglobin to hold onto O2.
+Massive Transfusion Protocols
+  Designed to provide rapid infusion of large quantities of blood products
+  to restore oxygen delivery (DO2), oxygen utilization (VO2), and tissue
+  perfusion (blood pressure)
+  Indications include traumatic injuries, ruptured abdominal aortic or
+  thoracic aortic aneurysms, liver transplant, OB emergencies.
+  Definition: 10 units of RBCs in 24 hours or 5 units in less than 3 hours
+  Mortality > 50%
+  Need to prevent the triad of death:
+    Hypothermia
+    Acidosis
+    Coagulopathy
+Sepsis and Septic Shock
+Most acute care settings have developed protocols for the treatment of
+sepsis and septic shock to provide timely, evidence-based, life-saving
+treatment for this patient population and to meet the requirements set
+forth by the Centers for Medicare and Medicaid Services (CMS).
+Whereas older medical studies stressed the importance of CVP and
+ScvO2 measurements, more recent medical studies that discuss sepsis
+and septic shock place less importance on those measurements and
+instead stress fluid resuscitation, timeliness of obtaining blood cultures
+and serum lactate level measurements, the administration of antibiotics,
+and the initiation of vasopressors if necessary.
+Overview
+  There are at least 1.7 million incidences of sepsis in American adults
+  annually, with ~ 270,000 deaths per year (as per the CDC, Sept.
+  2021).
+  Sepsis is the #1 cause of death in the non-coronary ICUs.
+  As per the CDC, 1 in 3 patients who die in a hospital have sepsis.
+  Numbers are expected to increase due to high incidences of sepsis in
+  the older adult population.
+  The current Adult CCRN test blueprint expects you to understand
+  sepsis and septic shock. Systemic inflammatory response syndrome
+  (SIRS) and severe sepsis are not included in the latest blueprint
+  (most likely due to the changes introduced in the Sepsis-3 definitions,
+  which were published in 2016). Brief descriptions of all of these terms
+  are provided in the following sections, but exam questions will most
+  likely focus on sepsis and septic shock.
+Systemic Inflammatory Response Syndrome (SIRS)
+  SIRS is a systemic inflammatory response to a wide variety of severe
+  clinical insults, manifested by 2 or more of the following:
+     Temperature ≥ 38°C or < 36°C
+     Heart rate > 90 bpm
+     Respiratory rate > 20 breaths/minute or PaCO2 < 32 mmHg
+    WBC > 12,000 or < 4,000 or bands > 10% (shift to the left)
+  A patient may have SIRS without sepsis (i.e., traumatic injury,
+  pancreatitis, burns).
+  Studies have shown that SIRS is a poor predictor of sepsis, and thus
+  SIRS was eliminated from the Sepsis-3 definitions.
+Sepsis
+  Sepsis is a life-threatening organ dysfunction that is caused by an
+  abnormal host response to an infection. Initially, the infection may be
+  “suspected,” rather than “proven,” based on the clinical examination
+  and the patient’s history.
+  A “suspected” infection is the presence of one or more of the
+  following:
+     Positive culture results from blood, sputum, urine, etc.
+     Receiving antibiotic, antifungal, or another anti-infective therapy
+     Altered mental status in the elderly
+     Possible pneumonia (infiltrate on the chest radiograph)
+     Nursing home patient with an indwelling urinary catheter
+     Pressure ulcers
+     Acute abdomen
+     Infected wounds, especially with a history of diabetes
+     Immunosuppression
+  Sepsis = infection + organ dysfunction
+  Organ dysfunction may be identified by assessing the patient’s
+  qSOFA score or SOFA score.
+
+
+Examples of Organ Dysfunction
+  Hypotension
+  Acute hypoxemia
+  Acute drop in urine output (< 0.5 mL/kg)
+  Lactate 2 mmol/L or greater
+  Abrupt mental status change
+  Platelets below 100,000
+  Coagulopathy
+qSOFA (Quick Sepsis Related Organ Failure
+Assessment) Score
+  The qSOFA score is included in the Sepsis-3 definitions, but it is not
+  currently included in the Adult CCRN test blueprint (although it could
+  be added in the future).
+  The qSOFA score is a bedside evaluation (without the need for labs)
+  to identify patients with suspected organ dysfunction.
+  The qSOFA score evaluates 3 criteria, assigning 1 point for each of
+  the following:
+     Systolic BP ≤ 100 mmHg
+     Respiratory rate ≥ 22 breaths per minute
+     Glasgow coma scale < 15 (altered mentation)
+  A qSOFA score of 2 or 3 indicates a high probability for organ
+  dysfunction.
+Severe Sepsis
+  Severe sepsis (as defined prior to the publication of the Sepsis-3
+  definitions in 2016) is sepsis PLUS markers of organ dysfunction.
+  Note that severe sepsis is not included in the Sepsis-3 definitions,
+  and it has been eliminated from the Adult CCRN test blueprint.
+
+ NOTE
+
+ “Severe sepsis” is included in the Sepsis-2 definitions (from 2001) and is
+ still used by the CMS, but it is not included in the Sepsis-3 definitions
+ (from 2016) or in the current Adult CCRN test blueprint. The Sepsis-3
+ definition of “sepsis” includes organ dysfunction, whereas the Sepsis-2
+ definition instead calls it a “systemic response (SIRS positive) to an
+ infection.” Due to changing nomenclature and “bundles” of care (1-hour, 3-
+ hour, 6-hour) as defined by various organizations, it is unlikely that
+ “severe sepsis” will be mentioned in an exam question. However, just in
+ case you need a quick refresher on the differences between the Sepsis-2
+ definitions and the Sepsis-3 definitions and how they define SIRS, sepsis,
+ severe sepsis, and septic shock, refer to Table 5-3.
+
+
+
+ Table 5-3. Differences Between the Sepsis-2 Definitions and the
+                       Sepsis-3 Definitions
+Septic Shock
+  Of all deaths in hospitals annually, more than 40% are the result of
+  septic shock.
+  Clinically identified by an infection, PLUS:
+    Vasopressor requirement to maintain a MAP of ≥ 65 mmHg,
+    despite adequate fluid resuscitation
+    Serum lactate > 2 mmol/L, despite fluid resuscitation
+Differentiation of Infection, Sepsis, and Septic
+Shock
+Match the condition in the left-hand column with the clinical signs of
+patients in the right-hand column, each of which has a documented
+infection.
+
+
+ A. Infection       1. _____ BP 78/36 before fluids, 102/58 after a 500 mL fluid
+                    bolus, BE –5, pH 7.30, lactate 3 mmol/L, acute abdomen
+ B. Sepsis          2. _____ BP 110/80, BE –1, pH 7.34, lactate 1.5 mmol/L,
+                    temperature 39°C, WBC 15,000, acute abdomen
+ C. Septic shock    3. _____ BP 78/40 before fluids, 88/49 after a 500 mL fluid
+                    bolus × 4, BE –5, pH 7.31, lactate 6 mmol/L, acute abdomen
+
+
+
+The answers are located at the end of the “Sepsis and Septic Shock”
+section on page 124.
+Pathophysiology of Sepsis/Septic Shock
+  Sepsis/septic shock is a process of malignant intravascular
+  inflammation.
+
+
+
+
+        Figure 5-4. Pathophysiology of sepsis/septic shock
+
+  Activation of coagulation, inflammatory cytokines, complement, and
+  kinin cascades with the release of a variety of endogenous mediators
+  Causative organisms include:
+    Gram-negative bacteria
+    Gram-positive bacteria
+    Fungi, viruses, Rickettsia, parasites
+Risk Factors for Sepsis
+  Extremes of age
+  Chronic health problems
+  Invasive procedures and devices
+  Surgical wounds
+  Genitourinary infections
+  Prolonged hospitalizations
+  Translocation of GI bacteria (NPO)
+  Acquired immunodeficiency syndrome
+  Use of cytotoxic and immunosuppressive agents
+  Alcoholism
+  Malignant neoplasms; bone marrow suppression
+  Transplantation procedures
+  History of a splenectomy
+Signs/Symptoms of Early Septic Shock
+  Tachycardia, bounding pulse
+  BP is low, responsive to vasopressors
+  Skin is warm, flushed
+  Respirations are deep, somewhat fast
+  Lactate > 2 mmol/L
+  Confusion → mental status change (especially in elderly people)
+  Oliguria
+  Fever (temperature > 38°C)
+Signs/Symptoms of Progressive (Later) Septic
+Shock
+   Hypotension, may not be responsive to pressors
+   Tachycardia, pulse is weak and thready
+   Lactate 4 mmol/L or greater
+   Skin is cool, pale
+   Respirations are rapid or may be slow
+   Lethargy, coma
+   Anuria
+   Hypothermia (temperature < 36°C)
+
+  MYTH
+
+  A patient with sepsis or septic shock always has a fever and an elevated
+  WBC.
+
+
+
+Table 5-4 shows the hemodynamics of septic shock. Table 5-5 lists the
+diagnostic test results that indicate septic shock.
+
+             Table 5-4. Hemodynamics of Septic Shock*
+Table 5-5. Diagnostic Test Results That Indicate Septic Shock*
+
+
+
+
+Only 30–50% of patients who present with sepsis/septic shock have
+positive blood cultures.
+Treatment for Sepsis/Septic Shock
+  MYTH
+
+  A patient with sepsis or septic shock always has positive blood cultures.
+
+
+
+  Initial fluid challenge should be the administration of 30 mL/kg of
+  crystalloid (2.1 L for a 70 kg or 154 pound person) as early as
+  possible to achieve the goals listed below:
+    MAP ≥ 65 mmHg
+     UO ≥ 0.5 mL/kg/hr
+     Decrease in tachycardia
+  If hypotension persists despite fluid resuscitation, start:
+     Vasopressor: pressor of choice is norepinephrine.
+   — Norepinephrine (Levophed) is first-line.
+   — Epinephrine (drip) is recommended when a second
+       vasopressor agent is needed.
+  IF the BP does not respond to high-dose initial pressor and fluids, the
+  patient may have catecholamine-refractory septic shock, whereby
+  alpha receptors in the arterial bed are not responsive to pressors.
+     Start a vasopressin drip at 0.03–0.04 units/min, generally not
+     titrated.
+   — NOT a first-line agent for hypotension
+   — Used to enhance the effectiveness of the initial pressor that was
+         used for treating septic shock
+     If vasopressin is not effective, consider extreme metabolic acidosis
+     or corticosteroid insufficiency related to a critical illness; treatment
+     with sodium bicarbonate or steroids may be considered, although
+     neither have demonstrated that they can improve mortality rates.
+Obtain two blood cultures as early as possible that are drawn
+simultaneously from two different sites prior to antibiotic
+administration.
+Begin broad-spectrum antibiotic therapy as early as possible after
+recognizing sepsis/septic shock and after blood cultures are drawn;
+administer within 3 hours of recognition of sepsis/septic shock
+(preferably within 1 hour of recognition, if possible).
+  In one study, for every hour that the administration of antibiotics
+  was delayed, there was an approximately 12% decrease in the
+ probability of survival.
+Obtain serum lactate as early as possible and remeasure within 2–4
+hours if the first lactate is > 2 mmol/L.
+Identify the source of infection ASAP (which may direct antibiotic
+and/or interventional therapy).
+If the MAP remains below 65 mmHg OR the lactate is 4 mmol/L or
+greater, reassess the fluid status.
+  Ask a licensed independent practitioner to complete a focused
+  clinical assessment, OR
+  Perform an assessment of 2 of the following: measure the CVP;
+  assess the patient’s fluid responsiveness with either a passive leg
+  raise or a fluid challenge; perform/assess a bedside ECHO;
+  measure the ScvO2.
+Inotropic therapy—dobutamine is recommended (by itself or in
+addition to a vasopressor) for patients with cardiac dysfunction, as
+evidenced by high filling pressures and low cardiac output, or clinical
+signs of hypoperfusion after successfully restoring the blood pressure
+with effective volume resuscitation.
+Oxygenation goals for septic shock
+  Maintain SpO2 95% or greater
+ Goal = ScvO2 ≥ 70% or SvO2 ≥ 65% (when CVP and MAP goals
+ are met)
+ If ScvO2 or SvO2 goals are not achieved:
+— Consider further fluids
+— Dobutamine infusion, max 20 mcg/kg/min
+— Consider a transfusion of PRBCs if the Hgb is 7.0 or less
+Summary of Therapeutic Endpoints for Septic Shock
+  MAP ≥ 65 mmHg
+  Decreased lactate/improved base deficit
+  Normalization of heart rate
+  UO ≥ 0.5 mL/kg/hr
+  Warm extremities
+  Mental status return to baseline
+  Source control
+  Central venous oxygen saturation (ScvO2) ≥ 70% or SvO2 ≥ 65% (if
+  CVP or PA line is available)
+  CVP (if available), 8–12 mmHg
+Differentiation of Infection, Sepsis, and Septic
+Shock Answers
+
+
+    A. Infection    1.      B   BP 78/36 before fluids, 102/58 after
+                         a 500 mL fluid bolus, BE –5, pH 7.30, lactate
+ B. Sepsis                         3 mmol/L, acute abdomen
+                    2.      A      BP 110/80, BE –1, pH 7.34, lactate
+  C. Septic shock        1.5 mmol/L, temperature 39°C, WBC 15,000,
+                                       acute abdomen
+                    3.     C    BP 78/40 before fluids, 88/49 after a
+                           500 mL fluid bolus × 4, BE –5, pH 7.31,
+                                lactate 6 mmol/L, acute abdomen
+Anaphylactic Shock
+ Anaphylaxis is an allergic reaction that is rapid in onset and may
+ cause death.
+ Usually occurs after previous exposure to the substance
+ Hives, angioedema in ~ 88% of cases
+ Respiratory tract involvement in ~ 50% of cases
+ Shock occurs in ~ 30% of anaphylaxis cases.
+Etiology
+   IgE-mediated immediate hypersensitivity reaction to protein
+   substances
+     Penicillin, contrast media, bee sting, foods, latex
+An anaphylactoid response looks the same clinically but is NOT IgE-
+mediated. Previous exposure is not necessary (Figure 5-5).
+
+
+
+
+      Figure 5-5. Pathophysiology of anaphylactic shock
+Treatment
+  Removal of offensive agent, if able
+  O2
+  0.3–0.5 mg of 1:1,000 epinephrine IM (more rapid absorption than
+  subcutaneous) to decrease dilation, bronchospasm
+  Aggressive fluid resuscitation (1–4 L) to treat the relative
+  hypovolemia
+  Antihistamine: diphenhydramine (Benadryl) 25–50 mg IV to
+  decrease allergic response
+  Inhaled beta-adrenergic agents to decrease bronchospasm
+  Steroids IV (high-dose): peaks in 4–6 hours, give ASAP to get “on
+  board” to decrease inflammatory response
+Multiple Organ Dysfunction Syndrome
+(MODS)
+ Multiple organ dysfunction syndrome (MODS), which is sometimes
+ referred to as multi-organ dysfunction syndrome, is the progressive
+ insufficiency of 2 or more organs in an acutely ill patient, such that
+ homeostasis cannot be maintained without intervention (Table 5-6).
+
+   Table 5-6. Markers of Multiple Organ Dysfunction Syndrome
+                              (MODS)
+
+
+
+
+ MODS may be the result of any type of shock.
+  The greater the number of organs involved, the higher the mortality
+  Accounts for ~ 80% of all ICU deaths annually
+Sequential Organ Failure Assessment
+(SOFA) Scoring System
+ Unlike the bedside qSOFA evaluation, the SOFA utilizes lab
+ results to assess the extent of a patient’s organ dysfunction. Six
+ organ systems are evaluated, and each is assigned a score from
+ 0 to 4 based on results to obtain the total score:
+   1. Hypotension (cardiovascular)
+   2. Glasgow Coma Scale score (neurological)
+  3. PaO2/FiO2 (pulmonary)
+  4. Serum creatinine or urine output (renal)
+  5. Bilirubin level (hepatic)
+  6. Platelet count (hematologic)
+
+ The total score may be useful for predicting the clinical outcome of
+ critically ill patients. Studies have shown that mortality rates are
+ associated with the SOFA score: the mortality rate is 50% if the
+ score increases in the first 96 hours after admission; the mortality
+ rate is 25% if the score remains the same in the first 96 hours
+ after admission; and the mortality rate is less than 25% if the
+ score decreases in the first 96 hours after admission.
+Trauma
+ Trauma is included in the Adult CCRN test blueprint. However,
+ questions related to trauma are generally very straightforward.
+ Make sure you know the trauma first-line assessment and
+ second-line assessment.
+Trauma First-Line Assessment (A, B, C, D, E)
+  Airway: ensure a patent airway—consider intubation (stabilize the
+  cervical spine if a spinal cord injury is suspected).
+  Breathing: provide 100% oxygen and ventilation.
+  Circulation: two large bore IVs with warm isotonic lactated
+  Ringer’s
+  Disability: perform a quick neurological exam—LOC, motor,
+  pupils.
+    Glasgow Coma Scale score is part of the neurological exam,
+    not ALL of it.
+  Expose/Environmental: remove the patient’s clothes, provide
+  warmth/cooling as needed.
+Trauma Second-Line Assessment (F, G, H, I)
+  Full set of vital signs
+    Focused adjuncts: ECG monitor, pulse oximeter, CO2 detector,
+    urinary catheter, gastric tube, radiography, FAST, CT, DPL, labs
+    Family presence
+  Give comfort measures (pain management)
+  History
+  Inspect posterior: turn the patient over!
+Providing Sedation to the Critically Ill
+The Adult CCRN test blueprint has included treatment of pain and the
+use of sedation agents in the multisystem section; management of
+agitated behavior is also included in the behavioral/psychosocial section
+of the blueprint.
+Overview of Sedation
+  A patient who is agitated (even a patient with a medical, rather than a
+  surgical, diagnosis) should first receive an analgesic (analgesia-first
+  sedation) before receiving anxiolytics. (Analgesic agents will be
+  covered in the next section of this chapter after the following
+  discussion of anxiolytics.)
+  The degree of sedation (the sedation goal) should be based on the
+  needs of the patient and should be agreed upon by and
+  communicated to all members of the health care team. This sedation
+  goal applies to the sedation provided during a procedure and to the
+  sedation provided as part of the therapeutic plan of care.
+  Maintaining light levels of sedation in adult ICU patients is
+  associated with improved clinical outcomes (i.e., a shorter duration of
+  mechanical ventilation and a shorter ICU length of stay).
+  When sedation is provided on an as-needed, PRN basis, there is less
+  of a possibility of oversedation than there is when sedation is
+  provided with a continuous infusion.
+  Daily interruptions of continuous infusions of sedation agents allows
+  for an assessment of further need for the sedation agent and a
+  neurological assessment of the patient.
+  Nonpharmacological treatment (massage, music, cold therapy, and
+  relaxation techniques) should be considered before using an
+  anxiolytic agent, especially for mild anxiety and agitation.
+  The levels of sedation are:
+     Minimal (Light) Sedation: The patient responds normally to verbal
+     commands.
+     Moderate Sedation: The patient responds purposefully to verbal
+     commands, either alone or accompanied by light tactile stimulation.
+  The patient is able to maintain a patent airway.
+  Deep Sedation: The patient cannot be easily aroused but
+  responds purposefully to repeated or painful stimulation. The
+  patient may require assistance in maintaining a patent airway.
+  Deep sedation is generally only used during a procedure by
+  providers with specialized privileges or is ongoing for a patient
+  receiving mechanical ventilation.
+  General Anesthesia: This is a loss of consciousness during which
+  patients are not arousable, even by painful stimulation.
+The level of sedation may exceed the level intended; therefore, the
+RN needs to be able to identify when this occurs and act accordingly.
+Assessment of Agitation and Sedation
+  Rule out hypoxemia, hemodynamic instability, and pain as causes of
+  agitation. If any of these is present, treat accordingly.
+  Assess for additional etiologies (Table 5-7).
+
+        Table 5-7. Causes of Agitation in Critically Ill Patients
+
+
+
+
+  Use a valid and reliable sedation assessment tool for measuring the
+  quality and depth of sedation before and after treatment.
+    The Richmond Agitation-Sedation Scale (RASS) and the Sedation-
+    Agitation Scale (SAS) are valid and reliable sedation assessment
+    tools that are used for adult critical care patients.
+Treatment with Select Sedation Agents
+  See Table 5-8 for select sedation agents that are commonly used for
+  an acute/critically ill patient. The dose that is given may vary
+  depending upon unit protocols.
+
+        Table 5-8. Dosing and Nursing Implications for Select
+                          Sedation Agents
+✰ Note that memorization of exact dosing is not generally needed for this
+  exam. You need to understand how to manage a patient who requires
+  types of sedation: intermittent, continuous, and procedural (minimal
+  and moderate).
+Benzodiazepine Reversal with Flumazenil (Romazicon)
+
+   Reverse the effects of benzodiazepines with flumazenil (Romazicon)
+   0.2 mg IV over 15 seconds for moderate sedation/over 30 seconds
+   for overdosage.
+   Repeat doses, 0.2 mg at 1-minute intervals, maximum of 4 doses,
+   until patient awakens.
+   For resedation, give repeat doses at 20-minute intervals as needed,
+   0.2 mg per minute to a maximum of 1 mg total, and 3 mg total in 1
+   hour.
+   Onset of action of flumazenil is 1–2 minutes, 30% response within 3
+   minutes, peak effect in 6–10 minutes.
+   Resedation occurs after approximately 1 hour; the duration of
+   flumazenil is related to the dose given and the benzodiazepine
+   plasma concentrations.
+✰ Note that the reversal effects of flumazenil may wear off before the
+  effects of the benzodiazepine. Therefore, monitor for a return of
+  sedation and respiratory depression for at least 2 hours and until the
+  patient is stable and resedation is unlikely.
+   Use with caution for those with a history of prolonged use. A seizure
+   may occur with reversal.
+Daily Sedation Withdrawal (Spontaneous Awakening
+Trial)
+An evidence-based strategy for preventing oversedation and its
+complications is to withhold the sedation for patients who are receiving a
+continuous drip in order to perform a neurological assessment and
+determine whether the continuous sedation drip is still clinically
+beneficial. The daily spontaneous awakening trial (SAT), or sedation
+vacation, is best done in conjunction with the daily spontaneous
+breathing trial (SBT). Suggested guidelines for performing the daily SAT
+are as follows:
+
+ 1. Screen the patient prior to the spontaneous awakening trial.
+       No myocardial ischemia
+       No active seizures
+       No alcohol withdrawal
+       No paralytic drip
+       Stable intracranial pressure
+       No recent increase in the sedation drip dose to maintain the goal
+       RASS score
+ 2. Turn off the sedation drip.
+       If the sedation agent is propofol, consider weaning down every 5
+       minutes to prevent sudden agitation.
+ 3. Monitor the patient for awakening and tolerance to drug withdrawal.
+      Assess the patient’s neurological status, discomfort, and pain.
+      Assess the level of sedation/agitation with a sedation tool.
+      Signs of SAT failure include:
+         Dangerous agitation
+         Sustained tachypnea, increased work of breathing
+         Sustained drop in SpO2 to < 90%
+         Acute arrhythmia
+         Hypotension
+4. Determine whether the sedation drip should be discontinued and
+   replaced with PRN dosing, restarted at half the dose, or returned to
+   the pre-SAT dose.
+Providing Analgesia to the Acutely
+and Critically Ill
+Overview of Pain
+  Pain has adverse physiological and psychological effects,
+  including activation of the physiological stress response,
+  depression, and delirium.
+  Etiologies of pain in the acutely and critically ill include the obvious
+  sources and the not-so-obvious sources (Table 5-9).
+
+Table 5-9. Causes of Pain/Discomfort in an Acutely or Critically
+                           Ill Patient
+Pain Assessment
+  It is recommended that pain be routinely assessed in all adult ICU
+  patients.
+  Attempt to obtain the patient’s self-report of pain using the
+  Numerical Rating Scale (NRS), pointing, and head nodding.
+  The Behavioral Pain Scale (BPS) is recommended for a patient
+  who is receiving mechanical ventilation and is unable to self-report
+  pain. The Critical-Care Pain Observation Tool (CPOT) is
+  recommended for assessing the pain of a patient who is unable to
+  self-report pain, with or without mechanical ventilation.
+  Vital signs alone should not be used for pain assessment in
+  critically ill adults, but they can be used as a cue to assess pain
+  further.
+  Consider asking a family member or friend who knows the patient
+  well (a proxy reporter) whether the patient’s behavior may indicate
+  the presence of pain.
+Pain Management
+  Intravenous (IV) opioids are the first-line choice to treat non-
+  neuropathic pain in critically ill patients. All available IV opioids,
+  when titrated to similar pain intensity endpoints, are equally
+  effective (Table 5-10). The dose that is given may vary
+  depending upon unit protocols.
+  Prevent pain as you are able to by using:
+    Preemptive analgesia prior to procedures that are likely to
+    cause pain
+    Nonpharmacological interventions (distraction, relaxation
+    therapy)
+  If the patient is agitated, treat pain first and then sedate.
+
+    Table 5-10. Pharmacology of Select Opioid Analgesics
+Opioid Reversal with Naloxone
+  Give 0.4 to 2 mg IV every 2 minutes until effect to a maximum of
+  10 mg.
+  Duration of naloxone action is 1 to 2 hours; repeated doses may
+  be needed for a long-acting opioid.
+Targeted Temperature Management
+(TTM)
+Overview
+   Targeted Temperature Management (TTM) is a treatment that lowers
+   the patient’s core body temperature in order to prevent the
+   neurological effects of an ischemic injury in the brain of survivors of
+   sudden cardiac death.
+   Assess patients after cardiac arrest for inclusion criteria and
+   exclusion criteria (Table 5-11).
+
+    Table 5-11. Inclusion Criteria and Exclusion Criteria for the Use
+                  of Targeted Temperature Management
+
+
+
+
+This therapy involves 3 phases:
+
+ 1. Induction phase: lower the patient’s temperature to 32–36°C (as
+    ordered by the provider); start this cooling ASAP.
+       The RN should initiate this cooling within 90 minutes of the
+       patient going into arrest; the cooling may last for as long as 6
+     hours after the arrest.
+2. Maintenance phase: keep the patient at the target temperature (32–
+   36°C) for 24 hours.
+3. Rewarming phase: slowly increase the patient’s temperature to
+   36.5–37°C (as ordered by the provider).
+Induction Phase
+  Set the goal time to the target temperature.
+  Monitor the core temperature (pulmonary artery catheter, esophageal,
+  bladder, rectal)..
+  Apply the device (external pads or internal central venous catheter).
+  The goal systolic BP is generally > 90 mmHg, and the goal MAP is
+  generally > 70 mmHg.
+  Obtain baseline labs and generally complete a metabolic panel, a
+  complete blood count, a coagulation panel, a check of the patient’s
+  serum magnesium and phosphorus levels, and an arterial blood gas.
+  Get a baseline bedside blood glucose measurement.
+  Obtain a 12-lead ECG.
+  Initiate deep sedation.
+  Manage shivering by covering the head, hands, and feet or by using
+  meperidine (Demerol); use a neuromuscular agent if shivering is not
+  controlled with meperidine (Demerol).
+  Monitor/manage the systemic effects of hypothermia.
+
+
+Systemic Effects of Hypothermia
+  Insulin resistance → hyperglycemia
+  Electrolyte and fluid shifts
+  Shivering
+  Skin breakdown
+  Pupil and corneal reflexes may be absent due to hypothermia
+  Decreased cardiac output
+    Up to 25%
+  Alteration in coagulation
+    Platelet dysfunction
+Increased risk for infection
+  Neutrophil and macrophage functions decrease at temperatures
+  less than 35°C.
+Maintenance Phase (Duration 24 Hours)
+  Continuously monitor the core temperature (bladder, rectal); the core
+  temperature should not be lower than the specified goal (32–36°C).
+  Monitor vital signs (at least hourly).
+  Obtain routine bedside blood glucose measurements and initiate an
+  insulin drip as needed.
+  Monitor train-of-four (TOF) every hour if a paralytic is used and
+  ensure a goal of 1–2 twitches to prevent prolonged paralysis.
+  Repeat labs (same as baseline labs) every 8 hours until the patient is
+  rewarmed.
+Rewarming Phase
+  Perform passive rewarming to 36.5–37°C.
+  Program the cooling unit to increase the target temperature by 1
+  degree per hour.
+  Stop all potassium administration 8 hours prior to rewarming.
+    Rewarming causes rebound hyperkalemia.
+  Discontinue paralytics (if they were being used) after the patient is
+  warmed to 36.5°C.
+  Repeat labs (same as baseline) when the patient is rewarmed.
+  Perform a close neurological assessment; pupil and corneal reflexes
+  may continue to be absent for a time.
+Toxin/Drug Exposure
+The Adult CCRN exam may include 1 question related to toxin/drug
+exposure.
+General Points
+  Toxin/drug exposure may be accidental or intentional.
+  ✰ Initial management—always assess ABCs (airway, breathing,
+    circulation).
+
+  If the patient is comatose, be prepared to give 50% dextrose 50 mL,
+  thiamine 50–100 mg, naloxone 2 mg IV.
+  To prevent absorption of the toxin/drug, give activated charcoal 1
+  gm/kg via gastric lavage.
+      Contraindicated with hydrocarbon or corrosive ingestions
+      Not necessary for the ingestion of iron, lithium, or alcohols
+  Facilitate the removal of the drug—urine alkalization, hemodialysis.
+  Administer an antidote, if indicated (e.g., naloxone).
+  Monitor for arrhythmias.
+  Monitor the urine output.
+  If there is a chemical exposure, give an antidote (if possible),
+  remove the chemical (if it is a powder, brush it away; if it is a liquid,
+  flush it with saline or water), do not rub the affected area, and cover
+  the affected area with a sterile damp dressing.
+Management of Toxin/Drug Exposure
+  See Table 5-12 for the management of specific toxin/drug exposure.
+
+   Table 5-12. Signs, Symptoms, and Treatment of Specific Toxic
+                             Agents
+Healthcare-Associated Infections
+(HAIs)
+Healthcare-associated infections (HAIs), also known as healthcare-
+associated conditions, were recently added to the Adult CCRN test
+blueprint. Be prepared to understand the role of the nurse in the
+prevention of these infections, which are considered indicators of the
+quality of care that is provided to patients. In general, an infection
+that develops more than 48 hours after admission to the hospital is
+considered healthcare-associated; if the infection is identified within
+48 hours after admission to the hospital, it is considered community-
+acquired. Hospitals are now required to report cases of HAIs to
+government agencies, and some cases are publicly reported.
+
+Guidelines for the prevention of ventilator-associated pneumonia
+(VAP), central line-associated bloodstream infections (CLABSIs),
+and catheter-associated urinary tract infections (CAUTIs) have been
+provided by several national organizations, including the Centers for
+Disease Control and Prevention (CDC), the Society for Healthcare
+Epidemiology of America (SHEA), the Infectious Diseases Society of
+America (IDSA), and the Association for Professionals in Infection
+Control and Epidemiology (APIC). “Care bundles” are sets of
+evidence-based practices that lead to improved outcomes if all
+elements are completed.
+Ventilator-Associated Event (VAE)
+  VAEs are complications that may occur as a result of mechanical
+  ventilation. Complications include pneumonia, barotrauma,
+  ARDS, atelectasis, and/or fluid overload.
+  VAE is a term that was created by the CDC to better describe an
+  occurrence of ventilator-associated pneumonia (VAP). VAP is a
+  type of VAE. For the Adult CCRN exam, you will be expected to
+  understand VAP and strategies to prevent VAP; you will not be
+  expected to understand the complex VAE algorithm.
+  Refer to page 90 of the Respiratory Concepts chapter of this
+  book for a review of the ways to prevent VAP.
+Central Line-Associated Bloodstream Infection
+(CLABSI)
+A central line-associated bloodstream infection (CLABSI) is a
+laboratory-confirmed bloodstream infection that develops within 48
+hours of a central line placement and is not related to an infection at
+any other sites. A CLABSI results in longer hospital stays, increased
+costs, and an increased risk of death. CLABSI mortality rates of 12%
+to 25% have been reported.
+
+The guidelines for the prevention of CLABSIs are as follows:
+
+  Develop standardized, evidence-based policies/procedures with
+  indications for central line use, insertion, and maintenance.
+  Insertion
+    Ensure that processes are in place for insertion according to the
+    guidelines (e.g., central line cart, checklists).
+    Optimize site selection (subclavian vein) as able; avoid femoral
+    or internal jugular site if at all possible.
+    Ensure that the team utilizes aseptic technique during insertion.
+    Utilize maximal barrier precautions and personal protective
+    equipment during insertion.
+    Prepare the skin using chlorhexidine skin antisepsis.
+    Use chlorhexidine patch/gel dressing over the insertion site
+    (unless there is an allergy).
+  Maintenance
+    Practice hand hygiene prior to line manipulation/care.
+  Provide a head-to-toe chlorhexidine bath daily for ICU patients.
+  Disinfect catheter hubs, needleless connectors, and injection
+  ports with mechanical friction for no less than 5 seconds with an
+  antiseptic before accessing the catheter.
+  Ensure the patency of the dressing, and change the dressing
+  and tubing according to hospital policy.
+  Do not routinely replace central lines (e.g., every 72 hours)
+  unless it is known that the insertion was performed emergently
+  without antisepsis.
+  Discontinue a central line if there are signs of an infection.
+  Perform a daily review of line necessity.
+  Use aseptic technique for dressing changes, ensuring dressing
+  patency at all times.
+  Ensure that there is an appropriate nurse-to-patient ratio and
+  limit the use of float nurses in ICUs.
+Monitoring
+  Perform root cause analyses on line infections and develop
+  action plans for improvement accordingly.
+  Develop processes for measuring compliance with
+  policies/procedures.
+  Share quality monitoring and infection results with the staff.
+  Assess competency of the staff who insert/care for lines.
+Require that all health care personnel, who are involved in the
+insertion, care, and maintenance of central venous catheters
+(CVCs), be educated about CLABSI prevention.
+Catheter-Associated Urinary Tract Infection
+(CAUTI)
+The Centers for Disease Control and Prevention (CDC) defines a
+catheter-associated urinary tract infection (CAUTI) as an infection of
+the urinary tract, where an indwelling urinary catheter was in place
+for more than 2 consecutive days in an inpatient location on the date
+of event, with day of device placement being Day 1 AND an
+indwelling urinary catheter in place on the date of event or the day
+before.
+
+The guidelines for the prevention of CAUTIs are as follows:
+
+  Develop standardized, evidence-based policies/procedures with
+  criteria for catheter use.
+  Utilization practices
+     Avoid inserting an indwelling urinary catheter, if at all possible.
+     Develop standardized, evidence-based reasons for insertion
+     such as select operative procedures, acute urinary retention or
+     bladder outlet obstruction, gross hematuria, a need for an
+     accurate measurement of urine output, to assist in the healing
+     of open sacral or perineal wounds in incontinent patients, or for
+     patients who require prolonged immobilization (e.g., potentially
+     unstable thoracic or lumbar spine, multiple traumatic injuries
+     such as pelvic fractures).
+     Perform a daily review of catheter need based on agreed upon
+     hospital standardized criteria.
+  Remove catheters as soon as they are no longer necessary; as
+  per the CDC, when a catheter is placed during surgery and
+  remains in place post-op, remove the catheter as soon as
+  possible, preferably within 24 hours, unless there are
+  appropriate indications for continued use.
+  Implement a nurse-driven protocol to empower nurses to
+  evaluate and discontinue unnecessary urinary catheters.
+  Utilize alternative strategies (external catheters, intermittent
+  straight catheterization as able).
+Insertion and maintenance practices
+  Use aseptic technique during insertion
+  Make insertion a 2-person activity to reduce breaks in aseptic
+  technique during insertion.
+  Practice hand hygiene prior to/following catheter
+  manipulation/care.
+  Utilize standard precautions, including the use of gloves and
+  gowns, as appropriate.
+  Employ routine catheter care, cleansing the meatal area
+  (antiseptic solution is not needed); replace basin bathing with
+  plain wipes.
+  Maintain an unobstructed urine flow (e.g., ensure proper
+  securement of the catheter, maintain tubing free of kinks or
+  dependent loops, maintain the collection bag below the level of
+  the bladder).
+  Do not disconnect/reconnect system components.
+  Collect urine samples from the sampling port using aseptic
+  technique.
+Process measures
+Assess the competency of the clinicians who insert catheters;
+provide periodic training and competency assessments.
+Identify unit “CAUTI champions,” whose role is to monitor
+patients with indwelling urinary catheters and ensure that
+standards for infection prevention are utilized by caregivers.
+Develop quality measures and share outcomes with the staff.
+Perform a root cause analysis for each infection and implement
+action plans based on those analyses.
+Multi-Drug Resistant Organisms (MDROs)
+ Patients who are vulnerable to colonization and an infection with
+ MDROs include the critically ill, especially those with
+ compromised host defenses from underlying medical conditions,
+ recent surgery, or the presence of indwelling medical devices
+ (e.g., urinary catheters, central lines).
+ The following are the most common organisms that are found in
+ hospitals, long-term care facilities, and at times, in the
+ community:
+   Methicillin-resistant Staphylococcus aureus (MRSA)
+   Vancomycin-resistant enterococci (VRE)
+   Clostridium difficile (C. diff)
+   Carbapenem-resistant enterobacteriaceae (CRE)
+ The following strategies are used to prevent infections caused by
+ multi-drug resistant organisms (MDROs):
+   Establish a culture where hand hygiene is expected of all
+   caregivers.
+   Develop an antibiotic stewardship and an antibiotic de-
+   escalation program.
+   Provide universal decolonization of ICU patients through
+   chlorhexidine bathing and nasal decolonization.
+   Focus on the rapid identification of MDROs and the
+   development of a strong containment program.
+   Utilize team rounding/huddles to ensure that
+   VAP/CLABSI/CAUTI evidence-based interventions (bundles)
+   are followed and that antibiotic stewardship is practiced.
+Conduct a root cause analysis of infections that occur.
+Develop a process to assess that clinicians utilize contact
+precautions according to hospital policy.
+Develop processes for reliable cleaning of equipment and
+surfaces.
+Provide education regarding hand hygiene and when soap and
+water (rather than hand gel) is required: following contact with
+patients with C. difficile, when the clinician’s hands are visibly
+soiled, after the clinician has used the restroom, and before the
+clinician eats.
+Palliative Care, Hospice Care, and
+End-of-Life Care
+Palliative Care
+ Palliative care is the prevention and treatment of the symptoms
+ and side effects of a serious illness. Physiological, emotional,
+ social, and spiritual problems are considered.
+   Palliative care can be initiated anytime during a disease or life-
+   threatening illness.
+   This type of care has been found to be most beneficial when it
+   is initiated early.
+   Symptom management may include the management of pain,
+   anxiety, dyspnea, urticaria, nausea/vomiting, constipation, and
+   diarrhea, among other symptoms.
+ Aggressive treatment may be continued.
+ All critically ill patients deserve palliative care.
+ Palliative care has been shown to improve survival, decrease
+ resource utilization, and decrease hospital readmissions and the
+ cost of care.
+Hospice Care
+ Hospice care is the provision of symptom management for those
+ with a terminal illness. It includes palliative care, but disease-
+ modifying treatments are discontinued unless they may provide
+ symptom management.
+ Grief and bereavement services are included.
+End-of-Life Care
+ End-of-Life (EOL) care supports the needs of patients and their
+ families at the time of imminent death. It is always a part of
+ hospice care, and it may or may not be a part of palliative care. It
+ is provided to all patients who are at the end of their lives,
+ regardless of whether or not palliative care or hospice care were
+ initiated.
+    EOL care avoids prolongation of the dying process.
+    EOL care provides support to the patient’s family.
+Similarities Between Palliative Care, Hospice
+Care, and End-of-Life Care
+All three of these types of care involve:
+
+  Advance care planning
+  Focusing on patient/family wishes
+  Optimizing quality of life
+
+
+ Now that you have reviewed the key multisystem concepts, go to
+ the Practice Questions. Answer the questions, and then check
+ your answers. Continue to review the information until you answer
+ 80% of the practice questions correctly.
+Practice Questions
+ 1. Which medications are most often prescribed for anaphylaxis
+    after initial therapy with IM epinephrine?
+
+    (A) antihistamines and corticosteroids
+    (B) vasopressors and inotropes
+    (C) antihistamines and antibiotics
+    (D) corticosteroids and vasopressors
+
+
+ 2. Which of the following would most likely result in an SvO2 of
+   82%?
+
+    (A) hypovolemic shock
+    (B) anaphylactic shock
+    (C) septic shock
+    (D) cardiogenic shock
+
+ 3. The initial management of any drug intoxication is to:
+
+    (A) prevent further absorption of the drug.
+    (B) increase excretion of the drug.
+    (C) administer an antidote when appropriate.
+    (D) ensure a patent airway and adequate breathing.
+
+ 4. A patient is being treated for sepsis with fluid resuscitation, but
+    the MAP is 55 mmHg and norepinephrine is ordered. What
+  primary beneficial effect will norepinephrine provide for this
+  patient?
+
+   (A) It will maintain renal blood flow.
+   (B) It will increase coronary artery blood flow.
+   (C) It will increase venous return and preload.
+   (D) It will restore vascular tone and afterload.
+
+5. Which of the following would be an indicator that fluid
+   resuscitation is adequate?
+
+   (A) The CVP is 2 mmHg.
+   (B) The heart rate is decreasing.
+   (C) The pulse pressure is narrowing.
+   (D) The serum lactate is 4.1 mmol/L.
+
+6. Which of the following is TRUE in regard to shock?
+
+   (A) The MAP is adequate in the compensatory phase of shock.
+   (B) The blood pressure is maintained in Class III hemorrhagic
+       shock.
+   (C) An elevated lactate level occurs late in septic shock.
+   (D) Serum bicarbonate is elevated in shock.
+
+7. A patient with upper GI bleeding received procedural sedation
+   with midazolam during his endoscopy procedure. He required
+   higher doses to maintain sedation and screened positive for
+   obstructive sleep apnea (OSA). Which of the following is TRUE
+   regarding this patient’s plan of care?
+   (A) Respiratory depression will generally precede sedation.
+   (B) Pulse oximetry will detect early hypoventilation.
+   (C) Waveform capnography monitoring is indicated for this
+       patient post-procedure.
+   (D) The maximum dose of flumazenil (Romazicon) for
+       midazolam reversal is 0.2 mg IV.
+
+8. A patient is receiving a continuous sedation infusion of propofol
+   (Diprivan) at 30 mcg/kg/min. Which of the following is an
+   appropriate intervention for this patient?
+
+   (A) Reverse the side effects with flumazenil (Romazicon).
+   (B) Provide a daily spontaneous awakening trial.
+   (C) Avoid administering analgesia.
+   (D) Monitor the patient closely for hypertension.
+
+9. Which of the following statements is TRUE in relation to the
+   treatment of sepsis?
+
+   (A) Special protocols, “bundles” of interventions, are indicated
+       for the presence of an infection with evidence of organ
+       dysfunction.
+   (B) Administering pressors is required for treating sepsis.
+   (C) By definition, a patient with systemic inflammatory
+       response syndrome (SIRS) has an infection.
+   (D) Positive cultures are required in order to make the
+       diagnosis of septic shock.
+10. Which of the following statements regarding targeted
+    temperature management (TTM) is CORRECT?
+
+    (A) TTM should be provided for all patients status post
+        ventricular fibrillation.
+    (B) Potassium infusions will most likely be required during
+        rewarming.
+    (C) Shivering is expected and is generally self-limiting.
+    (D) Insulin infusions are often required during the maintenance
+        phase.
+
+11. A patient who has sustained traumatic injuries, including a
+    pelvic fracture and soft tissue injuries, has required a
+    transfusion of 7 units of packed red blood cells (PRBCs).
+    Which of the following is TRUE related to the care of this
+    patient?
+
+    (A) Pressors will most likely be required.
+    (B) The patient will need to be monitored for hypercalcemia.
+    (C) Blood products and crystalloids should be warmed.
+    (D) Platelets will need to be given if the platelet count drops.
+
+12. A patient is receiving mechanical ventilation and is able to write
+    notes to communicate. Which of the following is the most
+    appropriate intervention related to the management of pain for
+    this patient?
+    (A) Coach the patient in the use of self-reporting with the
+         numerical rating scale (NRS).
+    (B) Initiate pain medication during procedures when the patient
+         first demonstrates pain behaviors.
+    (C) Disregard the use of nonpharmacological interventions for
+         pain since the patient is receiving mechanical ventilation.
+    (D) Ensure that the mean arterial pressure (MAP) is greater
+         than 60 mmHg before providing intravenous opiates.
+
+13. A 38-year-old female patient was admitted with multiple
+    traumatic injuries, including flail chest, a ruptured spleen, and a
+    crush injury to her left leg. She is receiving mechanical
+    ventilation. The nurse considers requesting a palliative care
+    consult, knowing that the benefits of palliative care include all
+    of the following EXCEPT:
+
+    (A) improved survival.
+    (B) symptom management.
+    (C) improved quality of care.
+    (D) increased cost of care.
+
+14. It is usually important to decrease the number of days that a
+    patient has an indwelling urinary catheter in place. Which of the
+    following statements presents a valid reason for maintaining
+    this type of catheter?
+    (A) The patient is receiving mechanical ventilation.
+    (B) The catheter was inserted yesterday during renal surgery.
+    (C) It is painful for the patient to use the bedpan.
+    (D) The patient is receiving medications that may cause urine
+        retention.
+
+15. A patient requires the insertion of a chest tube, and the
+    physician plans for moderate sedation with fentanyl. During the
+    procedure, the RN notices that the patient only responds to
+    repeated vigorous shaking. Which of the following choices
+    provides an accurate assessment of this situation and
+    describes the proper intervention that is indicated?
+
+    (A) A patient assessment reveals a level of general
+        anesthesia; the proper intervention is to call the
+        anesthesiologist for intubation.
+    (B) A patient assessment reveals a level of moderate sedation;
+        the proper intervention is to ask for a flumazenil
+        (Romazicon) order.
+    (C) A patient assessment reveals a level of deep sedation; the
+        proper intervention is to assess the patient’s
+        oxygenation/ventilation.
+    (D) The proper interventions are to alert the physician to the
+        level of sedation and to begin assisting the patient’s
+        ventilation with a bag/mask.
+
+16. Which of the following is TRUE for a patient who has SIRS
+    (meaning that the patient has 2 or more of the 4 criteria) or has
+   a positive qSOFA score (meaning that the patient has 2 or 3 of
+   the criteria)?
+
+    (A) An assessment of the qSOFA score requires laboratory
+        testing.
+    (B) Both SIRS and the qSOFA score are markers of an
+        infection.
+    (C) SIRS is a component of the Sepsis-3 definitions, and the
+        qSOFA score is a component of the Sepsis-2 definitions.
+    (D) SIRS is a marker of inflammation, and the qSOFA score is
+        a marker of organ dysfunction.
+
+17. Within the past 2 weeks, 3 patients developed VRE in 1 critical
+    care unit. Which of the following strategies has been
+    demonstrated to be effective in the prevention of additional
+    cases of VRE?
+
+    (A) Perform a root cause analysis of the 3 known
+        cases of VRE.
+    (B) Screen all newly admitted patients for VRE.
+    (C) Administer vancomycin prophylactically to all patients
+        within the unit.
+    (D) Tape posters about hand washing on the doors of all
+        patient rooms.
+
+18. A patient is being treated for a confirmed salicylate overdose.
+    Which of the following interventions should the nurse
+    anticipate?
+    (A) Closely monitor for respiratory depression.
+    (B) Prepare for hemodialysis.
+    (C) Administer thiamine 100 mg IV.
+    (D) Administer all doses of N-acetylcysteine, regardless of
+        subsequent salicylate levels.
+
+19. If a patient’s death appears imminent, which of the following
+    should be the focus of care for the health care team?
+
+    (A) a palliative care consult
+    (B) hospice placement
+    (C) completion of an advance directive
+    (D) supporting the patient/the patient’s family
+
+20. A patient is being treated for septic shock. Four hours after the
+    identification of sepsis, the serum lactate is 5.2 mmol/L. Based
+    on this information, which of the following steps is indicated?
+
+    (A) Perform a passive leg raise.
+    (B) Initiate vasopressin.
+    (C) Reevaluate the choice of antibiotic.
+    (D) Increase FiO2.
+
+
+21. Which of the following strategies is used to reduce central line-
+    associated bloodstream infections (CLABSIs)?
+(A) Avoid the subclavian insertion site.
+(B) Ensure that the patient’s chest is covered with sterile
+    towels during insertion of the central line.
+(C) If possible, avoid frequent blood draws from the central
+    line.
+(D) Always wash your hands with soap and water before
+    entering the room.
+Answer Key
+ 1. A
+ 2. C
+ 3. D
+ 4. D
+ 5. B
+ 6. A
+ 7. C
+ 8. B
+ 9. A
+10. D
+11. C
+12. A
+13. D
+14. B
+15. C
+16. D
+17. A
+18. B
+19. D
+20. A
+21. C
+Answers and Explanations
+ 1. (A) An antihistamine will help halt the allergic response, and a
+    corticosteroid will help halt the inflammatory response.
+    Vasopressors, inotropes, and antibiotics are not helpful for
+    anaphylactic shock.
+ 2. (C) The normal SvO2 is 60% to 75%. In septic shock, oxygen
+   delivery (DO2) is adequate, but oxygen utilization (VO2) at the
+   cellular level is low. A sign of poor oxygen utilization when
+   oxygen delivery is adequate is an elevated SvO2. Oxygen is not
+   being used, despite its availability, and blood is returning to the
+   pulmonary artery with more oxygen than expected. The other 3
+   types of shock result in poor oxygen delivery, which causes low
+   oxygen utilization with a low SvO2. In summary, poor oxygen
+   utilization may result in a low SvO2 when delivery of oxygen is
+   low and an elevated SvO2 when the oxygen delivery is
+    adequate or high.
+ 3. (D) If the intoxication affects the patient’s airway and breathing,
+    the other 3 interventions listed will be of no use since the
+    patient will not survive.
+ 4. (D) The problem in sepsis/septic shock is massive dilation (low
+    SVR) and capillary leak (resulting in relative hypovolemia). If
+    needed, pressors (such as norepinephrine) cause
+    vasoconstriction and increase SVR (afterload). Although
+    pressors may also increase preload and renal blood flow, these
+    are secondary effects. The primary effect of pressors is the
+   restoration of afterload. Although septic shock may result in
+   ventricular damage with resultant elevated troponin, myocardial
+   damage is not due to a drop in coronary artery blood flow;
+   rather, the damage is due to the effects that endotoxins have on
+   cardiac muscles.
+5. (B) As vascular volume is restored and preload is increased,
+   there is less need for compensatory mechanisms (an increase
+   in heart rate). A CVP of 2 mmHg, narrowing of the pulse
+   pressure, and an elevated lactate (anaerobic metabolism) are
+   all signs that filling pressures have not been optimized.
+6. (A) Since compensatory mechanisms are working, the MAP is
+   maintained in the compensatory phase. If these mechanisms
+   fail, the MAP drops and hypotension results (progressive
+   phase). In Class III hemorrhagic shock, the blood pressure
+   decreases and is no longer maintained. In septic shock, lactate
+   rises early on during sepsis, not later on. Serum bicarbonate is
+   decreased (not elevated) in shock due to lactic acidosis.
+7. (C) Waveform capnography is indicated during and after
+   procedural sedation in order to identify EARLY hypoventilation.
+   Longer monitoring may be required for a patient with a history
+   of obstructive sleep apnea (OSA). Sedation usually precedes
+   respiratory depression. SpO2 will not decrease until the PaCO2
+   is very high. Flumazenil reverses benzodiazepines. However,
+   resedation may occur, and subsequent doses of flumazenil may
+   be necessary.
+8. (B) Studies have shown improved patient outcomes, shorter
+   ventilator times, and less risk of oversedation when “awakening
+   trials” are done for a patient who is on a continuous sedation
+    infusion. Propofol is not reversed with flumazenil. Analgesia
+    should be used for agitation, not avoided. Propofol is more
+    likely to cause hypotension, not hypertension.
+ 9. (A) “Sepsis bundles” are indicated for the presence of an
+    infection with signs of organ dysfunction, since these cases
+    result in increased mortality. Sepsis, by definition, does not
+    require pressor administration. SIRS may be present without an
+    infection (e.g., trauma, pancreatitis). In addition, only 30–50% of
+    patients with sepsis/septic shock present with positive cultures.
+10. (D) Targeted temperature management (TTM) may result in
+    hyperglycemia, which will necessitate insulin infusions to
+    maintain normoglycemia during the maintenance phase of TTM.
+    Targeted temperature management is only indicated for an
+    unresponsive patient s/p cardiac arrest, not for ALL patients.
+    Potassium is required during the maintenance phase of TTM to
+    correct hypokalemia. However, during rewarming, potassium
+    replacement needs to be stopped. Shivering will prevent
+    temperature reduction, is not self-limiting, and will need to be
+    treated with either meperidine or neuromuscular blocking
+    agents.
+11. (C) It is important to prevent hypothermia and its resultant
+    adverse consequences during fluid/transfusion resuscitation.
+    Therefore, fluids and blood products need to be warmed.
+    Pressors are not indicated in hypovolemic shock since the
+    afterload in hypovolemic shock is already abnormally high due
+    to compensation for volume loss. The problem needs to be
+    addressed by “filling up the tank” to restore circulation volume.
+    HYPOCALCEMIA (not hypercalcemia) secondary to calcium
+    binding to citrate in stored blood is a potential problem related
+    to the transfusion of PRBCs. Platelets are not in PRBCs and
+    should be replaced regardless of platelet count when a large
+    volume of PRBCs is administered. Replacing platelets will
+    prevent thrombocytopenia and coagulation problems.
+12. (A) Self-reporting pain is always preferred. In the scenario
+    described, the patient is capable of providing a pain intensity
+    number. Preemptive analgesia is preferred for procedures that
+    are likely to be painful rather than waiting until pain is
+    experienced. Nonpharmacological interventions are always
+    appropriate. Hypotensive patients still require pain
+    management. Pain should not be used to “keep up the BP.” An
+    opiate (such as fentanyl) may be used because it is less likely
+    to cause a further drop in blood pressure, and the hypotension
+    can be treated as needed.
+13. (D) Palliative care consults have been shown to decrease, not
+    increase, the cost of care, especially when they occur early
+    during a hospital stay. Choices (A), (B), and (C) ARE benefits of
+    palliative care consults.
+14. (B) A patient who is only 1 day post-op renal surgery needs an
+    indwelling catheter until the surgeon has determined that the
+    patient’s condition would not be adversely impacted by
+    removing the catheter. Mechanical ventilation (choice (A)) itself
+    is not a criterion for an indwelling urinary catheter; the need for
+    an indwelling urinary catheter should be based on further
+    assessments for one of the CDC criteria for catheter use. Pain
+    with mobility (as described in choice (C)) could be controlled,
+    and the risks associated with a Foley catheter outweigh patient
+    discomfort, which can be managed. If the patient is receiving
+    medications that may lead to acute urine retention (choice (D)),
+    the patient should be monitored for urine retention. Even if that
+    does occur, the patient may be a candidate for intermittent
+    straight catheterization, or the medications may be able to be
+    changed to alternative agents.
+15. (C) The need for vigorous shaking in order to elicit a response
+    is evidence of deep sedation, and the first priority is for the
+    nurse to ensure that the patient has adequate ventilation and
+    oxygenation. This patient is not evidencing general anesthesia
+    (choice (A)), and intubation is most likely not going to be
+    needed since a reversal agent could be given and the patient’s
+    ventilation could be temporarily assisted. The patient
+    assessment would not reveal moderate sedation (choice (B)),
+    and flumazenil is not the reversal agent for fentanyl. Naloxone
+    (Narcan) is the reversal agent for the opioid fentanyl. This
+    scenario does not describe the signs of inadequate
+    ventilation that require immediate assistance (choice (D)),
+    although the physician does need to be alerted to the level of
+    sedation.
+16. (D) SIRS is a marker of inflammation and is not necessarily
+    associated with organ dysfunction or an infection. The qSOFA
+    score is a marker of organ dysfunction. The remaining choices
+    are not true.
+17. (A) It is important to understand the reason for MDRO
+    infections in order to look for patterns and to correct gaps in
+    infection control so as to prevent future infections. A root cause
+    analysis, led by quality improvement staff, often provides the
+    answers in terms of the cause of these infections. The
+    remaining 3 strategies have not been demonstrated to prevent
+    the development of MDROs. Screening for VRE (choice (B))
+    has not been demonstrated to be successful, nor is it cost-
+    effective. Providing vancomycin (choice (C)) is not good
+    antibiotic stewardship. Displaying posters has not been shown
+    to be an enduring strategy; there may be an initial impact, but
+    over time, the posters are not often noticed by clinicians.
+18. (B) Salicylate toxicity will require dialysis in order to prevent
+    acute renal failure, even if the renal lab values are normal upon
+    admission. The remaining 3 choices are not anticipated
+    interventions for a salicylate overdose.
+19. (D) When the health care team expects that a patient’s death is
+    imminent, the focus of care shifts to end-of-life care. Family
+    support, avoiding the prolongation of death, and bereavement
+    services become the focus. A palliative care consult (choice
+    (A)) is done as early as possible in the event of an acute,
+    severe illness. Hospice placement (choice (B)) is indicated as
+    soon as the disease is determined to be terminal, not when
+    death is imminent. Completing an advance directive (choice
+    (C)) should ideally be done by all
+    patients (with their primary care provider) prior to developing an
+    acute illness.
+20. (A) A component of the 3-hour bundle for sepsis is to
+    remeasure the lactate 2–4 hours after the initial lactate if the
+    initial lactate is > 2 mmol/L. If the second lactate is ≥ 4 mmol/L
+    (or if the MAP remains ≤ 65 mmHg), the patient’s fluid status
+    should be reassessed. A passive leg raise is a strategy that is
+    used to evaluate whether or not the patient will respond to
+    additional fluids. Vasopressin administration (choice (B)) is
+    indicated when the MAP is not responsive, despite the infusion
+    of higher doses of a vasopressor. Reevaluating the choice of
+    antibiotic (choice (C)) is not generally indicated until cultures
+    are available or until further testing indicates an infectious
+    source that is different than what was initially suspected. An
+    increase in FiO2 (choice (D)) is indicated as soon as hypoxemia
+    is identified, but it is not determined by serum lactate.
+21. (C) Manipulating the central line may increase the risk of
+    contamination. Even if the central line is completely flushed,
+    blood draws may result in increased colonization. The
+    subclavian insertion site (choice (A)) is the preferred location for
+    the insertion of a central line, whereas the femoral site is the
+    least preferred site of insertion. During the insertion of a central
+    line, full body draping with sterile towels, not just covering the
+    patient’s chest with sterile towels (choice (B)), is
+    preferred. Hand hygiene should be practiced with either gel or
+    soap and water. The use of soap and water is required after
+    working with a patient with C. difficile or a known infectious
+    diarrhea (norovirus), after using the restroom, when hands are
+    visibly dirty, and before eating. Other than these instances, gel
+    may be used for hand hygiene, and soap and water do not
+    need to be used.
+6
+
