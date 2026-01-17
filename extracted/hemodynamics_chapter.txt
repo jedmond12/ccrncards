@@ -1,0 +1,513 @@
+Hemodynamics Concepts
+
+
+One of the most important keys to Success is having the discipline to
+do what you know you should do, even when you don’t feel like doing
+it.
+
+                                                              —Unknown
+
+
+Hemodynamics is included in the Cardiovascular section of the Adult
+CCRN test blueprint. However, this topic has been placed after the
+Cardiovascular Concepts, Respiratory Concepts, and Multisystem
+Concepts chapters in this book because each of these content areas
+includes hemodynamic concepts.
+
+
+Although most critically ill patients do not receive invasive
+hemodynamic monitoring, ALL patients have hemodynamics that
+reflect their specific problems. These, to a degree, determine the plan
+of care. Hemodynamics and invasive hemodynamic monitoring are
+included in numerous Adult CCRN exam questions.
+
+✰ The equation in Figure 6-1 is the foundation of hemodynamics. The
+      cardiac output (CO) is equal to the heart rate (HR) times the stroke
+      volume (SV). The SV is dependent upon the preload, afterload,
+      and contractility of the ventricles of the heart.
+Figure 6-1. Regulation of hemodynamics
+Critical Points
+  The normal cardiac output (CO) is 4 L to 8 L per minute. If it becomes
+  critically low, the blood pressure will decrease.
+     Cardiac index (CI) takes into account the body surface area (BSA)
+     and is a more meaningful value than CO.
+     The normal CI is 2.5 to 4.0 L/min/m2.
+  As heart rate (HR) increases, CO increases up to a point. The point
+  is determined by the patient’s age or the condition of his or her
+  ventricles. Generally, 130–170 beats per minute is the maximal heart
+  rate originating from the sinoatrial (SA) node that is attainable for
+  most people.
+    Extreme bradycardia results in low CO and hypotension.
+    An increase in HR is the first sign of compensation for a low CO.
+    This will occur before the BP drops. Patients on beta blocker drugs,
+    or any drug that decreases heart rate, may not be able to
+    compensate as well for a problem that is decreasing cardiac
+     output.
+     Conversely, extreme tachycardia will also decrease the CO no
+     matter the patient’s age or the condition of his or her ventricles.
+     Why? A loss of diastolic filling time occurs. If diastolic filling time is
+     decreased, the ventricles do not have time to fill, ventricular
+     preload drops, and ultimately the ventricle cannot put out what is
+     not delivered.
+  As stroke volume increases, CO increases. The stroke volume (SV)
+  is how many mL per beat the left ventricle ejects. It is determined by
+  the preload, afterload, and contractility. The normal SV is 50–100 mL
+  per beat.
+   Preload
+     Preload is the volume/pressure in the ventricle at the end of
+     diastole after the AV valves close, just prior to ejection. The right
+     atrial (RA) pressure or central venous pressure (CVP) reflects the
+     right ventricular preload. The PAOP reflects the left ventricular
+     preload.
+     As preload increases, the SV and CO increase up to a point.
+     Too high of a preload may lead to heart failure.
+     In general, preload will seldom be elevated if the heart is disease-
+     free and if there are no metabolic abnormalities.
+   Afterload
+     Afterload is the pressure (resistance) against which the ventricle
+     must pump to open the valve (pulmonic or aortic).
+     Afterload is clinically measured by the pulmonary vascular
+     resistance (PVR) for the right ventricle or the systemic vascular
+     resistance (SVR) for the left ventricle.
+     As afterload increases, the SV and CO decrease.
+   Contractility
+     Contractility is the contractile force of the myofibrils, independent of
+     preload and afterload.
+     As contractility increases, the SV and CO increase.
+✰ For the Adult CCRN exam, you need to know normal hemodynamic
+  values and how various drugs and therapies affect preload, afterload,
+  and contractility. Therefore, you need to know how these drugs and
+  therapies affect stroke volume and, ultimately, cardiac output.
+
+Table 6-1 summarizes normal hemodynamics, and Table 6-2 outlines
+how various clinical problems affect hemodynamics. Table 6-3 lists the
+hemodynamic effects of various cardiovascular agents. You must have
+an understanding of this information, as it is the foundation for patient
+management.
+
+  ✰ Table 6-1. Normal Hemodynamic and Oxygenation Parameters
+“Normal” differs somewhat from resource to resource. Those values
+listed in Table 6-1 are generally accepted.
+  You do not need to memorize formulas for the Adult CCRN exam.
+
+✰ Table 6-2. Hemodynamic Profiles for Select Abnormal Conditions
+
+
+
+
+  ✰ Table 6-3. Hemodynamic Effects of Various Cardiovascular
+                          Agents
+There will be questions that test your knowledge on appropriate
+interventions for various abnormal hemodynamics and the significance of
+various oxygenation parameters. Table 6-4 summarizes therapies for
+alterations in hemodynamics, and Table 6-5 outlines oxygenation
+parameters.
+
+     ✰ Table 6-4. Therapies for Alterations in Hemodynamics*
+
+
+
+
+         Table 6-5. Hemodynamic Oxygenation Parameters
+You do not need to memorize formulas for the Adult CCRN exam, but
+you should know the normal values and their clinical relevance.
+SvO2: normal is 60% to 75% (too low or too high is BAD)
+Sustained changes, not brief changes (e.g., during position change),
+are significant (Table 6-6).
+
+                   Table 6-6. SvO2 Changes
+✰ For the Adult CCRN exam, concentrate on studying the normal and
+  abnormal hemodynamic ranges. Also, study the therapies that affect
+  hemodynamics. Note that printed waveform strips, such as the one in
+  Figure 6-2, are seldom included on this exam.
+
+
+
+
+            Figure 6-2. Normal pulmonary artery waves
+
+Acute mitral valve insufficiency: In the presence of mitral valve
+insufficiency, the PAOP waveform changes appearance. When the PA
+catheter balloon is inflated, giant V-waves appear on the PAOP tracing
+(see Figure 6-3).
+
+   The PAOP is read at the A-wave, not at the V-wave.
+           Figure 6-3. Giant V-waves on the PAOP waveform
+If you see the term “giant V-waves” on the exam, the problem is mitral
+valve insufficiency (regurgitation). As you should recall from the
+Cardiovascular Concepts chapter, this is often associated with acute
+inferior wall myocardial infarction/papillary muscle dysfunction/rupture.
+Square Wave Test (Dynamic Response Test)
+  The dynamic response test, also called the “square wave test,” is
+  performed to assess the accuracy of the hemodynamic monitoring
+  system. This is done immediately after catheter insertion, at the
+  beginning of each shift after zeroing the system and whenever values
+  are questionable. The strip recorder is started. Then, the flush device
+  is squeezed and immediately released. The dynamic response that is
+  documented on the strip is then examined.
+  For the exam, you will only need to know what the square wave test
+  is and the implications if it is overdamped or underdamped. You will
+  not be given strips to assess.
+  Overdamped wave response:
+     Results in a falsely decreased systolic pressure and a falsely high
+     diastolic pressure as well as poorly defined components of the
+     pressure tracing, such as a diminished or absent dicrotic notch
+     May be due to air or a blood clot in the system, loose connections,
+     loss of air in the pressure bag, or kinking of the catheter/tubing
+     system
+  Underdamped wave response (less common clinically):
+     Results in a falsely high systolic pressure (overshoot), a possibly
+     falsely low diastolic pressure, and “ringing” artifacts on the
+     waveform
+     May be due to pinpoint air bubbles in the system, add-on tubing, or
+     a defective transducer
+
+Now that you have reviewed the key hemodynamics concepts, go to
+the Practice Questions. Answer the questions, and then check your
+answers. Continue to review the information until you answer 80% of
+the practice questions correctly.
+Practice Questions
+
+ For questions 1–3
+
+
+The following hemodynamic profile has been obtained for a patient:
+
+
+ BP         112/60 mmHg
+
+ PA         44/24 mmHg
+
+ SVR        1,600 dynes/s/cm–5
+
+ SVI        23 mL/m2
+
+ RA         3 mmHg
+
+ PAOP       22 mmHg
+
+ CI         1.9 L/min/m2
+
+ SvO2       0.58
+
+   1. Based on this hemodynamic profile, which of the following
+      conclusions is CORRECT?
+
+       (A) The patient is hypovolemic.
+       (B) The patient has evidence of left ventricular failure.
+       (C) The patient seems to have sepsis.
+       (D) The patient has developed ARDS.
+ 2. Shortly after obtaining the values above, the nurse inflated
+   (wedged) the catheter balloon and observed giant V-waves on
+   the PAOP tracing. What is the most likely problem?
+
+    (A) The patient has evidence of mitral valve regurgitation.
+    (B) The PA catheter has fallen back into the RV.
+    (C) The PA catheter needs to be advanced.
+    (D) The PAOP seems to be 40 mmHg.
+
+ 3. What would be the most appropriate intervention
+    for this patient?
+
+    (A) Call the physician for possible catheter repositioning.
+    (B) Document the strip, administer the PRN order for
+        furosemide (Lasix) for a PAOP > 16 mmHg, and reassess
+        in 1 hour.
+    (C) Label the balloon “do not wedge.”
+    (D) Document the strip, interpret the pressure, and notify the
+        physician.
+
+
+ 4. A patient with continuous SvO2 monitoring has sustained a
+   decrease in SvO2 to 0.50. Priority interventions would include
+   each of the following EXCEPT:
+
+    (A) checking the urine output.
+    (B) checking the BP and the CO/CI.
+    (C) checking O2 sat with a pulse oximeter (SpO2).
+    (D) checking the temperature.
+
+
+For questions 5–8
+It is important to integrate hemodynamic parameters with each other
+and not evaluate parameters individually in isolation. Assess the
+following hemodynamic profiles. Match each profile with the clinical
+problem listed below that is most likely associated with it.
+
+
+  (BP = blood pressure; HR = heart rate; CVP = central venous
+  pressure; PAOP = pulmonary artery occlusion pressure; SVR =
+  systemic vascular resistance; CI = cardiac index; SV = stroke
+  volume)
+
+
+
+
+   5. (A) hypovolemic shock
+      (B) cardiogenic shock
+      (C) acute right ventricular failure
+      (D) septic shock
+  6. (A) hypovolemic shock
+     (B) cardiogenic shock
+     (C) acute right ventricular failure
+     (D) septic shock
+
+  7. (A) hypovolemic shock
+     (B) cardiogenic shock
+     (C) acute right ventricular failure
+     (D) septic shock
+
+  8. (A) hypovolemic shock
+     (B) cardiogenic shock
+     (C) acute right ventricular failure
+     (D) septic shock
+
+
+ For questions 9–20
+
+
+Match the drug with its primary hemodynamic effect. Consult Table
+6-3.
+
+
+  9. ____ Dopamine 5–10 mcg/kg/min
+
+ 10. ____ Dopamine > 10 mcg/kg/min
+
+
+ 11. ____ Dobutamine
+
+ 12. ____ Nitroglycerin 20 mcg/min
+
+ 13. ____ Norepinephrine
+ 14. ____ Beta blockers
+
+ 15. ____ Nitroprusside (choose 2)
+
+
+ 16. ____ ACE inhibitors
+
+ 17. ____ Furosemide
+
+ 18. ____ Fluid bolus
+
+
+ 19. ____ Milrinone
+
+ 20. ____ Morphine
+
+     (A) increase preload
+     (B) decrease preload
+     (C) increase afterload
+     (D) decrease afterload
+     (E) increase contractility
+     (F) decrease contractility
+
+
+ For questions 21 and 22
+
+
+Mr. A, a 66-year-old male, presents S/P colectomy for colon cancer.
+He has the following results upon examination:
+
+    MAP of 58 mmHg (↓ from 70) after 2 L of 0.9 normal saline; heart
+    rate of 112 beats/minute; respiratory rate of 34 breaths/minute;
+  temperature of 38.9°C; urine output < 0.5 mL/kg for the past 2
+  hours; lungs are clear; skin is warm and dry; WBC is 20,000;
+  66% segs; 24% bands; 7% lymphs; blood cultures are positive
+  for gram-negative organisms
+
+21. This patient does not have a pulmonary artery catheter. If he
+   did, and his systemic vascular resistance was measured, what
+   SVR should the nurse anticipate this patient would have?
+
+    (A) 2,550 dynes/s/cm–5
+    (B) 1,550 dynes/s/cm–5
+    (C) 550 dynes/s/cm–5
+    (D) 900 dynes/s/cm–5
+
+22. What hemodynamic changes are consistent with this patient’s
+   clinical status?
+
+    (A) increase in preload and decrease in afterload
+    (B) decrease in preload and increase in afterload
+    (C) decrease in preload and decrease in afterload
+    (D) decrease in CO due to impaired contractility
+
+23. Ms. B, a 78-year-old female, is admitted with the following
+   clinical findings:
+
+       Chief complaint of SOB and fatigue
+       Bibasilar crackles noted with S3 gallop
+       Chest radiograph shows venous congestion and
+       cardiomegaly
+       Weight increase of 20 pounds over the last 2 weeks
+     Which of the following hemodynamic alterations is found with
+     her presenting problems, and what treatment and rationale for
+     that treatment are indicated?
+
+      (A) increased afterload, decreased contractility, and decreased
+           preload; nesiritide to increase contractility
+      (B) decreased afterload, decreased contractility, and increased
+          preload; furosemide (Lasix) to increase afterload
+      (C) decreased afterload, increased contractility, and increased
+           preload; amiodarone to decrease preload
+      (D) increased afterload, decreased contractility, and increased
+          preload; dobutamine to increase contractility
+
+
+ For questions 24 and 25
+
+
+Mr. C, a 54-year-old male, presents with near-syncope. He has no
+significant past medical history. He sought medical help today after
+almost fainting in the shower. Clinical findings include:
+
+   Blood pressure of 98/58 mmHg; heart rate of 108 beats/minute
+   with S1 and S2 heart sounds; respiratory rate of 18
+   breaths/minute; temperature of 37.1°C
+   Alert and orientated × 3; lungs are clear; skin is cool and dry; neck
+   veins are flat
+   Thirsty with dry oral mucous membranes; abdomen is soft/non-
+   tender with hyperactive bowel sounds
+ 24. The next vital sign assessment reveals a blood pressure of
+     88/60 mmHg. Which of the following does Mr. C seem to need?
+    (A) Volume expansion is needed to increase preload and
+        increase myocardial stretch.
+    (B) Pressors are needed to increase afterload and increase
+        myocardial stretch.
+    (C) Volume expansion is needed to decrease afterload and
+        increase myocardial stretch.
+    (D) Pressors are needed to decrease preload and decrease
+        myocardial stretch.
+
+25. The nurse suspects that the arterial line waveform appearance
+   has changed. The recommended method for assessing the
+   adequacy of the catheter/tubing system is to:
+
+    (A) perform a square wave test.
+    (B) zero balance.
+    (C) check a cuff pressure.
+    (D) calibrate the monitor.
+Answer Key
+ 1. B
+ 2. A
+ 3. D
+ 4. A
+ 5. B
+ 6. D
+ 7. C
+ 8. A
+ 9. E
+10. C
+11. E
+12. B
+13. C
+14. F
+15. B, D
+16. D
+17. B
+18. A
+19. E
+20. B
+21. C
+22. C
+23. D
+24. A
+25. A
+Answers and Explanations
+ 1. (B) Although there are several hemodynamic abnormalities, the
+    key here is the PAOP of 22 mmHg. Left heart failure is the only
+   problem of those listed that would result in an elevated PAOP.
+   Since the LV is in failure and is not emptying normally, there is a
+   backup of volume, reflected as a higher pressure on the left
+   side of the heart. This, in turn, causes the pulmonary capillary
+   pressures to exceed 18 mmHg and cause pulmonary edema.
+    The low CI causes the elevated PAOP. However, other
+    problems, such as hypovolemia, may also result in a low CI.
+    The SVR is high due to compensatory vasoconstriction, which
+    in this case seems to be maintaining the blood pressure.
+ 2. (A) The giant V-waves are due to mitral valve insufficiency or
+    regurgitation, which may be acute or chronic. The PAOP is
+    measured, however, at the A-wave.
+ 3. (D) If the patient develops acute mitral valve insufficiency, the
+    physician needs to be notified. There is no problem with the PA
+    catheter. The patient does not automatically require a diuretic
+    (but he might). The balloon is OK, so it doesn’t need to be
+    labeled.
+ 4. (A) The SvO2 is low; therefore, the reason for that needs to be
+   determined. A drop in blood pressure or cardiac output, a
+   decrease in the arterial oxygen saturation, or a fever are
+   possible causes. Urine output is not directly associated with a
+   decrease in the SvO2.
+ 5. (B) The key indicator is the elevated PAOP with the low CI. The
+    SVR is elevated as a compensatory response.
+ 6. (D) The key indicator is the low SVR (massive dilation) with the
+    higher-than-normal CI.
+ 7. (C) The key indicator is the high CVP with a low PAOP due to
+    poor RV output. Since volume is not getting to the left heart, the
+    left heart pressure (PAOP) is low and the CI is low.
+ 8. (A) The key indicator is the low CVP and PAOP with the
+    elevated SVR as a compensatory response to the hypovolemia.
+ 9. (E) “Midrange” dopamine stimulates the beta-1 receptors in the
+    heart to increase contractility.
+10. (C) High-dose dopamine stimulates the alpha receptors in the
+    arteries to cause vasoconstriction and to increase afterload.
+11. (E) Dobutamine stimulates the beta-1 receptors in the heart and
+    increases contractility.
+12. (B) Nitroglycerin at lower doses causes venodilatation and
+    results in a decrease in preload. Only at higher doses does it
+    dilate the arterial vessels.
+13. (C) Norepinephrine is a potent vasoconstrictor as it stimulates
+    the alpha receptors of the arteries and increases afterload.
+14. (F) Beta blockers block the beta-1 receptors of the heart,
+    blocking the adrenergic effects of the autonomic nervous
+    system from affecting the heart. This results in decreased
+    contractility as well as a decrease in heart rate.
+15. B, D Nitroprusside dilates both the venous and arterial sides of
+    the vascular system, resulting in a decrease in both preload and
+    afterload.
+16. (D) ACE inhibitors (or angiotensin-converting enzyme inhibitors)
+    block the conversion of angiotensin I to angiotensin II.
+    Angiotensin II is a potent constrictor. By blocking its formation,
+    the arterial vessels dilate more, resulting in a decrease in
+    afterload.
+17. (B) Furosemide is a potent loop diuretic and venodilator. The
+    resulting diuresis and venodilation cause a reduction in preload.
+18. (A) A fluid bolus increases volume in the vasculature, thereby
+    increasing the preload.
+19. (E) Milrinone, in the class of phosphodiesterase inhibitors,
+    stimulates cardiac muscle contraction and increases
+    contractility.
+20. (B) Morphine mildly dilates the venous bed, thereby reducing
+    preload. It may be used in low doses to treat heart failure.
+21. (C) The scenario describes a patient with septic shock as
+    evidenced by an infection and hypotension, despite 2 L of fluid.
+    The endotoxins cause massive vasodilation, which results in a
+    loss of vascular tone, which leads to a low SVR.
+22. (C) Septic shock causes massive vasodilation, which decreases
+    afterload. It also causes capillary leakage with a loss of volume
+    in the vasculature, resulting in a decrease in preload.
+23. (D) The patient scenario reflects heart failure. To compensate
+    for the reduced cardiac output, a patient with heart failure
+    vasoconstricts. Therefore, afterload is high. The heart muscle
+    loses contractility, so contractility is decreased. Due to a low
+    ejection fraction, the left heart pressure increases, resulting in
+    lung crackles, S3 heart sound, and increased preload. A
+    positive inotropic drug, such as dobutamine (as well as other
+    drugs), may be indicated.
+24. (A) The patient scenario is one of hypovolemia. Fluid
+    administration will increase preload (fill up the tank), which will
+    in turn improve myocardial stretch. This increase in stretch to
+    increase output is the Frank-Starling law of the heart. Since the
+    patient is volume depleted, the systemic vascular resistance
+    (SVR) is most likely high because vasoconstriction occurs as a
+    compensatory response to maintain the arterial blood pressure.
+    Pressors should not be used in the presence of hypovolemia.
+25. (A) The square wave (or dynamic response) test provides
+    information as to whether the catheter/tubing system is
+    optimally damped, overdamped, or underdamped. Then,
+    troubleshooting needs to be done accordingly. Cuff pressures
+    should not be used to verify the accuracy of intra-arterial
+    pressures.
+
