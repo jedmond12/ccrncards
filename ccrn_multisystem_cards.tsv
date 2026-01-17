@@ -1,0 +1,611 @@
+Question	Answer	Tags
+"Question:
+What is shock?"	"Answer:
+A cellular disease due to inadequate perfusion (O2 demand > O2 delivered) or inability of cells to utilize delivered oxygen"	ccrn::multisystem shock
+"Question:
+What are the 3 stages of shock?"	"Answer:
+1. Compensatory
+2. Progressive
+3. Refractory"	ccrn::multisystem shock
+"Question:
+What maintains BP during compensatory stage of shock?"	"Answer:
+1. Sympathetic nervous system stimulation
+2. Renin-angiotensin-aldosterone system (RAAS) activation"	ccrn::multisystem shock
+"Question:
+What are clinical signs of compensatory stage of shock?"	"Answer:
+- Tachycardia
+- Tachypnea, respiratory alkalosis
+- Normal PaO2
+- Oliguria
+- Pale, cool skin (except early sepsis)
+- Restlessness, anxiety
+- Thirst
+- BP maintained"	ccrn::multisystem shock
+"Question:
+What are clinical signs of progressive stage of shock?"	"Answer:
+- Hypotension
+- Worsening tachycardia, tachypnea, oliguria
+- Metabolic acidosis
+- Decreased PaO2
+- Clammy, mottled skin
+- Further change in LOC
+- Nausea"	ccrn::multisystem shock
+"Question:
+What are clinical signs of refractory stage of shock?"	"Answer:
+- Not responsive to interventions
+- Severe systemic hypoperfusion
+- Multiple organ dysfunction syndrome (MODS)"	ccrn::multisystem shock mods
+"Question:
+What organs may fail after surviving shock?"	"Answer:
+- Pulmonary (ARDS)
+- Kidney (acute tubular necrosis)
+- Heart (failure, ischemia)
+- Hematologic (DIC)
+- Neurological (encephalopathy, stroke)
+- Liver (failure)"	ccrn::multisystem shock mods
+"Question:
+What are the types of shock?"	"Answer:
+- Hypovolemic
+- Septic
+- Anaphylactic
+- Neurogenic
+- Cardiogenic
+- Obstructive"	ccrn::multisystem shock
+"Question:
+What causes hypovolemic shock?"	"Answer:
+Critical reduction in circulating intravascular volume leading to inadequate tissue perfusion"	ccrn::multisystem shock hypovolemic
+"Question:
+What are internal causes of hypovolemic shock?"	"Answer:
+Third-spacing or pooling in the intravascular compartment"	ccrn::multisystem shock hypovolemic
+"Question:
+What are external causes of hypovolemic shock?"	"Answer:
+Hemorrhage, GI or renal losses, burns, excessive diaphoresis"	ccrn::multisystem shock hypovolemic
+"Question:
+How does hypovolemia affect pulse pressure?"	"Answer:
+Systolic decreases, diastolic maintains or elevates → NARROW pulse pressure"	ccrn::multisystem shock hypovolemic
+"Question:
+What are hemodynamics of hypovolemic shock?"	"Answer:
+↓ BP, ↓ Pulse pressure, ↓ CVP, ↓ CO, ↓ O2 delivery, ↓ PAOP, ↓ SvO2
+↑ SVR
+Everything decreased except SVR"	ccrn::multisystem shock hypovolemic hemodynamics
+"Question:
+What is primary treatment of hypovolemic shock?"	"Answer:
+- Identify and correct etiology
+- Replace volume (\"Fill up the tank!\")
+- Rapid, vigorous volume loading
+- Avoid vasopressors"	ccrn::multisystem shock hypovolemic
+"Question:
+What IV access is needed for hemorrhagic hypovolemic shock?"	"Answer:
+At least 2 large bore IV sites (central line not necessary but may assist)"	ccrn::multisystem shock hypovolemic
+"Question:
+When should fluid warmer be used in hypovolemic shock?"	"Answer:
+If > 2,000 mL fluids administered in 1 hour (ALL fluids for trauma patients)"	ccrn::multisystem shock hypovolemic
+"Question:
+What isotonic fluids are used for hypovolemic shock?"	"Answer:
+0.9% normal saline or lactated Ringer's"	ccrn::multisystem shock hypovolemic
+"Question:
+What are resuscitation endpoints for hypovolemic shock?"	"Answer:
+- MAP ≥ 65 mmHg
+- CVP ~ 6 mmHg
+- UO 0.5 mL/kg/hr
+- Heart rate decreased
+- Hgb > 7.0 g/dL and coagulation/platelet abnormalities corrected"	ccrn::multisystem shock hypovolemic
+"Question:
+Why should pressors NOT be used for hypovolemic shock?"	"Answer:
+SVR is already high due to compensatory mechanisms"	ccrn::multisystem shock hypovolemic
+"Question:
+What is Class I hemorrhagic shock?"	"Answer:
+< 15% blood loss (< 750 mL)
+Treat with crystalloids"	ccrn::multisystem shock hemorrhagic
+"Question:
+What is Class II hemorrhagic shock?"	"Answer:
+15-30% blood loss (750-1500 mL)
+Treat with crystalloids"	ccrn::multisystem shock hemorrhagic
+"Question:
+What is Class III hemorrhagic shock?"	"Answer:
+30-40% blood loss (1500-2000 mL)
+Treat with crystalloids + blood"	ccrn::multisystem shock hemorrhagic
+"Question:
+What is Class IV hemorrhagic shock?"	"Answer:
+> 40% blood loss (> 2000 mL)
+Treat with crystalloids + blood"	ccrn::multisystem shock hemorrhagic
+"Question:
+What is optimal Hgb threshold for blood transfusion?"	"Answer:
+7.0 g/dL is fairly well established in critically ill
+May be higher with active bleeding, severe hypoxemia, MI, lactic acidosis"	ccrn::multisystem shock hemorrhagic transfusion
+"Question:
+What do PRBCs lack that requires replacement?"	"Answer:
+Plasma and platelets
+Need replacement with:
+- Fresh frozen plasma
+- Platelets
+- Cryoprecipitate"	ccrn::multisystem shock hemorrhagic transfusion
+"Question:
+What are risks of blood product administration?"	"Answer:
+- Hemolytic/non-hemolytic reactions
+- Transfusion-mediated immunomodulation
+- Viral infection transmission
+- TRALI
+- Hypothermia
+- Coagulopathy
+- Hypocalcemia, hypomagnesemia"	ccrn::multisystem shock hemorrhagic transfusion
+"Question:
+Why do blood products need to be warmed?"	"Answer:
+To prevent hypothermia which causes:
+- Impaired RBC deformability
+- Platelet dysfunction
+- Increased Hgb affinity for O2"	ccrn::multisystem shock hemorrhagic transfusion
+"Question:
+Why does citrate in transfused blood cause hypocalcemia and hypomagnesemia?"	"Answer:
+Citrate in banked blood binds ionized Ca++ and Mg++"	ccrn::multisystem shock hemorrhagic transfusion
+"Question:
+What is consequence of lack of 2,3-DPG in banked blood?"	"Answer:
+Shifts oxyhemoglobin-dissociation curve to LEFT → increases Hgb affinity to hold onto O2"	ccrn::multisystem shock hemorrhagic transfusion
+"Question:
+What is definition of massive transfusion?"	"Answer:
+10 units of RBCs in 24 hours OR 5 units in less than 3 hours"	ccrn::multisystem shock hemorrhagic transfusion
+"Question:
+What is mortality rate with massive transfusion?"	"Answer:
+> 50%"	ccrn::multisystem shock hemorrhagic transfusion
+"Question:
+What is the triad of death in massive transfusion?"	"Answer:
+1. Hypothermia
+2. Acidosis
+3. Coagulopathy"	ccrn::multisystem shock hemorrhagic transfusion
+"Question:
+How many incidences of sepsis occur in American adults annually?"	"Answer:
+At least 1.7 million with ~270,000 deaths per year"	ccrn::multisystem sepsis
+"Question:
+What is sepsis?"	"Answer:
+Life-threatening organ dysfunction caused by abnormal host response to infection"	ccrn::multisystem sepsis
+"Question:
+What defines sepsis?"	"Answer:
+Infection + organ dysfunction"	ccrn::multisystem sepsis
+"Question:
+What are SIRS criteria?"	"Answer:
+2 or more of:
+- Temperature ≥ 38°C or < 36°C
+- HR > 90 bpm
+- RR > 20 or PaCO2 < 32 mmHg
+- WBC > 12,000 or < 4,000 or bands > 10%"	ccrn::multisystem sepsis sirs
+"Question:
+Can a patient have SIRS without sepsis?"	"Answer:
+Yes (trauma, pancreatitis, burns)
+SIRS is poor predictor of sepsis"	ccrn::multisystem sepsis sirs
+"Question:
+What are examples of organ dysfunction in sepsis?"	"Answer:
+- Hypotension
+- Acute hypoxemia
+- Acute drop in UO (< 0.5 mL/kg)
+- Lactate ≥ 2 mmol/L
+- Abrupt mental status change
+- Platelets < 100,000
+- Coagulopathy"	ccrn::multisystem sepsis
+"Question:
+What are qSOFA criteria?"	"Answer:
+1 point each for:
+- SBP ≤ 100 mmHg
+- RR ≥ 22 breaths/min
+- GCS < 15 (altered mentation)
+Score ≥ 2 indicates high probability of organ dysfunction"	ccrn::multisystem sepsis qsofa
+"Question:
+What defines septic shock?"	"Answer:
+Infection PLUS:
+- Vasopressor requirement to maintain MAP ≥ 65 mmHg despite adequate fluids
+- Serum lactate > 2 mmol/L despite fluid resuscitation"	ccrn::multisystem sepsis shock
+"Question:
+What causative organisms cause sepsis/septic shock?"	"Answer:
+- Gram-negative bacteria
+- Gram-positive bacteria
+- Fungi, viruses, Rickettsia, parasites"	ccrn::multisystem sepsis
+"Question:
+What are risk factors for sepsis?"	"Answer:
+Extremes of age, chronic health problems, invasive procedures/devices, surgical wounds, GU infections, prolonged hospitalizations, GI bacteria translocation, AIDS, immunosuppressive agents, alcoholism, malignancy, transplant, splenectomy"	ccrn::multisystem sepsis
+"Question:
+What are signs/symptoms of early septic shock?"	"Answer:
+- Tachycardia, bounding pulse
+- BP low, responsive to pressors
+- Skin warm, flushed
+- Respirations deep, somewhat fast
+- Lactate > 2 mmol/L
+- Confusion, mental status change
+- Oliguria
+- Fever (> 38°C)"	ccrn::multisystem sepsis shock
+"Question:
+What are signs/symptoms of progressive (later) septic shock?"	"Answer:
+- Hypotension, may not respond to pressors
+- Tachycardia, pulse weak and thready
+- Lactate ≥ 4 mmol/L
+- Skin cool, pale
+- Respirations rapid or slow
+- Lethargy, coma
+- Anuria
+- Hypothermia (< 36°C)"	ccrn::multisystem sepsis shock
+"Question:
+Does septic shock always present with fever and elevated WBC?"	"Answer:
+No - this is a MYTH"	ccrn::multisystem sepsis shock
+"Question:
+What are hemodynamics of septic shock?"	"Answer:
+↑ CO, ↑ SvO2
+↓ SVR, ↓ BP
+CVP and PAOP variable"	ccrn::multisystem sepsis shock hemodynamics
+"Question:
+What percentage of septic patients have positive blood cultures?"	"Answer:
+Only 30-50%"	ccrn::multisystem sepsis
+"Question:
+What is initial fluid challenge for sepsis?"	"Answer:
+30 mL/kg of crystalloid (2.1 L for 70 kg person) as early as possible"	ccrn::multisystem sepsis treatment
+"Question:
+What are goals of initial fluid resuscitation in sepsis?"	"Answer:
+- MAP ≥ 65 mmHg
+- UO ≥ 0.5 mL/kg/hr
+- Decrease in tachycardia"	ccrn::multisystem sepsis treatment
+"Question:
+What is first-line vasopressor for septic shock?"	"Answer:
+Norepinephrine (Levophed)"	ccrn::multisystem sepsis shock treatment
+"Question:
+What is second vasopressor for septic shock?"	"Answer:
+Epinephrine drip when second agent needed"	ccrn::multisystem sepsis shock treatment
+"Question:
+When is vasopressin used in septic shock?"	"Answer:
+For catecholamine-refractory septic shock (alpha receptors not responsive to pressors)
+0.03-0.04 units/min, generally not titrated
+NOT first-line agent"	ccrn::multisystem sepsis shock treatment
+"Question:
+When should blood cultures be obtained in sepsis?"	"Answer:
+As early as possible, drawn simultaneously from 2 different sites PRIOR to antibiotic administration"	ccrn::multisystem sepsis treatment
+"Question:
+When should antibiotics be given in sepsis?"	"Answer:
+Within 3 hours of recognition (preferably within 1 hour if possible) AFTER blood cultures drawn"	ccrn::multisystem sepsis treatment
+"Question:
+What happens with delayed antibiotic administration in sepsis?"	"Answer:
+For every hour delay, approximately 12% decrease in probability of survival"	ccrn::multisystem sepsis treatment
+"Question:
+When should lactate be obtained in sepsis?"	"Answer:
+As early as possible and remeasure within 2-4 hours if first lactate > 2 mmol/L"	ccrn::multisystem sepsis treatment
+"Question:
+When should fluid status be reassessed in sepsis?"	"Answer:
+If MAP < 65 mmHg OR lactate ≥ 4 mmol/L"	ccrn::multisystem sepsis treatment
+"Question:
+When is dobutamine recommended in septic shock?"	"Answer:
+For cardiac dysfunction with high filling pressures and low CO, or clinical hypoperfusion after restoring BP with volume resuscitation"	ccrn::multisystem sepsis shock treatment
+"Question:
+What are oxygenation goals for septic shock?"	"Answer:
+- SpO2 ≥ 95%
+- ScvO2 ≥ 70% or SvO2 ≥ 65% (when CVP and MAP goals met)"	ccrn::multisystem sepsis shock treatment
+"Question:
+If ScvO2 or SvO2 goals not achieved in septic shock, what interventions are needed?"	"Answer:
+- Consider further fluids
+- Dobutamine infusion (max 20 mcg/kg/min)
+- Consider PRBC transfusion if Hgb ≤ 7.0"	ccrn::multisystem sepsis shock treatment
+"Question:
+What are therapeutic endpoints for septic shock?"	"Answer:
+MAP ≥ 65, decreased lactate, normalized HR, UO ≥ 0.5 mL/kg/hr, warm extremities, mental status to baseline, source control, ScvO2 ≥ 70% or SvO2 ≥ 65%, CVP 8-12 mmHg"	ccrn::multisystem sepsis shock treatment
+"Question:
+What is anaphylaxis?"	"Answer:
+Allergic reaction that is rapid in onset and may cause death"	ccrn::multisystem anaphylaxis shock
+"Question:
+What percentage of anaphylaxis cases involve hives/angioedema?"	"Answer:
+~88%"	ccrn::multisystem anaphylaxis shock
+"Question:
+What percentage of anaphylaxis cases involve respiratory tract?"	"Answer:
+~50%"	ccrn::multisystem anaphylaxis shock
+"Question:
+What percentage of anaphylaxis cases progress to shock?"	"Answer:
+~30%"	ccrn::multisystem anaphylaxis shock
+"Question:
+What is etiology of anaphylaxis?"	"Answer:
+IgE-mediated immediate hypersensitivity reaction to protein substances (penicillin, contrast media, bee sting, foods, latex)
+Usually after previous exposure"	ccrn::multisystem anaphylaxis shock
+"Question:
+What is anaphylactoid response?"	"Answer:
+Looks same as anaphylaxis but NOT IgE-mediated
+Previous exposure NOT necessary"	ccrn::multisystem anaphylaxis shock
+"Question:
+What is initial treatment of anaphylactic shock?"	"Answer:
+- Remove offensive agent
+- O2
+- 0.3-0.5 mg of 1:1,000 epinephrine IM
+- Aggressive fluid resuscitation (1-4 L)"	ccrn::multisystem anaphylaxis shock treatment
+"Question:
+Why is epinephrine given IM in anaphylaxis?"	"Answer:
+More rapid absorption than subcutaneous
+Decreases dilation and bronchospasm"	ccrn::multisystem anaphylaxis shock treatment
+"Question:
+What additional medications are given for anaphylaxis?"	"Answer:
+- Antihistamine: diphenhydramine (Benadryl) 25-50 mg IV
+- Inhaled beta-adrenergic agents for bronchospasm
+- Steroids IV (high-dose): peaks in 4-6 hours"	ccrn::multisystem anaphylaxis shock treatment
+"Question:
+What is Multiple Organ Dysfunction Syndrome (MODS)?"	"Answer:
+Progressive insufficiency of 2 or more organs in acutely ill patient such that homeostasis cannot be maintained without intervention"	ccrn::multisystem mods
+"Question:
+What is relationship between number of organs involved in MODS and mortality?"	"Answer:
+Greater number of organs involved = higher mortality"	ccrn::multisystem mods
+"Question:
+What percentage of ICU deaths does MODS account for?"	"Answer:
+~80% of all ICU deaths annually"	ccrn::multisystem mods
+"Question:
+What 6 organ systems are evaluated in SOFA scoring?"	"Answer:
+1. Hypotension (cardiovascular)
+2. GCS score (neurological)
+3. PaO2/FiO2 (pulmonary)
+4. Creatinine or UO (renal)
+5. Bilirubin (hepatic)
+6. Platelet count (hematologic)"	ccrn::multisystem mods sofa
+"Question:
+What is mortality rate if SOFA score increases in first 96 hours?"	"Answer:
+50%"	ccrn::multisystem mods sofa
+"Question:
+What is mortality rate if SOFA score stays same in first 96 hours?"	"Answer:
+25%"	ccrn::multisystem mods sofa
+"Question:
+What is mortality rate if SOFA score decreases in first 96 hours?"	"Answer:
+< 25%"	ccrn::multisystem mods sofa
+"Question:
+What is trauma first-line assessment (A, B, C, D, E)?"	"Answer:
+A - Airway (patent, consider intubation, stabilize C-spine)
+B - Breathing (100% O2, ventilation)
+C - Circulation (2 large bore IVs, warm isotonic LR)
+D - Disability (quick neuro exam - LOC, motor, pupils)
+E - Expose/Environmental (remove clothes, warmth/cooling)"	ccrn::multisystem trauma
+"Question:
+What is trauma second-line assessment (F, G, H, I)?"	"Answer:
+F - Full set of vitals, Focused adjuncts, Family presence
+G - Give comfort measures (pain management)
+H - History
+I - Inspect posterior (turn patient over)"	ccrn::multisystem trauma
+"Question:
+What are focused adjuncts in trauma assessment?"	"Answer:
+ECG monitor, pulse oximeter, CO2 detector, urinary catheter, gastric tube, radiography, FAST, CT, DPL, labs"	ccrn::multisystem trauma
+"Question:
+What should be treated first in agitated patient?"	"Answer:
+Analgesic (analgesia-first sedation) BEFORE anxiolytics"	ccrn::multisystem sedation pain
+"Question:
+What is minimal (light) sedation?"	"Answer:
+Patient responds normally to verbal commands"	ccrn::multisystem sedation
+"Question:
+What is moderate sedation?"	"Answer:
+Patient responds purposefully to verbal commands alone or with light tactile stimulation
+Able to maintain patent airway"	ccrn::multisystem sedation
+"Question:
+What is deep sedation?"	"Answer:
+Patient cannot be easily aroused but responds purposefully to repeated or painful stimulation
+May require assistance maintaining patent airway"	ccrn::multisystem sedation
+"Question:
+What is general anesthesia?"	"Answer:
+Loss of consciousness; patients not arousable even by painful stimulation"	ccrn::multisystem sedation
+"Question:
+What should be ruled out as causes of agitation?"	"Answer:
+Hypoxemia, hemodynamic instability, and pain"	ccrn::multisystem sedation
+"Question:
+What are causes of agitation in critically ill patients?"	"Answer:
+Hypoxemia, pain, hemodynamic instability, delirium, alcohol/drug withdrawal, anxiety, medication side effects, ICU environment"	ccrn::multisystem sedation
+"Question:
+What are valid sedation assessment tools for adult critical care?"	"Answer:
+Richmond Agitation-Sedation Scale (RASS) and Sedation-Agitation Scale (SAS)"	ccrn::multisystem sedation
+"Question:
+What is reversal agent for benzodiazepines?"	"Answer:
+Flumazenil (Romazicon)"	ccrn::multisystem sedation
+"Question:
+What is flumazenil dosing for moderate sedation?"	"Answer:
+0.2 mg IV over 15 seconds
+Repeat 0.2 mg at 1-minute intervals, max 4 doses
+For resedation: repeat at 20-min intervals, 0.2 mg per minute to max 1 mg total, 3 mg in 1 hour"	ccrn::multisystem sedation
+"Question:
+What is onset of flumazenil?"	"Answer:
+1-2 minutes, 30% response within 3 minutes, peak effect in 6-10 minutes
+Resedation occurs after ~1 hour"	ccrn::multisystem sedation
+"Question:
+What is caution with flumazenil use?"	"Answer:
+Use with caution for prolonged benzodiazepine use - seizure may occur with reversal
+Reversal effects may wear off before benzodiazepine effects"	ccrn::multisystem sedation
+"Question:
+What is spontaneous awakening trial (SAT)?"	"Answer:
+Daily sedation withdrawal to perform neuro assessment and determine if continuous sedation still needed
+Best done with daily spontaneous breathing trial (SBT)"	ccrn::multisystem sedation
+"Question:
+What are screening criteria BEFORE spontaneous awakening trial?"	"Answer:
+- No myocardial ischemia
+- No active seizures
+- No alcohol withdrawal
+- No paralytic drip
+- Stable ICP
+- No recent increase in sedation dose"	ccrn::multisystem sedation
+"Question:
+What are signs of SAT failure?"	"Answer:
+- Dangerous agitation
+- Sustained tachypnea, increased WOB
+- Sustained SpO2 drop to < 90%
+- Acute arrhythmia
+- Hypotension"	ccrn::multisystem sedation
+"Question:
+What are adverse effects of pain?"	"Answer:
+Activation of physiological stress response, depression, delirium"	ccrn::multisystem pain
+"Question:
+What are etiologies of pain in critically ill?"	"Answer:
+Obvious: trauma, surgery, procedures, invasive devices
+Not-so-obvious: positioning, immobility, suctioning, dressing changes, sleep disruption"	ccrn::multisystem pain
+"Question:
+What pain assessment tools are recommended for critically ill?"	"Answer:
+Self-report: Numerical Rating Scale (NRS)
+Unable to self-report on vent: Behavioral Pain Scale (BPS)
+Unable to self-report ± vent: Critical-Care Pain Observation Tool (CPOT)"	ccrn::multisystem pain
+"Question:
+Should vital signs alone be used for pain assessment?"	"Answer:
+No, but can be used as cue to assess pain further"	ccrn::multisystem pain
+"Question:
+What is first-line choice for non-neuropathic pain in critically ill?"	"Answer:
+IV opioids
+All IV opioids equally effective when titrated to similar pain endpoints"	ccrn::multisystem pain
+"Question:
+What is reversal agent for opioids?"	"Answer:
+Naloxone"	ccrn::multisystem pain
+"Question:
+What is naloxone dosing?"	"Answer:
+0.4 to 2 mg IV every 2 minutes until effect, maximum 10 mg
+Duration 1-2 hours; repeated doses may be needed for long-acting opioids"	ccrn::multisystem pain
+"Question:
+What is Targeted Temperature Management (TTM)?"	"Answer:
+Treatment that lowers core body temperature to prevent neurological effects of ischemic brain injury in survivors of sudden cardiac death"	ccrn::multisystem ttm
+"Question:
+What are 3 phases of TTM?"	"Answer:
+1. Induction: lower to 32-36°C ASAP
+2. Maintenance: keep at target temp for 24 hours
+3. Rewarming: slowly increase to 36.5-37°C"	ccrn::multisystem ttm
+"Question:
+When should TTM cooling be initiated?"	"Answer:
+Within 90 minutes of patient going into arrest
+May last as long as 6 hours after arrest"	ccrn::multisystem ttm
+"Question:
+How is core temperature monitored in TTM?"	"Answer:
+Pulmonary artery catheter, esophageal, bladder, or rectal"	ccrn::multisystem ttm
+"Question:
+What are BP goals during TTM induction?"	"Answer:
+SBP generally > 90 mmHg
+MAP generally > 70 mmHg"	ccrn::multisystem ttm
+"Question:
+How is shivering managed during TTM?"	"Answer:
+- Cover head, hands, feet
+- Meperidine (Demerol)
+- Neuromuscular agent if not controlled with meperidine"	ccrn::multisystem ttm
+"Question:
+What are systemic effects of hypothermia in TTM?"	"Answer:
+Insulin resistance → hyperglycemia, electrolyte/fluid shifts, shivering, skin breakdown, absent pupil/corneal reflexes, decreased CO (up to 25%), platelet dysfunction, increased infection risk"	ccrn::multisystem ttm
+"Question:
+How often should train-of-four (TOF) be monitored if paralytic used during TTM?"	"Answer:
+Every hour, ensure goal of 1-2 twitches to prevent prolonged paralysis"	ccrn::multisystem ttm
+"Question:
+When should potassium administration be stopped during TTM?"	"Answer:
+8 hours prior to rewarming (rewarming causes rebound hyperkalemia)"	ccrn::multisystem ttm
+"Question:
+What is rewarming rate for TTM?"	"Answer:
+Program cooling unit to increase target temperature by 1 degree per hour"	ccrn::multisystem ttm
+"Question:
+What is initial management of toxin/drug exposure?"	"Answer:
+Always assess ABCs (airway, breathing, circulation)"	ccrn::multisystem toxin
+"Question:
+What should be given if patient is comatose from toxin exposure?"	"Answer:
+50% dextrose 50 mL, thiamine 50-100 mg, naloxone 2 mg IV"	ccrn::multisystem toxin
+"Question:
+How is absorption of toxin/drug prevented?"	"Answer:
+Activated charcoal 1 gm/kg via gastric lavage
+Contraindicated: hydrocarbon or corrosive ingestions
+Not necessary: iron, lithium, alcohols"	ccrn::multisystem toxin
+"Question:
+How is drug removal facilitated in toxin exposure?"	"Answer:
+Urine alkalization, hemodialysis"	ccrn::multisystem toxin
+"Question:
+How is chemical exposure managed?"	"Answer:
+- Give antidote if possible
+- Remove chemical (powder: brush away; liquid: flush with saline/water)
+- Do NOT rub affected area
+- Cover with sterile damp dressing"	ccrn::multisystem toxin
+"Question:
+What defines healthcare-associated infection (HAI)?"	"Answer:
+Infection that develops > 48 hours after hospital admission
+(< 48 hours = community-acquired)"	ccrn::multisystem hai
+"Question:
+What are types of ventilator-associated events (VAE)?"	"Answer:
+Complications from mechanical ventilation: pneumonia, barotrauma, ARDS, atelectasis, fluid overload"	ccrn::multisystem hai vae
+"Question:
+What is VAP?"	"Answer:
+Ventilator-associated pneumonia - a type of VAE"	ccrn::multisystem hai vae vap
+"Question:
+What defines central line-associated bloodstream infection (CLABSI)?"	"Answer:
+Lab-confirmed bloodstream infection that develops within 48 hours of central line placement, not related to infection at other sites"	ccrn::multisystem hai clabsi
+"Question:
+What is CLABSI mortality rate?"	"Answer:
+12-25%"	ccrn::multisystem hai clabsi
+"Question:
+What is optimal central line insertion site?"	"Answer:
+Subclavian vein
+Avoid femoral or internal jugular if possible"	ccrn::multisystem hai clabsi
+"Question:
+What skin preparation is used for central line insertion?"	"Answer:
+Chlorhexidine skin antisepsis"	ccrn::multisystem hai clabsi
+"Question:
+What precautions are used during central line insertion?"	"Answer:
+Maximal barrier precautions and personal protective equipment"	ccrn::multisystem hai clabsi
+"Question:
+How long should catheter hubs/connectors be disinfected before accessing?"	"Answer:
+With mechanical friction for no less than 5 seconds with antiseptic"	ccrn::multisystem hai clabsi
+"Question:
+Should central lines be routinely replaced?"	"Answer:
+No, unless insertion was emergent without antisepsis"	ccrn::multisystem hai clabsi
+"Question:
+What defines catheter-associated urinary tract infection (CAUTI)?"	"Answer:
+UTI where indwelling catheter in place > 2 consecutive days in inpatient location on date of event, with catheter in place on date of event or day before"	ccrn::multisystem hai cauti
+"Question:
+What are appropriate indications for indwelling urinary catheter?"	"Answer:
+Select operative procedures, acute urinary retention/bladder outlet obstruction, gross hematuria, accurate UO measurement, healing of open sacral/perineal wounds in incontinent patients, prolonged immobilization"	ccrn::multisystem hai cauti
+"Question:
+When should post-op urinary catheter be removed?"	"Answer:
+As soon as possible, preferably within 24 hours unless appropriate indications for continued use"	ccrn::multisystem hai cauti
+"Question:
+What are catheter insertion best practices?"	"Answer:
+- Use aseptic technique
+- Make 2-person activity
+- Hand hygiene before/after
+- Standard precautions
+- Routine meatal care (antiseptic not needed)
+- Maintain unobstructed flow"	ccrn::multisystem hai cauti
+"Question:
+What are most common multi-drug resistant organisms (MDROs)?"	"Answer:
+- MRSA (Methicillin-resistant Staph aureus)
+- VRE (Vancomycin-resistant enterococci)
+- C. diff (Clostridium difficile)
+- CRE (Carbapenem-resistant enterobacteriaceae)"	ccrn::multisystem mdro
+"Question:
+What strategies prevent MDRO infections?"	"Answer:
+Hand hygiene culture, antibiotic stewardship, universal decolonization (chlorhexidine bath, nasal decolonization), rapid MDRO identification, team rounding for bundles, root cause analysis, contact precautions, reliable equipment/surface cleaning"	ccrn::multisystem mdro
+"Question:
+When is soap and water required for hand hygiene?"	"Answer:
+After contact with C. diff, when hands visibly soiled, after using restroom, before eating"	ccrn::multisystem mdro
+"Question:
+What is palliative care?"	"Answer:
+Prevention and treatment of symptoms and side effects of serious illness
+Considers physiological, emotional, social, spiritual problems"	ccrn::multisystem palliative
+"Question:
+When can palliative care be initiated?"	"Answer:
+Anytime during disease or life-threatening illness
+Most beneficial when initiated early"	ccrn::multisystem palliative
+"Question:
+Can aggressive treatment continue with palliative care?"	"Answer:
+Yes"	ccrn::multisystem palliative
+"Question:
+What are benefits of palliative care?"	"Answer:
+Improved survival, decreased resource utilization, decreased hospital readmissions, decreased cost of care"	ccrn::multisystem palliative
+"Question:
+What is hospice care?"	"Answer:
+Symptom management for terminal illness
+Includes palliative care but disease-modifying treatments discontinued unless for symptom management
+Includes grief and bereavement services"	ccrn::multisystem hospice
+"Question:
+What is end-of-life (EOL) care?"	"Answer:
+Supports needs of patients/families at time of imminent death
+Always part of hospice, may or may not be part of palliative care
+Avoids prolongation of dying process, provides family support"	ccrn::multisystem eol
+"Question:
+What do palliative, hospice, and EOL care all involve?"	"Answer:
+- Advance care planning
+- Focusing on patient/family wishes
+- Optimizing quality of life"	ccrn::multisystem palliative hospice eol
+"Question:
+Why is elevated SvO2 seen in septic shock?"	"Answer:
+O2 delivery (DO2) is adequate but O2 utilization (VO2) at cellular level is low
+Oxygen not being used despite availability → blood returns to PA with more O2 than expected"	ccrn::multisystem sepsis shock hemodynamics
+"Question:
+What is sepsis-2 definition vs sepsis-3 definition difference?"	"Answer:
+Sepsis-2: systemic response (SIRS+) to infection
+Sepsis-3: life-threatening organ dysfunction from abnormal host response to infection
+Sepsis-3 eliminated SIRS and \"severe sepsis\" terms"	ccrn::multisystem sepsis
+"Question:
+What is normal SvO2 range?"	"Answer:
+60-75%"	ccrn::multisystem hemodynamics
+"Question:
+In what shock states is SvO2 low?"	"Answer:
+Hypovolemic, anaphylactic, cardiogenic (poor O2 delivery causes low O2 utilization)"	ccrn::multisystem shock hemodynamics
+"Question:
+In what shock state is SvO2 elevated?"	"Answer:
+Septic shock (adequate O2 delivery but poor O2 utilization at cellular level)"	ccrn::multisystem sepsis shock hemodynamics
