@@ -1,0 +1,2334 @@
+ICU MASTERCLASS—
+  INOTROPES AND
+  VASOPRESSORS
+
+
+
+
+ Christopher R. Tainter, MD
+Table of contents
+Physiologic effects of vasoactive agents
+Introducing inotropes and vasopressors                     5
+Differentiating the types of shock                         9
+Performing vasoactive monitoring                          11
+Deciphering vasoactive receptors                          14
+Appreciating myocyte contraction                          19
+
+
+Inotropes and vasopressors
+Mastering catecholamine-based vasopressors                22
+Grasping catecholamine-based inotropes                    24
+Appreciating indirect-acting agents                       27
+Reviewing vasopressin                                     30
+Describing angiotensin II                                 33
+Administering phosphodiesterase inhibitors                35
+Using calcium-based agents for shock                      37
+Employing insulin and glucagon for shock                  40
+Using methylene blue and hydroxocobalamin for shock       42
+Recognizing steroids as adjuncts to vasopressor therapy   44
+Choosing parasympatholytic agents wisely                  47
+
+
+Special clinical situations
+Managing cardiogenic shock                                50
+Treating distributive shock                               52
+Handling valvular disease                                 54
+Managing right ventricular dysfunction                    56
+Treating diastolic dysfunction                            59
+Augmenting mechanical circulatory support           61
+Coping with toxic overdose                          63
+
+
+Putting it together
+Approaching undifferentiated hypotension            66
+Administering vasopressors                          69
+Assessing the effectiveness of your interventions   71
+
+
+References and recommended reading                  73
+       Chapter 1
+
+
+
+PHYSIOLOGIC EFFECTS
+OF VASOACTIVE AGENTS
+Introducing inotropes and vasopressors
+
+Vasopressor—or pressor, refers to an agent that causes vascular constric-
+tion, either venous or arterial. These may also be called vasoconstrictors.
+
+
+
+
+                               Vaso = vessel
+
+
+
+
+Inotrope—an agent that affects the force of the heart’s contraction.
+
+
+
+
+                  In = fiber / sinew; tropos = turn / move
+
+
+A positive inotrope is an agent that promotes inotropy, meaning that it
+increases contractility of the heart. Epinephrine and other beta-agonists
+are examples of positive inotropes.
+
+
+                                      5
+Agents with the opposite effect, leading to decreased contractility,
+are referred to as negative inotropes. Beta-blockers like metoprolol are
+negative inotropes.
+
+
+Sometimes terms will be joined and an agent with combined actions
+may be called an inodilator or an inopressor.
+
+
+
+
+                    Inotropy should not be confused
+                    with ionotropy, which means related
+                    to ion channels.
+
+
+
+
+Chronotropic agents—increase heart rate by affecting the electrical
+system and the neuronal stimulation to the heart.
+
+
+
+
+                   Chrono = time; tropos = turn / move
+
+
+Most agents that are positive inotropes (e.g., epinephrine) are also positive
+chronotropes. Agents which slow the heart rate (e.g., beta-blockers) are
+known as negative chronotropes and are usually also negative inotropes.
+
+
+
+
+                                       6
+Dromotropic agents—increase the conduction speed in the heart and the
+AV node. An example is epinephrine.
+
+
+
+
+         Dromo = running a race / course; tropos = turn / move
+
+
+
+
+Lusitropic agents—increase diastolic relaxation. Catecholamines pro-
+mote diastolic relaxation, which is largely a calcium-mediated process.
+Decreased calcium efflux from cells during repolarization will decrease
+lusitropy.
+
+
+
+
+              Lusis = loosen / relax; tropos = turn / move
+
+
+
+
+                                   7
+Bathmotropy—refers to myocardial excitability. Positive bathmotropic
+agents (e.g., epinephrine) make the myocardium easier to depolarize,
+by bringing the resting membrane potential and the depolarization
+threshold closer together. Negative bathmotropic conditions (e.g., hypo-
+kalemia) move the resting membrane potential farther from the depolar-
+ization threshold.
+
+
+                                                     +30
+
+
+
+
+                           Membrane potential (mV)
+                                                      -0
+
+                                                           Depolarization
+                                                           threshold                Less excitable
+                                                     -55
+                                                                                    More excitable
+                                                     -70
+                                                                Resting potential
+
+                                                                             Time
+
+
+
+
+                      Bathmos = step / threshold
+
+
+
+
+                                                               8
+Differentiating the types of shock
+In the normal situation, oxygen-rich blood flows down a pressure gradient
+from the aorta through the capillary beds, toward the venous circulation,
+where it delivers oxygen.
+
+
+Shock is defined by inadequate organ perfusion.
+
+
+Assessing perfusion can be challenging because
+we really don’t have great methods to assess
+most organ functions rapidly. Instead, we rely
+on surrogate measurements like blood pressure
+or cardiac output, which represents blood flow
+from the heart.
+
+
+However, it is possible to have adequate blood flow with a low pressure
+(e.g., in a resting state). It is also possible to have a normal cardiac
+output but inadequate organ perfusion (e.g., in a hypermetabolic state
+or with vasoconstriction in the distal vessels).
+
+
+If we focus on where the problem lies in this pathway, we can have a
+systematic and nearly universal approach to helping a patient with in-
+adequate organ perfusion. Is there not enough preload? Is there inade-
+quate afterload (low systemic vascular resistance)? Is there a problem
+with the heart itself?
+
+
+
+
+                                     9
+Four main classes of shock
+
+
+
+
+Hypovolemic       Distributive     Cardiogenic        Obstructive
+
+
+Treatment may vary depending on etiology
+• Volume resuscitation for hypovolemia
+• Increased vasoconstriction for distributive shock
+• Inotropy or interventions to improving the heart’s pumping function
+  for cardiogenic shock
+• Relieving an obstructive cause of shock (e.g., cardiac tamponade)
+
+
+Often, more than one of these derangements is present concomitantly.
+
+
+
+
+                                  10
+Performing vasoactive monitoring
+Although it is difficult to measure perfusion, there are several other
+pieces of information we can use to guide our therapies.
+
+
+Blood pressure
+This is one of the most basic elements of blood
+flow that is readily measurable. If there is
+inadequate pressure to force blood through the
+capillaries, there will be inadequate perfusion.
+
+
+However, pressure is not the only factor at play here. Constricted
+capillaries with a lot of resistance will need more pressure to create the
+same amount of flow, and by the same token, dilated capillaries with
+low resistance will not need as much pressure to sustain blood flow.
+
+
+We can measure blood pressure intermittently with noninvasive
+sphygmomanometers or continuously with an intravascular pressure
+monitor (usually called an arterial line). Obviously, continuous informa-
+tion improves our ability to titrate interventions but this must be bal-
+anced with the risks of the procedure including pain, infection or injury
+to the vasculature or surrounding structures.
+
+
+Arterial pressure monitoring may be confounded by over- or under-
+dampening of the pressure conduit to the sensor. This may be recog-
+nized by an increased or decreased pulse pressure respectively and the
+square wave test can help distinguish this.
+
+
+
+
+                                    11
+Pulse pressure
+The difference between systolic and diastolic blood pressure (the pulse
+pressure) can give an idea of the relative strength of pulses. Greater
+pulse pressure results from stronger contractions from the heart. It is
+subject to many confounding factors but a trend may still be useful.
+
+
+
+
+Invasive pulmonary artery catheters
+Perhaps even more important than pressure,
+we can also try to look at blood flow (car-
+diac output) through a variety of methods.
+Invasive pulmonary artery catheters may pro-
+vide estimates of cardiac output by measur-
+ing temperature changes using an intravascular
+thermistor. However, this is subject to error, especially in patients with
+tricuspid regurgitation or intracardiac shunting. The procedure may
+also be technically challenging and may expose the patient to risks of
+complications.
+
+
+                                   12
+Oxygen saturation
+Measurement of the oxygen saturation of central
+or mixed venous blood samples may provide an
+estimate of cardiac output using Fick’s law.
+However, this is also subject to error, mainly based
+on assumptions about oxygen consumption and it re-
+quires access to central or pulmonary arterial blood.
+
+
+Echocardiography
+Echocardiography may provide estimates of blood
+flow noninvasively but this is subject to operator
+error and availability of adequate imaging. It is also
+difficult to monitor continuously.
+
+
+Non-invasive cardiac output monitoring
+Other forms of non-invasive cardiac output monitoring (NICOM) have
+emerged as well. These are based on various different measurements
+including pulse contour analysis, bioimpedance, and phase-shifting,
+each subject to their own limitations.
+
+
+Each method of measurement has its own advantages and limitations.
+Being familiar with several techniques will allow flexibility, as some
+methods may be better suited for specific scenarios.
+
+
+
+
+                                     13
+Deciphering vasoactive receptors
+There are a variety of vasoactive receptors throughout the body. An un-
+derstanding of the physiologic basis for the effects of our interventions
+is essential to tailor appropriate therapy.
+
+
+Catecholamine receptors
+
+Catecholamine receptors are broadly classified as alpha and beta
+receptors, each with their own subtypes, and with many different func-
+tions. We will focus on the most hemodynamically significant.
+
+
+
+
+Alpha 1 agonism
+• Promotes smooth muscle contraction
+• Promotes vasoconstriction
+• Increases arterial pressure
+• Causes sphincter contraction in gastrointestinal tract and bladder
+
+
+Alpha 2 agonism
+• May lower blood pressure
+• May lower heart rate
+• May alter neurotransmitter function (especially norepinephrine)
+
+
+
+
+                                     14
+Beta 1 agonism
+• Increases heart rate (positive inotrope)
+• Increases contractility (positive chronotrope)
+• Increases cardiac output (dromotrope)
+
+
+Beta 2 agonism
+• Promotes smooth muscle relaxation
+• Lowers intravascular pressure
+
+
+Beta 3 agonism
+• Increases lipolysis
+• Promotes bladder relaxation
+• No major hemodynamic effects
+
+
+Dopamine receptors
+
+Several dopamine receptor subtypes exist throughout the body with
+various functions. Primarily in the brain, dopamine functions as a neu-
+rotransmitter and modulates neuroendocrine functions. However, dopa-
+mine receptors are also present in the vasculature.
+
+
+
+
+Dopamine receptor agonism
+• Promotes vasodilation
+• Promotes diuresis (because of vasodilation of renal arteries)
+
+
+
+
+                                   15
+Vasopressin receptors
+
+There are three types of vasopressin receptors identified.
+
+
+
+
+V1 receptors (which were previously called V1A) exist on vascular
+smooth muscle and platelets.
+
+
+V1 agonism
+• Promotes vasoconstriction
+• No marked effect on the pulmonary vasculature
+   - increase systemic blood pressure without raising pulmonary
+      vascular pressures
+• May promote thrombosis
+
+
+
+
+V2 receptors are present in the renal collecting ducts and endothelial cells.
+
+
+V2 agonism
+• Promotes an antidiuretic effect
+
+
+
+
+                    Another name for vasopressin is
+                    antidiuretic hormone (ADH).
+
+
+
+
+                                     16
+V3 receptors (previously called V1B receptors) exist on the anterior pitu-
+itary gland.
+
+
+V3 agonism
+• Promotes release of corticotropin
+   - affects hemodynamics through a steroid-mediated response
+
+
+
+
+Angiotensin II receptors
+
+Although several types of angiotensin II receptors have been identified,
+only the function of the type 1 receptor is well understood. It exists in the
+heart, blood vessels, kidney, adrenal cortex, lungs, and brain.
+
+
+
+
+Angiotensin II receptor (type I) agonism
+• Promotes vasoconstriction
+• Promotes aldosterone production
+• Promotes vasopressin release
+• Decreases renal blood flow
+
+
+
+
+                                     17
+Summary
+
+
+
+
+          18
+Appreciating myocyte contraction
+There are several pathways involved in myocyte contraction, which
+ultimately drives cardiac output and thus perfusion.
+
+
+Depolarization of the myocyte membrane (1) causes calcium influx
+through the L-type calcium channel (2). This increase in intracellular cal-
+cium causes release of additional calcium from the ryanodine receptors
+on the sarcoplasmic reticulum (3). This increase in calcium concentration
+stimulates myocyte contraction (4).
+
+
+
+                                                         Calcium channel
+
+
+
+
+                     (1)                           (2)
+
+
+
+
+            Sarco-
+         plasmatic
+         reticulum
+
+
+
+
+                     (3)                           (4)
+
+
+
+
+                                      19
+Cleavage of ATP (1) and a decrease in calcium, as it returns to the sar-
+coplasmic reticulum and leaves the cell (2), allows relaxation of the
+myocyte (3).
+
+
+
+
+          (1)                        (2)                      (3)
+
+
+
+
+Activation of the beta 1 receptor on the surface of the myocyte increases
+the presence of intracellular cyclic AMP (1). This, in turn, potentiates the
+action of the calcium channel (2), increasing the influx of calcium into
+the cell (3), and increasing contractility (4).
+
+
+   Beta 1 receptor
+
+
+
+
+                       (1)                        (2)
+
+
+
+
+                       (3)                        (4)
+
+
+
+                                      20
+    Chapter 2
+
+
+
+INOTROPES AND
+VASOPRESSORS
+Mastering catecholamine-based
+vasopressors
+
+Phenylephrine
+
+Phenylephrine is a vasopressor which works by stimulating alpha 1-
+adrenergic receptors in the peripheral vasculature.
+
+
+
+
+It does not stimulate any other receptors, thus does not induce tachy-
+cardia (in contrast to norepinephrine, which has some beta agonism).
+In fact, it will often result in a lower heart rate reflexively as the blood
+pressure increases. However, for this reason, it may also decrease
+cardiac output by increasing afterload and does cause pulmonary
+vasoconstriction, which may be particularly deleterious for the right
+ventricle.
+
+
+It is generally dosed from about 10–200 µg / min.
+
+
+
+
+                                    22
+Norepinephrine
+
+Norepinephrine, or noradrenaline, is a potent alpha-adrenergic agonist,
+which also has milder beta-adrenergic agonism.
+
+
+
+
+It has demonstrated advantages over other vasopressors for a variety of
+conditions including undifferentiated shock and septic shock.
+
+
+Norepinephrine is a very potent vasoconstrictor; therefore, it has the risk
+of tissue necrosis if it extravasates, so central venous administration is
+recommended when available.
+
+
+Its dosing range is commonly 0.01–3 µg / kg / min or 1–30 µg / min.
+
+
+
+
+                                    23
+Grasping catecholamine-based
+inotropes
+
+Epinephrine
+
+Epinephrine, or adrenaline, is a naturally occurring agonist for all types
+of adrenergic receptors.
+
+
+
+
+At lower concentrations, the beta adrenergic effects predominate, which
+results in an increase in heart rate and contractility from the beta 1
+receptor, and smooth muscle relaxation from the beta 2 receptor.
+
+
+
+
+With increasing doses, more alpha 1 agonism is present, leading to
+vasoconstriction.
+
+
+
+
+                                   24
+Epinephrine has the advantages of being multimodal in this fashion, and
+is well tolerated in the subcutaneous tissue if it extravasates.
+
+
+However, its dose-dependent response may be variable and unpredict-
+able, and it does cause increased lactate production and release, which
+may confound some methods to measure perfusion.
+
+
+The typical dosing range for an epinephrine infusion is 0.01–0.3 µg /
+kg / min.
+
+
+Dobutamine
+
+Dobutamine is a synthetic beta-agonist.
+
+
+It preferentially activates beta 1 receptors with about three times the
+affinity that it has for beta 2 receptors. It also has mild alpha-agonist
+activity, thus it may cause less hypotension than other inodilators.
+
+
+Dobutamine is typically dosed from 2–15 µg / kg / min, though higher
+doses are occasionally used.
+
+
+
+
+                                    25
+Isoproterenol
+
+Isoproterenol is a synthetic nonselective beta-agonist.
+
+
+
+
+It increases inotropy, and has a more profound chronotropic effect
+than dobutamine. It also causes more vasodilation and hypotension
+as a result of its less selective beta 2 agonism, and has almost no
+alpha activity.
+
+
+Isoproterenol is generally dosed at 0.5–5 µg / min, although doses up to
+20 µg / min are common for severe bradycardias.
+
+
+
+
+                                   26
+Appreciating indirect-acting agents
+
+Dopamine
+
+Dopamine functions primarily as a neurotransmitter. However, its role
+as a vasoactive agent outside of the brain has been recognized and
+used therapeutically since the 1960’s.
+
+
+
+
+It acts directly on dopamine receptors in the renal, mesenteric, and
+coronary vascular beds causing vasodilation.
+
+
+However, the majority of its hemodynamic effects are a result of conver-
+sion into norepinephrine and epinephrine. Increasing doses of dopamine
+lead to increased production of norepinephrine, and subsequently epi-
+nephrine, which lead to vasoconstriction and inotropy.
+
+
+
+
+                                  27
+At lower doses, usually 1–5 µg / kg / min, dopamine leads to stimulation
+of primarily dopamine. This leads to an increase in renal blood flow and
+inhibition of aldosterone, which increases diuresis and natriuresis.
+
+
+From 5–15 µg / kg / min, dopamine and its
+metabolites begin to have more effect on
+beta receptors, increasing heart rate and
+contractility.
+
+
+At doses over 15 µg / kg / min, it leads to
+increased activation of alpha 1 receptors,
+leading to vasoconstriction and increasing
+blood pressure.
+
+
+These ranges are approximate and these effects occur at a variable
+rate, thus dosing can be unpredictable. Even within the same patient,
+this may change over time. A stable physiologic effect is difficult to
+achieve.
+
+
+Dopamine increases diuresis and natriuresis (even at low doses) by
+promoting renal blood flow and inhibiting aldosterone release. How-
+ever, this has repeatedly failed to translate into a clinically important
+protective effect on the kidneys.
+
+
+For many of these reasons, dopamine is no longer considered a
+first-line agent for most shock scenarios, if alternative agents are
+available.
+
+
+
+
+                                    28
+Ephedrine
+
+Ephedrine is a sympathomimetic amine, which was first used therapeu-
+tically in 1926.
+
+
+
+
+Its hemodynamic effects occur primarily as a result of stimulation of
+norepinephrine release, so its clinical effects are similar to low doses
+of epinephrine or norepinephrine. It may be less effective in patients
+who are experiencing catecholamine depletion (e.g., in a prolonged
+period of critical illness).
+
+
+Ephedrine is generally dosed as a bolus, either 5–10 mg IV or 25–50 mg
+intramuscularly (IM).
+
+
+
+
+                                  29
+Reviewing vasopressin
+
+Vasopressin
+
+Vasopressin is a naturally occurring nona-
+peptide released from the posterior pituitary
+gland in response to elevated osmotic
+pressure, which gives rise to its other name
+antiduretic hormone (ADH).
+
+
+In humans, it contains arginine in the eighth position and thus may also
+be abbreviated as AVP (arginine vasopressin) to distinguish it from other
+forms of vasopressin in other animals.
+
+
+The body’s response to vasopressin does several
+things. First, it causes increased free water resorption
+from the collecting tubules in the kidney.
+
+
+The second and main effect of vasopressin is vaso-
+constriction of the peripheral vasculature, which is
+why it can be used as a vasopressor.
+
+
+Vasopressin also has several functions as a neurotransmitter. It causes
+release of factor VIII and von WiIllebrand factor from endothelial cells,
+which may improve platelet function.
+
+
+
+
+                                    30
+Vasopressin has at least two distinct advantages over other vasopressor
+infusions.
+
+
+1. Its effect is not pH sensitive. Catecholamine receptors have diminished
+response in an acidic environment, which is often confounding in shock
+scenarios.
+
+
+
+
+2. Vasopressin does not promote pulmonary vascular constriction. It
+may increase systemic vascular resistance without an increase in right
+ventricular (RV) afterload, which may exacerbate RV dysfunction.
+
+
+
+
+There is some experimental evidence to suggest that vasopressin may
+improve brain perfusion in cardiac arrest when compared to epinephrine.
+
+
+
+
+                                   31
+A vasopressin infusion is most commonly dosed as physiologic
+supplementation to augment other vasopressor therapy, in the range of
+0.01–0.04 units / min.
+
+
+Vasopressin may also be used at higher doses, up to 0.1 units / min,
+which may be useful to decrease bleeding from esophageal varices.
+However, at these higher doses, it carries a risk of splanchnic ischemia.
+
+
+A standard dose of vasopressin bolus during cardiac arrest is 40 units
+IV push.
+
+
+Synthetic analogs
+
+A synthetic analog, terlipressin, has been developed, which has increased
+selectivity for the V1 receptor, causing increased vasoconstriction with
+fewer renal effects. For this reason, it has been used in patients with
+hepatorenal syndrome.
+
+
+Most recently, selepressin, has been developed with even more specificity
+for the V1 receptor, but clinical data supporting its use are not yet available.
+
+
+Desmopressin (DDAVP) is another synthetic vasopressin analog with a
+longer half-life and increased selectivity for V2 receptors. Thus, it has
+fewer hemodynamic effects and is used more commonly for platelet
+dysfunction and diabetes insipidus.
+
+
+
+
+                                      32
+Describing angiotensin II
+Angiotensin II (ATII) is a naturally occurring hormone within the
+renin-angiotensin-aldosterone system.
+
+
+
+
+Angiotensinogen is converted into angiotensin I by renin and released
+by the kidneys as a response to hypoperfusion. Angiotensin-converting
+enzyme (ACE) converts this into angiotensin II, an action which may be
+blocked by ACE inhibitors.
+
+
+Angiotensin II increases vasopressin production from the pituitary gland
+as well as aldosterone production from the adrenal cortex. It also has
+direct venous and arterial vasoconstricting effects.
+
+
+Although it was first isolated in the 1930’s, it has only recently been FDA
+approved for therapeutic use based on data showing that it is able to
+elevate blood pressure in patients with vasodilatory shock.
+
+
+
+
+                                    33
+This may be a particularly useful agent in patients with hypotension
+refractory to other treatments, or those who were recently taking ACE
+inhibitors.
+
+
+ATII increases platelet aggregation, which may increase the likelihood
+of thrombotic complications.
+
+
+Angiotensin II is dosed as a continuous infusion, starting at 0.02 µg / kg /
+min (20 ng / kg / min) and increased up to 0.08 µg / kg / min during the
+first three hours. The recommended maintenance dose should not
+exceed 0.04 µg / kg / min.
+
+
+
+
+                                    34
+Administering
+phosphodiesterase inhibitors
+Milrinone is a bipyridine phosphodiesterase III inhibitor, which functions
+as an inodilator. Its physiologic response is similar to dobutamine but
+its mechanism of action is slightly different.
+
+
+Milrinone   inhibits    the   phosphodi-
+esterase III enzyme, which normally
+degrades cyclic AMP (cAMP) into
+AMP. As a result, there are increased
+levels of cAMP, which stimulates
+calcium-induced        calcium   release
+from the sarcoplasmic reticulum,
+leading to myocyte contraction.
+
+
+This also promotes vasodilation in vascular smooth muscle, thus hypo-
+tension is again a common effect in both the systemic and pulmonary
+vasculature, often more so than with dobutamine. As an inotrope and
+chronotrope, it is also associated with increased tachydysrhythmias.
+
+
+This may be problematic in patients with low blood pressure but may be
+advantageous for those with high systemic vascular resistance or with
+high pulmonary vascular resistance.
+
+
+Because of its separate mechanism of action, milrinone may be particu-
+larly useful in patients with saturated or down-regulated beta receptors,
+such as those already on beta-agonists, those in prolonged shock or with
+chronic heart failure, and those taking beta-blockers.
+                                    35
+The typical dosing range for a milrinone infusion is 0.25–0.75 µg / kg /
+min.
+
+
+Milrinone has a relatively long half-life of 2–4 hours, which is even longer
+in patients with renal failure, so the dose should be decreased in these
+patients.
+
+
+It can be used with or without a bolus (50 µg / kg), which may shorten
+the time of onset but is associated with more hypotension and
+tachycardia.
+
+
+Amrinone, or inamrinone, is another phosphodiesterase III inhibitor,
+from which milrinone was derived. It is less potent than milrinone and
+causes a dose-related thrombocytopenia, so it is used less frequently.
+
+
+
+
+                                    36
+Using calcium-based agents for shock
+
+Calcium
+
+Calcium plays a pivotal role in myocyte signaling and contraction. It
+is the final common pathway leading directly to myocyte contraction,
+thus manipulation of calcium concentration can have a profound
+inotropic effect.
+
+
+
+
+Calcium by itself is most commonly available in IV formulations paired
+with either gluconate or chloride. The bioavailability of each appears
+to be similar, though calcium chloride tends to be more caustic, so a
+continuous infusion is preferred through a central line, when possible.
+
+
+Most importantly, one gram of calcium chloride has about three times
+the amount of elemental calcium as a gram of calcium gluconate, so in
+emergent situations, calcium chloride is the preferred agent.
+
+
+
+
+                                   37
+Calcium chloride given to treat cardiogenic shock can be dosed as a 20
+mg / kg bolus, or simply a 1 g ampule followed by a 20–50 mg / kg / h
+infusion if there is a desirable response.
+
+
+Rapid administration of calcium chloride may be associated with flush-
+ing and nausea, which is usually self-limited.
+
+
+Levosimendan
+
+Levosimendan is a calcium sensitizer, which works
+functionally as an inodilator.
+
+
+In myocytes, it increases troponin C’s sensitivity to calcium, produc-
+ing increased contractility, but without increasing myocardial oxygen
+demand as much as catecholamine-based inotropes. It also works on
+ATP-dependent potassium channels, causing peripheral arterial and
+venous vasodilation.
+
+
+While it has not been approved in the USA, it is being used successfully
+for heart failure exacerbations in many other countries. Side effects are
+similar to other inodilators including tachycardia and hypotension, plus
+the potential to cause hypokalemia.
+
+
+It is dosed with or without a bolus of 6–24 µg / kg, followed by an infu-
+sion at 0.05–0.4 µg / kg / min.
+
+
+Levosimendan has active metabolites with a very long half-life, which
+may cause a prolonged effect, so infusion is recommended for less
+than 24 hours.
+
+
+                                    38
+Digoxin
+
+Digoxin is an effective rate control agent, often used for atrial fibrillation.
+
+
+It inhibits the sodium-potassium ATPase, increasing intracellular
+sodium levels. This, in turn, decreases activity of the sodium-calcium
+exchange pump, thereby increasing intracellular calcium. In this way,
+digoxin functions as a weak inotrope.
+
+
+
+
+While it may not be a first-line agent for most types of shock, it may be
+considered if rate control is needed, as it does not have the same nega-
+tive inotropic effects as other rate control agents. Its AV nodal-blocking
+function is not completely understood but believed to be mediated by
+parasympathetic stimulation.
+
+
+Bolus dosing of 500 µg, repeated once or twice over 24 hours, may be
+considered in the short term but maintenance therapy should be ad-
+justed to clinical effect, accounting for renal function. Signs of toxicity
+should be monitored.
+
+
+
+
+                                      39
+Employing insulin and glucagon
+for shock
+
+Insulin
+
+Insulin functions as an inotrope, which was first noted shortly after its
+discovery in the 1920’s. The exact mechanism by which this occurs is
+still debated. Most experts feel that by increasing the intracellular glu-
+cose concentration in the myocardium, metabolism is shifted from free
+fatty acids toward more efficient carbohydrate utilization.
+
+
+
+
+    Free fatty acids
+
+    Carbohydrates
+
+
+
+
+Because this is not a catecholamine-mediated response, high-dose
+insulin therapy has demonstrated great efficacy for treating beta-blocker
+and calcium channel blocker toxicity in both animals and humans. It is un-
+clear if this benefit translates to other patients with cardiogenic shock
+but it may be considered, especially for refractory cases.
+
+
+The dosing for high-dose insulin therapy includes an initial bolus of
+0.5–1.0 units / kg, followed by an infusion of 0.5–1 units / kg / h.
+
+
+
+
+                                    40
+This is likely to decrease serum glucose levels significantly, so a bolus
+of glucose (0.5 g / kg) is commonly included, followed by an
+infusion at 0.5–1.0 g / kg / h. This is often called high-dose insulin /
+glucose (HIG) therapy.
+
+
+This may also create intracellular potassium shifts, so a solution that
+also includes potassium, often abbreviated GIK, has also been commonly
+used, especially during organ support before transplant.
+
+
+
+
+Glucagon
+
+Glucagon is a polypeptide hormone
+and acts as an inotropic and chrono-
+tropic agent by increasing the intracel-
+lular cAMP concentration. In this way,
+it functions downstream from the beta
+receptor and is a mainstay of treatment
+for beta-blocker toxicity. It may also be
+an effective treatment for verapamil or diltiazem toxicity.
+
+
+Side effects of glucagon include nausea, vomiting, and hyperglycemia.
+
+
+Bolus dosing is 1–10 mg and an infusion of 25–75 µg / min may be
+used for sustained effect.
+
+
+
+
+                                    41
+Using methylene blue and
+hydroxocobalamin for shock
+
+Methylene blue
+
+Methylene blue is a recognized treatment for refractory distributive
+shock (also known as vasoplegia).
+
+
+It likely works by decreasing nitric oxide production through inhibition of
+nitric oxide synthase and soluble guanylate cyclase.
+
+
+
+
+The most notable risk with methylene blue is the development of se-
+rotonin syndrome. Although this is rare, the risk is elevated in patients
+taking other serotonergic medications (e.g., serotonin reuptake inhibi-
+tors or monoamine oxidase inhibitors).
+
+
+Patients with a history of glucose-6-phosphate dehydrogenase (G6PD)
+deficiency are at risk for hemolysis from oxidative stress.
+
+
+The typical dose of methylene blue is 1.5–2.5 mg / kg IV, with or without
+an infusion at 0.25–0.5 mg / kg / h for 4–6 hours.
+
+
+                                    42
+Hydroxocobalamin
+
+Hydroxocobalamin, or vitamin B12, is available as an injectable dietary
+supplement.
+
+
+It is approved for the treatment of cyanide poisoning but has been
+shown to improve blood pressure in vasoplegia. It likely also works
+through inhibition of nitric oxide synthase.
+
+
+Although it is considerably more expensive than methylene blue, it does
+not carry the risk for serotonin syndrome or hemolysis.
+
+
+It should be noted that hydroxocobalamin may interfere with certain lab
+tests (e.g., hemoglobin, creatinine, and coagulation studies). It also in-
+terferes with the dialysate sensor in hemodialysis machines, usually
+causing an alarm.
+
+
+The typical bolus dose for treating vasoplegia is 5 or 10 g over 15 min-
+utes, which can be repeated.
+
+
+
+
+                                    43
+Recognizing steroids as adjuncts
+to vasopressor therapy
+Adrenal insufficiency is an important cause of refractory shock. Even
+in patients without a history of adrenal problems, critical illness may
+unmask an inability to compensate for the added stress.
+
+
+Naturally occurring steroid hormones play many important roles
+inducing    both   glucocorticoid     and    mineralocorticoid       effects.
+Different agents have different durations of action, and different
+relative glucocorticoid and mineralocorticoid potencies.
+
+
+
+
+Generally, steroids influence gene expression and suppress immune
+responses. Glucocorticoids have a direct vasoconstricting effect and in-
+crease responsiveness to catecholamines like norepinephrine and epi-
+nephrine. They also blunt the vasodilatory effect of nitric oxide.
+
+
+
+
+                                    44
+There is conflicting evidence around the benefits of routine steroid ad-
+ministration for shock but it is a reasonable consideration, especially
+in refractory cases or if adrenal insufficiency is suspected.
+
+
+There is recent evidence that supplementation of other cofactors in the
+steroid pathway, specifically ascorbic acid and thiamine, may be bene-
+ficial for treating septic shock. It is reasonable to supplement these as
+well, especially in nutritionally depleted patients.
+
+
+
+
+Hydrocortisone is the agent most commonly used to treat shock. It
+provides both glucocorticoid and mineralocorticoid effects.
+
+
+The standard dose of hydrocortisone is 200 mg in divided doses over 24
+hours or as a continuous infusion. Most evidence has been studied with
+a seven-day course, followed by a taper.
+
+
+
+
+                                     45
+Relative potencies of common steroid agents
+
+Short-acting
+
+                                  Relative anti-       Relative        Plasma      Biologic
+                     Equivalent   inflammatory     mineralocorticoid   half-life   half-life
+Name                 dose (mg)       potency           potency           (h)          (h)
+
+Cortisone               25             0.8                2              0.5        8–12
+
+Hydrocortisone          20              1                 2             1.52        8–12
+
+
+
+
+Intermediate-acting
+
+                                  Relative anti-       Relative        Plasma      Biologic
+                     Equivalent   inflammatory     mineralocorticoid   half-life   half-life
+Name                 dose (mg)       potency           potency           (h)          (h)
+
+Methylprednisolone       4              5                 0             1.5–3      18–36
+
+Prednisone               5              4                 1               1        18–36
+
+Prednisolone             5              4                 1             2–3.5      18–36
+
+Triamcinolone            4              5                 0             3.5–4      18–36
+
+
+
+
+Long-acting
+
+                                  Relative anti-       Relative        Plasma      Biologic
+                     Equivalent   inflammatory     mineralocorticoid   half-life   half-life
+Name                 dose (mg)       potency           potency           (h)          (h)
+
+Betamethasone           0.6          20–30                0              5.5       36–54
+
+Dexamethasone          0.75          20–30                0             2–3.5      36–54
+
+
+
+
+                                             46
+Choosing parasympatholytic
+agents wisely
+A decrease in cardiac output or blood pressure may result from exces-
+sive parasympathetic stimulation from various stimuli (e.g., pain or
+emotional distress) or seemingly insignificant events like turning in bed
+or suctioning an endotracheal tube. While these are most commonly
+self-limited, they may precipitate a cardiac arrest or may be recurrent.
+
+
+If excess parasympathetic activity contributes to a shock state, a para-
+sympatholytic agent may be useful.
+
+
+Atropine
+
+Atropine is a belladonna alkaloid derived from the
+nightshade family of plants. It was first identified in
+1833. It is a muscarinic antagonist with strong anti-
+cholinergic properties.
+
+
+Atropine may be given as a 0.5–1 mg IV bolus, which will usually last
+about 30–60 minutes and may be repeated.
+
+
+Side effects include tachydysrhythmias, vision changes, dry mouth,
+and mental status changes, especially in elderly patients. At very low
+doses atropine may cause a paradoxical decrease in heart rate (pre-
+sumably by a central vagal response) and it is not recommended for
+use in patients who have received a heart transplant, due to the risk of
+prolonged heart block.
+
+
+                                   47
+Glycopyrrolate
+
+Glycopyrrolate, or glycopyrronium, is a synthetic deriv-
+ative of atropine, with the advantages that it is longer
+lasting and does not cross the blood brain barrier, thus
+it does not have an effect on mental status.
+
+
+It may be dosed in 0.1 mg boluses every few minutes (titrated to effect),
+although commonly a dose of 0.2 or 0.4 mg may be used and should last
+2–3 hours.
+
+
+
+
+                                   48
+     Chapter 3
+
+
+
+SPECIAL CLINICAL
+  SITUATIONS
+Managing cardiogenic shock
+Cardiogenic shock is inadequate perfusion originating from failure of
+the heart to pump blood effectively.
+
+
+The cardiac output produced by the heart is equal to the stroke volume
+times the heart rate.
+
+
+
+
+A low heart rate may be a cause of decreased cardiac output, or may
+be a contributing factor if a compensatory tachycardia is blunted. Chro-
+notropic agents may be useful if there is a reversible cause. These may
+include isoproterenol, dobutamine, milrinone, epinephrine, glucagon,
+calcium or dopamine.
+
+
+The preferred agent depends on whether there is alternate pathology
+present (e.g., ischemia, hyperkalemia or a nodal-blocking toxin).
+Isoproterenol is likely the most effective agent from the standpoint of
+purely increasing the heart rate, but it is associated with increased cost
+and risk of hypotension.
+
+
+While increasing heart rate may improve cardiac output, increasing
+stroke volume may also have a profound effect.
+
+
+                                   50
+A low stroke volume may be the result of a variety of different con-
+ditions including ischemia, cardiomyopathy, hypocalcemia or the
+presence of a toxin. There are also mechanical considerations (e.g.,
+hypovolemia or obstruction), which may decrease the stroke volume.
+
+
+The options for inotropic medications are essentially the same as chro-
+notropic agents, each with relative advantages and disadvantages.
+
+
+Dobutamine is likely the first-line agent for inotropy for most providers.
+
+
+For patients with high blood pressure, pulmonary hypertension or those
+taking beta-blockers or beta-agonists, milrinone may be the most effec-
+tive agent.
+
+
+For patients with a low blood pressure, an agent with combined inopres-
+sor effects (e.g., epinephrine) may be preferred.
+
+
+Low cardiac output as a result of hypocalcemia, adrenal insufficiency,
+hypovolemia, obstruction or toxic ingestion should obviously have the
+underlying cause addressed.
+
+
+Mechanical circulatory support may be considered as a temporary mea-
+sure to support the patient with cardiogenic shock if a reversible cause
+(e.g., coronary occlusion or toxic overdose) is present.
+
+
+
+
+                                    51
+Treating distributive shock
+Distributive shock occurs when there is inadequate vascular resistance
+resulting from vasodilation. This is very closely related to hypovolemia,
+since there is inadequate volume relative to the size of the vasculature.
+
+
+An assessment of preload may help with this distinction, either by point-
+of-care echocardiography, pressure monitoring or some other means.
+Both distributive or hypovolemic shock are likely to have a low after-
+load, which may cause a hyperdynamic left ventricle. However, hypovo-
+lemia is likely to also have a low preload, while purely distributive shock
+may have adequate preload.
+
+
+
+
+   Hypovolemia              Low preload             Low afterload
+
+
+
+
+ Distributive shock       Adequate preload          Low afterload
+
+
+IV fluids may be an initial step in management and may address con-
+comitant hypovolemia; however, vasopressors directed at increasing
+vascular resistance will address the physiology directly.
+
+
+                                    52
+It is important to remember that enhancing perfusion (not pressure)
+is ultimately the goal. Raising pressure with vasoconstrictors, without
+increasing flow, may not improve perfusion. However, they may allow
+blood flow to be redistributed toward more vital organs if used appropri-
+ately. For example, coronary perfusion relies heavily on diastolic pressure
+and may improve with peripheral vasoconstriction from a vasopressor.
+
+
+Phenylephrine—causes pure systemic and pulmonary vasoconstriction,
+which has the potential to decrease cardiac output by increasing afterload.
+
+
+Norepinephrine—adds some inotropy via mild beta 1 agonism and is
+generally the preferred agent in undifferentiated shock.
+
+
+Vasopressin—increases systemic but not pulmonary vascular resis-
+tance. Unlike the other agents, it is equally efficacious at a low pH, which
+is often present with shock.
+
+
+Angiotensin II—is a newer agent targeted at increasing vascular resis-
+tance through the renin-angiotensin system. It may be useful as an ad-
+junct for distributive shock, especially in patients resistant to other
+agents or those taking ACE inhibitors.
+
+
+Methylene blue or hydroxocobalamin—this may be considered in
+especially refractory cases of distributive shock, to increase perfusion
+pressure.
+
+
+Remember that some agents (e.g., dobutamine and milrinone) may also
+decrease systemic vascular resistance, so sometimes decreasing the
+dose or adding an additional vasopressor may be necessary.
+
+
+                                    53
+Handling valvular disease
+Abnormalities in the heart valves may have
+profound hemodynamic effects. These may be
+classified as cardiogenic shock but management
+differs from pure systolic dysfunction.
+
+
+Definitive treatment for these lesions is almost always surgical but med-
+ical therapies may help improve performance and support perfusion,
+while awaiting definitive repair.
+
+
+In general, stenotic lesions (e.g., mitral stenosis or aortic stenosis) tend
+to limit filling times, so tachycardia is not well tolerated when these types
+of lesions are present. Atrial fibrillation tends to create a particularly un-
+stable response, so it is prudent to avoid chronotropic agents, which may
+increase heart rate or promote tachydysrhythmias.
+
+
+
+
+                    Mitral stenosis        Aortic stenosis
+
+
+For aortic stenosis in particular, inotropic agents may exacerbate the
+problem by adding increased myocardial demand. Any additional force
+of contraction is limited by the fixed obstruction, so there is generally no
+increase in cardiac output.
+
+
+                                      54
+Rate control agents or cardioversion may be necessary for tachydys-
+rhythmias with stenotic valvular disease. If diastolic perfusion pressure
+is inadequate, vasopressors like phenylephrine or vasopressin, which do
+not promote inotropy or chronotropy, would be preferred.
+
+
+On the other hand, regurgitant lesions may provide better flow at higher
+heart rates, as there is less time for regurgitant flow.
+
+
+
+
+             Tachycardia                  Decreased regurgitation
+
+
+
+
+Positive inotropic and chronotropic agents like
+milrinone or dobutamine, may facilitate forward
+flow and perfusion.
+
+
+Some hypotension may be tolerated in these
+scenarios as well, as this will facilitate a down-
+stream pressure gradient, promoting forward
+flow.
+                                                           Heart    Aorta
+
+
+
+               For stenosis—target lower heart rate and higher
+               afterload.
+               For regurgitation­—target higher heart rate and lower
+               afterload.
+
+
+                                     55
+Managing right ventricular dysfunction
+Right ventricular (RV) failure is just as important as
+left ventricular causes of heart failure, though it is of-
+ten less recognized. Stroke volume and cardiac out-
+put through the right heart must match that of the
+left heart, except in cases of extreme shunting.
+
+
+However, there are several ways in which the right heart has a more
+fickle physiologic equilibrium.
+
+
+The right side of the heart is a much lower pressure system, thus the
+right ventricle is much more sensitive to increased afterload. This may
+result from chronic conditions like left-sided heart failure or lung disease
+and may be exacerbated acutely by volume overload, hypoxemia, hyper-
+carbia, acidosis or positive pressure ventilation.
+
+
+The left ventricle is perfused during diastole but the right ventricle has a
+smaller pressure gradient. It relies on perfusion throughout the cardiac
+cycle.
+
+          Systolic
+
+
+
+               Pressure
+                                         Blood
+                                         flow                      Blood flow
+                                         to LV                     to RV
+
+         Diastolic
+
+
+                          Left ventricle (LV)         Right ventricle (RV)
+
+
+
+
+                                                 56
+Therefore, a small increase in the right ventricular wall tension can have
+dramatic effects on right ventricle perfusion.
+         Systolic
+
+
+
+              Pressure
+                                         Blood
+                                         flow                      Blood flow
+                                         to LV                     to RV
+        Diastolic
+
+
+
+
+                          Left ventricle (LV)         Right ventricle (RV)
+
+Increased right ventricular pressure also increases regurgitation
+through the tricuspid valve, further limiting forward flow.
+
+
+Increased pressure in the right ventricle will also distort the normal
+architecture of the heart, decreasing the efficiency of right ventricu-
+lar contraction and shifting the intraventicular septum to the left. This,
+in turn, limits left ventricular filling and stroke volume and is known as
+ventricular interdependence.
+
+
+
+
+                         Normal heart                 Right ventricular overload
+
+If possible, reversing underlying causes of pulmonary hypertension
+should be addressed. This may include the use of pulmonary vasodila-
+tors or pulmonary artery catheters in some patients, which should be
+done with expert consultation. Transfer to a specialized center or one ca-
+pable of mechanical circulatory support should be considered early for
+patients with right-heart dysfunction.
+
+
+                                                 57
+Positive pressure ventilation—should be avoided, if possible, although
+oxygenation and ventilation should be optimized, so this may be a tenu-
+ous balance.
+
+
+Diuresis—may be helpful to decrease filling pressures, however, hypovo-
+lemia may also decrease cardiac output. If fluid boluses are necessary,
+they should be small with frequent reassessment.
+
+
+Inotropic agents may be particularly useful with right ventricular dysfunc-
+tion but attention should be paid to their additional effects.
+
+
+Dobutamine and milrinone—may increase inotropy but usually decreases
+blood pressure, which may compromise RV perfusion.
+
+
+Vasoprossin—vasopressors may help maintain perfusion pressure (es-
+pecially vasopressin), which will not increase pulmonary vascular resis-
+tance and may in fact lower it.
+
+
+Norepinephrine and epinephrine—remain viable options, depending on
+the degree of inotropy and vasopressor activity needed.
+
+
+Phenylephrine—should generally be avoided for right ventricular dysfunc-
+tion because it increases right ventricular afterload and does not support
+inotropy.
+
+
+Non-sinus rhythms are not well tolerated in the setting of right ventricular
+dysfunction because the loss of atrial contraction decreases the cardi-
+ac output. Atrial fibrillation should generally be cardioverted immediately,
+particularly if the patient is unstable.
+
+
+                                      58
+Treating diastolic dysfunction
+Diastolic relaxation is an active process, which is as important to cardiac
+output as systolic contraction. Patients with poor systolic function most
+often have diastolic dysfunction but diastolic dysfunction may also exist
+with a preserved ejection fraction.
+
+
+
+
+                Diastolic function ≠ systolic function
+
+
+
+
+Common causes of impaired diastolic relaxation
+• Fibrosis
+• Hypertrophy
+• Genetic mutations
+• Electrolyte changes
+
+
+The severity of diastolic dysfunction is most commonly assessed by
+echocardiography and graded from 0–4.
+
+
+
+
+Small changes in preload and afterload have more dramatic ef-
+fects in hearts with diastolic dysfunction. Improvements may be not-
+ed by decreasing ventricular filling pressure if it is high (e.g., diuresis
+
+
+                                      59
+or lowering blood pressure) or increasing it if it is low (e.g., volume
+replacement or vasopressor therapy).
+
+
+Ischemia has a detrimental effect on diastolic function, which may
+decrease cardiac output. Attempts should be made to optimize
+perfusion and decrease myocardial oxygen demand (e.g., through
+sedation or pain control).
+
+
+Positive pressure ventilation may decrease preload, decrease afterload,
+and provide improved oxygenation and decreased work of breathing, all
+of which are likely to improve diastolic function, especially in a patient
+with excessive intravascular volume.
+
+
+Tachycardia impairs diastolic filling time. Agents to slow the heart rate
+may be useful. However, these agents are also negatively inotropic and
+may impair systolic function. Conversely, positive inotropes tend to
+increase heart rate and limit diastolic filling time.
+
+
+Beta-adrenergic agonists like epinephrine and dobutamine may help
+promote diastolic relaxation as long as filling time is adequate.
+
+
+Calcium reuptake into the sarcoplasmic reticulum plays an important
+role in diastolic function and electrolytes should be kept normal. Levo-
+simendan may help promote inotropy through calcium release and ap-
+pears to improve diastolic function. However, this benefit may be limited
+by the presence of tachycardia.
+
+
+
+
+                                     60
+Augmenting mechanical
+circulatory support
+Mechanical circulatory support may help
+augment ventricular function. This may be
+available for the right ventricle, the left ven-
+tricle or both. These may be temporary or
+more permanent.
+
+
+Intra-aortic balloon pumps (IABPs)—have been used for many years to
+provide support during cardiogenic shock. They augment diastolic filling
+pressure by expanding in the aorta during diastole. In general, they pro-
+vide about 1–2 L / min of augmented cardiac output.
+
+
+Percutaneous ventricular assist devices—such as Impella® and Tandem
+Heart® have been developed more recently to provide more flow (up to
+several L / min) to support cardiac output.
+
+
+Extracorporeal membranous oxygenation (ECMO) devices—are able to
+provide biventricular support (with a venous-arterial configuration) at
+higher flow rates, and can also oxygenate blood to augment the function
+of the lungs.
+
+
+Cardiopulmonary bypass (CPB)—is able to replace the heart and lung
+functions completely but is generally available only in the operating room.
+
+
+Although mechanical devices can augment flow, patients often need ad-
+ditional support for blood pressure with vasopressor agents (e.g., norepi-
+nephrine or vasopressin).
+                                     61
+Patients may also require inotropic support, especially if only one side of
+the heart is being supported mechanically. Most commonly this would
+mean an inotrope like dobutamine to support right ventricular function,
+while the left ventricle is supported with a device like an IABP or Impella®.
+
+
+
+
+If the blood pressure is low, an inopressor like epinephrine may be
+advantageous.
+
+
+
+
+If vasodilation is desired, an inodilator like milrinone or dobutamine may
+be preferred, particularly for right-heart support in patients with a high-
+er blood pressure.
+
+
+
+
+It is important to remember that mechanical circulatory support pro-
+vides temporary assistance as a bridge for patients in whom an endpoint
+is clear. For example, a disease process in which recovery is expected or
+definitive treatment is available (e.g., organ transplant).
+
+
+                                      62
+Coping with toxic overdose
+The pathway for myocyte contraction can be interrupted in several places.
+
+
+The most common significant cardiotoxic overdoses are non-
+dihydropyridine calcium channel blockers (e.g., diltiazem, verapamil)
+and beta-blockers (e.g., metoprolol, atenolol).
+
+
+
+
+         Calcium channel blocker                  Beta-blocker
+
+
+
+
+Calcium channel blocker toxicity
+
+Calcium channel blockers interrupt the influx of calcium at the cell mem-
+brane, which can decrease heart rate and the strength of contraction.
+
+
+This may be overcome by competitive agonism with aggressive calcium
+chloride administration.
+
+
+In addition, glucagon may help create an alternative pathway for myo-
+cyte contractility.
+
+
+Epinephrine or other inotropes or vasopressors may be considered as
+adjunctive therapies as well.
+
+
+                                    63
+For refractory cases, high-dose insulin and glucose infusion or intrave-
+nous lipid emulsion may be considered. Ultimately, mechanical circula-
+tory support may be considered for recoverable cases.
+
+
+Beta-blocker toxicity
+
+Beta-blockers on the myocyte also block the influx of calcium through
+the calcium channel and blunt the increase in intracellular cyclic AMP.
+
+
+Again, this may be bypassed with the use of glucagon. Calcium supple-
+mentation may also be helpful in overdose.
+
+
+Beta-agonists like isoproterenol, dobutamine or epinephrine may help
+offset the receptor blocking effect.
+
+
+High-dose insulin and glucose, lipid emulsion or mechanical circulatory
+support are again considered for refractory cases.
+
+
+
+
+                                       64
+      Chapter 4
+
+
+
+PUTTING IT TOGETHER
+Approaching undifferentiated
+hypotension
+An organized approach to a patient with shock can help direct interven-
+tions toward improving perfusion. By evaluating cardiac pump function,
+preload, and afterload, the source(s) of derangement can quickly be iden-
+tified and addressed, even if the cause of shock is not yet identified.
+
+
+
+
+         Ventricular dysrhythmia             Valvular abnormality
+
+
+Causes of cardiogenic shock may be obvious (e.g., ventricular dysrhyth-
+mia) or may be more cryptic (e.g., valvular abnormaility). A point-of-care
+ultrasound examination can quickly identify severe valvular abnormalities
+and can identify if the contraction is hyperdynamic, normal or depressed.
+
+
+If there is a significantly depressed systolic function (low ejection frac-
+tion), an agent with inotropy (epinephrine or dobutamine) is much more
+likely to be effective in restoring adequate cardiac output than a vaso-
+constrictor alone.
+
+
+If the heart is normal or hyperdynamic, then the question becomes wheth-
+er there is inadequate preload, afterload or both. Again, ultrasound is one
+way to establish that there is adequate preload to the ventricles.
+
+
+                                    66
+Again, it is useful to identify whether the problem is related to the left or
+right side of the heart or both.
+
+
+Once adequate preload and cardiac function are established then after-
+load is the only problem that remains and a vasoconstrictor (e.g., norepi-
+nephrine or phenylephrine) can help augment vascular resistance.
+
+
+In the same fashion, we can identify which of the four types of shock are
+present.
+
+
+Cardiogenic shock—results in inadequate pump function, depressed
+systolic function or valvular abnormalities.
+
+
+Hypovolemic shock—results in inadequate preload and underfilled ventri-
+cles or vasculature.
+
+
+Distributive shock—results in inadequate afterload and hypotension
+despite normal heart and filling pressures.
+
+
+Obstructive shock—may cause any of these, depending on where the
+lesion is. Compression of the vena cava may cause inadequate right
+ventricular preload, while compression of the heart may cause inade-
+quate pump function.
+
+
+If the lesion is between the right and left ventricles (e.g., pulmonary
+embolism), then preload to the right ventricle will seem adequate with
+or without good contractility, while the left ventricle will usually appear
+underfilled and may be hyperdynamic.
+
+
+
+
+                                     67
+Is the heart function adequate?         Dysrhythmia       defibrillate /
+                                  No
+                                        cardiovert / antidysrhythmic
+                                        Systolic dysfunction    inotrope /
+                                        mechanical circulatory support
+                Yes
+                                        Valvular abnormality       surgery
+
+
+
+
+  Is there adequate preload?            Hypovolemia, hemorrhage
+                                  No    provide volume resuscitation
+
+                Yes
+
+
+
+ Is there adequate afterload?           Vasodilatory shock
+                                  No       vasopressor
+
+                Yes
+
+
+
+Is there a difference between           Look for other causes of shock:
+     RV and LV function?          No    adrenal insufficiency, myxedema
+                                        coma, hypocalcemia.
+
+                Yes
+
+
+
+Increased RV afterload
+    pulmonary embolism,
+tension pneumothorax
+RV dysfunction
+   RV infarct, hypoxemia
+Isolated LV dysfunction
+    ischemia
+
+
+
+
+                                   68
+Administering vasopressors
+The most common method for administering inotropes and vasopres-
+sors is a continuous infusion through a central line. This ensures intra-
+vascular administration and decreases the likelihood for extravasation.
+However, it brings with it the risk of complications associated with cen-
+tral line placement and may cause delay, as it takes time to place.
+
+
+
+
+                               Central line
+
+
+
+Administration of vasoactive agents through a peripheral IV is becoming
+increasingly established. This may be considered, especially in the short
+term and with lower dose infusions or while central access is being es-
+tablished.
+
+
+
+
+                            Peripheral infusion
+
+
+                                    69
+Agents like phenylephrine and epinephrine are approved for subcutane-
+ous administration, so even if extravasation occurs it is rarely a problem.
+However, agents like norepinephrine and dopamine may cause complica-
+tions if there is extravasation. Fortunately, significant complications from
+vasoactive extravasations remain rare and the benefits of peripheral ad-
+ministration must be considered in each scenario as well.
+
+
+Traditional dosing during cardiac arrest is 1 mg of epinephrine or 40
+units of vasopressin as an IV bolus, but these extremely large doses may
+not be ideal for many patients.
+
+
+Another way to administer vasoactive agents is through small boluses,
+often called push doses. Most commonly, these would consist of a dilut-
+ed concentration of a vasoactive agent (e.g., 10 µg / mL epinephrine or
+100 µg / mL phenylephrine), administered in small doses (e.g., 1–2 mL at
+a time).
+
+
+
+
+                                    70
+Assessing the effectiveness
+of your interventions
+It is important to assess the efficacy after an intervention in order
+to determine if it was successful. Assessing tissue perfusion can be
+challenging.
+
+
+Serum lactate can give a global estimate of tissue perfusion but it may
+be confounded by regional variation, other sources of lactate produc-
+tion like epinephrine or by multiple concomitant processes (as occurs
+in sepsis).
+
+
+It may be useful to look at surrogates for organ perfusion like the rate
+of oxygen extraction, as measured by a central venous or mixed venous
+blood gas.
+
+
+Arteriovenous differences in carbon dioxide can give estimates of
+oxygen utilization at the tissue level since more carbon dioxide is present
+on the venous side when there is inadequate perfusion. Methods to mea-
+sure this are not ubiquitous.
+
+
+
+
+                                    71
+Cardiac output can be a useful estimate of blood flow in the larger
+vessels and can be measured through several means. However, it does
+not guarantee adequate oxygen delivery at the microvascular level
+and must be interpreted in the context of how much blood flow is need-
+ed for a specific scenario.
+
+
+Non-invasive cardiac output monitors (NICOM) and peripheral perfusion
+index devices may also give an idea about flow but also do not deter-
+mine if this flow is adequate for perfusion.
+
+
+Looking for a positive change after an intervention is the only way to
+assess if the intervention was successful. This may be an increase in
+blood pressure or cardiac output or improvement in organ function.
+
+
+
+
+                                    72
+References and recommended reading
+
+Chapter 1
+Augusto, JF, Teboul, JL, Radermacher, P, et al. 2010. Interpretation of blood
+pressure signal: physiological bases, clinical relevance, and objectives
+during shock states. Intensive Care Medicine. 37: 411–419.
+
+PMID: 21153400
+
+Critchley, LA, Lee, A, and Ho, AM. 2010. A critical review of the ability of
+continuous cardiac output monitors to measure trends in cardiac output.
+Anesthesia and Analgesia. 11: 1180–1192.
+
+PMID: 20736431
+
+Chow, JH, Abuelkasem, E, Sankova, S, et al. 2019. Reversal of vasodilatory
+shock: current perspectives on conventional, rescue, and emerging
+vasoactive agents for the treatment of shock. Anesth Analg. July 23.
+
+PMID: 31348056
+
+De Backer, D and Vincent, J. 2013. Circulatory shock. N Engl J Med. 369:
+1726–1734.
+
+PMID: 24171518
+
+Fearnley, CJ, Roderick, HL, and Bootman, MD. 2011. Calcium signaling in
+cardiac myocytes. Cold Spring Harb Perspect Biol. 3: a004242.
+
+PMID: 21875987
+
+Hollenberg, SM. 2011. Vasoactive drugs in circulatory shock. Am J Respir
+Crit Care Med. 183: 847–855.
+
+PMID: 21097695
+
+Link, MS, Berkow, LC, Kudenchuk, PJ, et al. 2015. Part 7: Adult advanced
+cardiovascular life support: 2015 american heart association guidelines
+update for cardiopulmonary resuscitation and emergency cardiovascular
+care. Circulation. 132: S444–S464.
+
+PMID: 26472995
+
+
+
+                                      73
+Norris, GW. Cardiac arrhythmia.1908. Am J Med Sci. 136: 46–66.
+
+Overgaard, CB and Dzavik, V. 2018. Inotropes and vasopressors. Circulation.
+118: 1047–1056.
+PMID: 18765387
+
+https://pulmccm.org/critical-care-review/vasopressors-inotropes-shock-
+syndromes-review/
+
+Chapter 2
+Baruch, L, Patacsil, P, Hameed, A, et al. 2001. Pharmacodynamic effects of
+milrinone with and without a bolus loading infusion. Am Heart J. 141: 266–273.
+
+PMID: 11174341
+
+Brady, WJ, Swart, G, DeBehnke, DJ, et al. 1999. The efficacy of atropine in
+the treatment of hemodynamically unstable bradycardia and atrioventricular
+block: prehospital and emergency department considerations. Resuscitation.
+41: 47–55.
+PMID: 10459592
+
+Chow, JH, Abuelkasem, E, Sankova, S, et al. 2019. Reversal of vasodilatory
+shock: current perspectives on conventional, rescue, and emerging
+vasoactive agents for the treatment of shock. Anesth Analg. July 23.
+
+PMID: 31348056
+
+De Backer, D, Biston P, Devriendt, J, et al. 2010. Comparison of dopamine
+and norepinephrine in the treatment of shock. N Engl J Med. 362: 779–789.
+
+PMID: 20200382
+
+Debaveye, YA and Van den Berghe, GH. 2004. Is there still a place for
+dopamine in the modern intensive care unit?. Anesth Analg. 98: 461–468.
+
+PMID: 14742388
+
+Ehle, M, Patel, C, and Giugliano, RP. 2011. Digoxin: clinical highlights: a review
+of digoxin and its use in contemporary medicine. Crit Pathw Cardiol. 10:
+93–98.
+
+PMID: 21988950
+
+
+                                       74
+Fearnley, CJ, Roderick, HL, and Bootman, MD. 2011. Calcium signaling in
+cardiac myocytes. Cold Spring Harb Perspect Biol. 3: a004242.
+
+PMID: 21875987
+
+Hernández-Cascales, J. 2018. Does glucagon have a positive inotropic
+effect in the human heart?. Cardiovasc Diabetol. 17: 148.
+
+PMID: 30482191
+
+Hollenberg, SM. 2011. Vasoactive drugs in circulatory shock. Am J Respir
+Crit Care Med. 183: 847–855.
+
+PMID: 21097695
+
+Jentzer, JC, Coons, JC, Link, CB, et al. 2015. Pharmacotherapy update
+on the use of vasopressors and inotropes in the intensive care unit. J
+Cardiovasc Pharmacol Ther. 20: 249–260.
+
+PMID: 25432872
+
+Khanna, A, English, SW, Wang, XS, et al. 2017. Angiotensin II for the
+treatment of vasodilatory shock. N Engl J Med. 377: 419–430.
+
+PMID: 28528561
+
+Marinosci, GZ, De Robertis, E, De Benedictis, G, et al. 2012. Dopamine use in
+intensive care: are we ready to turn it down?. Transl Med UniSa. 4: 90–94.
+
+PMID: 23905068
+
+Ortoleva, JP and Cobey, FC. 2019. A systematic approach to the treatment
+of vasoplegia based on recent advances in pharmacotherapy. J Cardiothorac
+Vasc Anesth. 33: 1310–1314.
+
+PMID: 30598380
+
+Overgaard, CB and Dzavik, V. 2018. Inotropes and vasopressors. Circulation.
+118: 1047–1056.
+PMID: 18765387
+
+Parissis, JT, Rafouli-Stergiou, P, Stasinos, V, et al. 2010. Inotropes in cardiac
+patients: update 2011. Curr Opin Crit Care. 16: 432–441.
+
+PMID: 20711077
+
+
+                                       75
+Pierrakos, C, Velissaris, D, Franchi, F, et al. 2014. Levosimendan in critical
+illness: a literature review. J Clin Med Res. 6: 75–85.
+
+PMID: 24578748
+
+Prigent, H, Maxime, V, and Annane, D. 2004. Clinical review: corticotherapy in
+sepsis. Crit Care. 8: 122–129.
+
+PMID: 15025773
+
+Seifert, PC, Yang, Z, and Reines, HD. 2016. Crisis management of unstable
+bradycardia in the OR. AORN J. 103: 215–223.
+
+PMID: 26849986
+
+Shapira, N, Schaff, HV, White, RD, et al. 1984. Hemodynamic effects of
+calcium chloride injection following cardiopulmonary bypass: response to
+bolus injection and continuous infusion. Ann Thorac Surg. 37: 133–140.
+
+PMID: 6696546
+
+Slob, EMA, Shulman, R, and Singer, M. 2017. Experience using high-dose
+glucose-insulin-potassium (GIK) in critically ill patients. J Crit Care. 41: 72–77.
+
+PMID: 28500918
+
+Ukor, IF and Walley, KR. 2019. Vasopressin in vasodilatory shock. Crit Care
+Clin. 35: 247–261.
+
+PMID: 30784607
+
+Venkatesh, B and Cohen, J. 2019. Hydrocortisone in vasodilatory shock. Crit
+Care Clin. 35: 263–275.
+
+PMID: 30784608
+
+https://pulmccm.org/critical-care-review/vasopressors-inotropes-shock-
+syndromes-review/
+
+
+Chapter 3
+Bailey, B. 2003. Glucagon in beta-blocker and calcium channel blocker
+overdoses: a systematic review. J Toxicol Clin Toxicol. 41: 595–602.
+
+PMID: 14514004
+
+
+                                        76
+Chow, JH, Abuelkasem, E, Sankova, S, et al. 2019. Reversal of vasodilatory
+shock: current perspectives on conventional, rescue, and emerging
+vasoactive agents for the treatment of shock. Anesth Analg. July 23.
+
+PMID: 31348056
+
+De Backer, D and Vincent, J. 2013. Circulatory shock. N Engl J Med. 369:
+1726–1734.
+
+PMID: 24171518
+
+Hollenberg, SM. 2011. Vasoactive drugs in circulatory shock. Am J Respir
+Crit Care Med. 183: 847–855.
+
+PMID: 21097695
+
+Nickson, CP and Little, M. 2009. Early use of high-dose insulin euglycaemic
+therapy for verapamil toxicity. Med J Aust. 191: 350–352.
+
+PMID: 19769561
+
+Parissis, JT, Rafouli-Stergiou, P, Stasinos, V, et al. 2010. Inotropes in cardiac
+patients: update 2011. Curr Opin Crit Care. 16: 432–441.
+
+PMID: 20711077
+
+Reddy, YN and Borlaug, BA. 2016. Heart failure with preserved ejection
+fraction. Curr Probl Cardiol. 41: 145–188.
+
+PMID: 26952248
+
+Robertson, J, Long, B, and Koyfman, A. 2016. The emergency management
+of ventricular assist devices. Am J Emerg Med. 34: 1294–1301.
+
+PMID: 27162114
+
+Wilcox, SR, Kabrhel, C, and Channick, RN. 2015. Pulmonary hypertension
+and right ventricular failure in emergency medicine. Ann Emerg Med. 66:
+619–628.
+
+PMID: 26342901
+
+
+https://www.emra.org/emresident/article/the-crashing-patient-with-
+critical-aortic-stenosis/
+
+
+
+                                       77
+Chapter 4
+Cardenas-Garcia, J, Schaub, KF, Belchikov, YG, et al. 2015. Safety of peripheral
+intravenous administration of vasoactive medication. J Hosp Med. 10: 581–585.
+
+PMID: 26014852
+
+Chow, JH, Abuelkasem, E, Sankova, S, et al. 2019. Reversal of vasodilatory
+shock: current perspectives on conventional, rescue, and emerging
+vasoactive agents for the treatment of shock. Anesth Analg. July 23.
+
+PMID: 31348056
+
+De Backer, D and Vincent, J. 2013. Circulatory shock. N Engl J Med. 369:
+1726–1734.
+
+PMID: 24171518
+
+Delaney, A, Finnis, M, Bellomo, R, et al. 2019. Initiation of vasopressor
+infusions via peripheral versus central access in patients with early
+septic shock: a retrospective cohort study. Emerg Med Australas. doi:
+10.1111/1742-6723.13394.
+
+PMID: 31599084
+
+Hariri, G, Joffre, J, Leblanc, G, et al. 2019. Narrative review: clinical
+assessment of peripheral tissue perfusion in septic shock. Ann Intensive
+Care. 9: 37.
+
+PMID: 30868286
+
+Hasanin A, Mukhtar, A, and Nassar, H. 2017. Perfusion indices revisited. J
+Intensive Care. 5: 24.
+
+PMID: 28331621
+
+Hollenberg, SM. 2011. Vasoactive drugs in circulatory shock. Am J Respir
+Crit Care Med. 183: 847–855.
+
+PMID: 21097695
+
+Loubani, OM and Green, RS. 2015. A systematic review of extravasation and
+local tissue injury from administration of vasopressors through peripheral
+intravenous catheters and central venous catheters. J Crit Care. 30: e9–e17.
+
+PMID: 25669592
+                                       78
+Reynolds, PM, MacLaren, R, Mueller, SW, et al. 2014. Management of
+extravasation injuries: a focused evaluation of noncytotoxic medications.
+Pharmacotherapy. 34: 617–632.
+
+PMID: 24420913
+
+Weingart, S. 2015. Push-dose pressors for immediate blood pressure
+control. Clin Exp Emerg Med. 2: 131–132.
+
+PMID: 27752585
+
+
+
+
+                                    79
+
